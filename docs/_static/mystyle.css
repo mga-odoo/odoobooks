@@ -1,0 +1,12 @@
+
+body {
+	font-family: Lato,Helvetica,sans-serif;;
+}
+
+.rst-content .section>a>img{
+	border: 2px solid #CCC;
+}
+
+.section>img {
+	border: 2px solid #CCC;
+}
