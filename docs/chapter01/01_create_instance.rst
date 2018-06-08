@@ -55,7 +55,7 @@ The instance has to be activated with in 4 hours to keep it running forever, els
 
 Video
 -----
-Let’s see how to get start with the first free application, activate it and start using the Odoo online instance.
+Let’s see how to get start with the first free application, activate it and start using the Odoo online instance. Access the video at https://www.youtube.com/watch?v=fAi-NGirE44
 
 .. youtube:: fAi-NGirE44
     :width: 695

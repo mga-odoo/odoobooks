@@ -19,7 +19,7 @@ It is advisable to make a duplicate copy of the production database before you c
 
 .. danger:: Make sure that you verify the url on your browser before you change any configuration of your instance.
 
-Let's see how you can create a test instance before to change any configuration on your production instance. 
+Let's see how you can create a test instance before to change any configuration on your production instance. Access the video at https://www.youtube.com/watch?v=IxILl8z5I7w
 
 Video
 -----

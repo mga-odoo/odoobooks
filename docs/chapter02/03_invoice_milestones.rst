@@ -63,6 +63,7 @@ Follow the same workflow to invoice your remaining milestones.
 
 Video
 -----
+Access the video at https://www.youtube.com/watch?v=m7Fmq0H3qo8
 
 .. youtube:: m7Fmq0H3qo8
     :width: 695
