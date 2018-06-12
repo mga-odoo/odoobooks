@@ -31,7 +31,15 @@ Book Index
    about.rst
    author.rst
    reviewer.rst
-   toc.rst
+   
+   odoo/index.rst
+   sales/index.rst
+   accounting/index.rst
+   inventory/index.rst
+   point-of-sale/index.rst
+   project/index.rst
+   manufacturing/index.rst
+   human-resource/index.rst
 
 Indices and tables
 ------------------
