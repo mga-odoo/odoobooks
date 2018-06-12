@@ -13,70 +13,100 @@ Getting Started with Odoo Online
 .. toctree::
    :maxdepth: 1
 
-   chapter01/00_introduction.rst
-   chapter01/01_create_instance.rst
-   chapter01/03_duplicate_instance.rst
-   chapter01/02_odoo_mobile.rst
-   chapter01/04_debug_mode.rst
-   chapter01/05_create_users.rst
-   chapter01/06_test_drive.rst
+   odoo/00_introduction.rst
+   odoo/01_create_instance.rst
+   odoo/03_duplicate_instance.rst
+   odoo/02_odoo_mobile.rst
+   odoo/04_debug_mode.rst
+   odoo/05_create_users.rst
+   odoo/06_test_drive.rst
 
-===========================
-Implement Sales Application
-===========================
+================
+Sales Management
+================
 .. toctree::
    :maxdepth: 1
    
-   chapter02/introduction.rst
-   chapter02/create_first_quote.rst
-   chapter02/quotation_template.rst
-   chapter02/sugested_product.rst
-   chapter02/invoice_milestones.rst
+   sales/introduction.rst
+   sales/create_first_quote.rst
+   sales/send_quotation_by_email.rst
+   sales/set_default_terms_and_conditions.rst
+   sales/set_default_tax.rst
 
-====================
-Implement Accounting
-====================
+   sales/quotation_template.rst
+   sales/sugested_product.rst
+
+   sales/online_approval.rst
+   sales/online_payment.rst
+   sales/confirm_and_pay_online.rst
+
+   sales/invoice_milestones.rst
+   sales/invoice_based_on_timesheet.rst
+
+======================
+Invoicing & Accounting 
+======================
 .. toctree::
    :maxdepth: 1
    
-   chapter03/introduction.rst
-   chapter03/odooaccounting.rst
-   chapter03/importopening.rst
-   chapter03/firstinvoice.rst
-   chapter03/cashdiscount.rst
+   accounting/introduction.rst
+   accounting/odoo_accounting.rst
+   accounting/import_opening.rst
+   accounting/first_invoice.rst
+   accounting/cash_discount.rst
 
-===================
-Implement Inventory
-===================
+   accounting/partial_payment.rst
+   accounting/tax_deduction_at_source.rst
+   accounting/stock_valuation.rst
+
+   accounting/invoice_in_foreign_currency.rst
+
+=========
+Inventory
+=========
 .. toctree::
    :maxdepth: 1
 
-   chapter05/minstockrule.rst
-   chapter07/bomstock.rst
+   inventory/min_stock_rule.rst
+   inventory/delivery_address.rst
 
-=======================
-Implement Point of Sale
-=======================
+=============
+Point of Sale
+=============
 .. toctree::
    :maxdepth: 1
 
-   chapter04/creditpossale.rst
-   chapter04/poswallet.rst
+   point-of-sale/credit_pos_sale.rst
+   point-of-sale/pos_wallet.rst
 
-============================
-Implement Project Management
-============================
+==================
+Project Management
+==================
 .. toctree::
    :maxdepth: 1
 
-   chapter06/taskfromsales.rst
+   project/timesheet.rst
+   project/task_from_sales.rst
+   project/service_contract.rst
+   project/awasome_timesheet.rst
+   project/default_project_stages.rst
+   project/customer_feedback.rst
+   project/access_timesheet_on_portal.rst
 
-=======================
-Implement Manufacturing
-=======================
+=============
+Manufacturing
+=============
 .. toctree::
    :maxdepth: 1
 
-   chapter07/factorylocation.rst
-   chapter07/bomstock.rst
-   chapter07/woodenmrp.rst
+   manufacturing/factory_location.rst
+   manufacturing/bom_stock.rst
+   manufacturing/wooden_mrp.rst
+
+==============
+Human Resource
+==============
+.. toctree::
+   :maxdepth: 1
+
+   human-resource/organizational_chart.rst
