@@ -114,9 +114,9 @@ html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'canonical_url': '',
-    'analytics_id': '',
+    'analytics_id': 'UA-120447920-1',
     'logo_only': True,
-    'display_version': False,
+    'display_version': True,
     'prev_next_buttons_location': 'bottom',
     'style_external_links': True,
     
@@ -191,7 +191,7 @@ html_use_index = True
 #html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
-html_show_sourcelink = True
+html_show_sourcelink = False
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 html_show_sphinx = False
