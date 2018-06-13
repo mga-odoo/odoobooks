@@ -107,26 +107,26 @@ pygments_style = 'sphinx'
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-sys.path.append(os.path.abspath('_themes'))
-html_theme_path = ['_themes']
+# sys.path.append(os.path.abspath('_themes'))
+# html_theme_path = ['_themes']
 
-html_theme = 'sphinx_rtd_theme'
+# html_theme = 'sphinx_rtd_theme'
 
-html_theme_options = {
-    'canonical_url': '',
-    'analytics_id': 'UA-120447920-1',
-    'logo_only': True,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': True,
+# html_theme_options = {
+#     'canonical_url': '',
+#     'analytics_id': 'UA-120447920-1',
+#     'logo_only': True,
+#     'display_version': True,
+#     'prev_next_buttons_location': 'bottom',
+#     'style_external_links': True,
     
-    # Toc options
-    'collapse_navigation': True,
-    'sticky_navigation': True,
-    'navigation_depth': 4,
-    'includehidden': False,
-    'titles_only': False
-}
+#     # Toc options
+#     'collapse_navigation': True,
+#     'sticky_navigation': True,
+#     'navigation_depth': 4,
+#     'includehidden': False,
+#     'titles_only': False
+# }
 
 #html_short_title = 'Demo'
 
