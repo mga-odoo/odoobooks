@@ -3,8 +3,6 @@
 =============
 Manufacturing
 =============
-.. toctree::
-   :maxdepth: 1
 
 Inventory
 ---------

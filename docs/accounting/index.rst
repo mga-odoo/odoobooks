@@ -3,9 +3,6 @@
 ======================
 Invoicing & Accounting
 ======================
-
-Introduction
-------------
 .. toctree::
    :maxdepth: 1
 

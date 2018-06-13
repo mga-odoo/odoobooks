@@ -3,13 +3,16 @@
 ====================
 Sales & Subscription
 ====================
+.. toctree::
+   :maxdepth: 1
+
+   introduction.rst
 
 Sales Quotation
 ---------------
 .. toctree::
    :maxdepth: 1
 
-   introduction.rst
    create_first_quote.rst
    send_quotation_by_email.rst
    set_default_terms_and_conditions.rst
