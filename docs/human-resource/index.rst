@@ -5,5 +5,5 @@ Human Resource
 ==============
 .. toctree::
    :maxdepth: 1
-	
-	organizational_chart.rst
+
+   organizational_chart.rst

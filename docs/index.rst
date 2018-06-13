@@ -31,7 +31,7 @@ Book Index
    about.rst
    author.rst
    reviewer.rst
-   
+
    odoo/index.rst
    sales/index.rst
    accounting/index.rst
