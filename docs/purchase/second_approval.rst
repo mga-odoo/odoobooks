@@ -3,8 +3,13 @@
 ========================================================
 How to setup two levels of approval for purchase orders?
 ========================================================
+
+Video
+-----
 Access the video at https://www.youtube.com/watch?v=C8wdohr6Z10
 
-.. youtube:: C8wdohr6Z10
-    :width: 700
-    :height: 394
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/C8wdohr6Z10" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
