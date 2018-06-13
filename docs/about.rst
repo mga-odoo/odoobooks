@@ -1,8 +1,8 @@
 .. _about:
 
-======================
-About Odoo Online Book
-======================
+==========
+About Book
+==========
 
 .. image:: images/openerp-book.png
    :height: 300px
@@ -12,7 +12,7 @@ About Odoo Online Book
    :align: right
 
 This book is dedicated for entrepreneur who wants to implement all-in-one business application out-of-the box for their business.
-**Odoo Online Book** is an online book written based on Odoo Community and Enterprise Edition. This book covers best implementation approach for most used applications such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing. 
+**Odoo Online Book** is an online book written based on Odoo Community and Enterprise Edition. This book covers best implementation approach for most used applications such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
 
 Why this book?
 --------------

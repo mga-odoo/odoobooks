@@ -3,12 +3,26 @@
 =========
 Inventory
 =========
+
+Product & Stock
+---------------
 .. toctree::
    :maxdepth: 1
 
    minimum_stock_rule.rst
-   delivery_address.rst
-   control_receipt.rst
-   
    bom_stock.rst
+
+Delivery Order
+--------------
+.. toctree::
+   :maxdepth: 1
+
+   delivery_address.rst
+
+Incoming Shipment
+-----------------
+.. toctree::
+   :maxdepth: 1
+
+   control_receipt.rst
    put_away_strategy.rst

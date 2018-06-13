@@ -3,6 +3,9 @@
 =============
 Point of Sale
 =============
+
+Accounting
+----------
 .. toctree::
    :maxdepth: 1
 

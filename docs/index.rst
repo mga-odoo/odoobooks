@@ -23,10 +23,10 @@ This book is dedicated for entrepreneur who wants to implement all-in-one busine
 
 :ref:`Read More → <about>`
 
-Book Index
-----------
+Table of Content
+----------------
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    about.rst
    author.rst

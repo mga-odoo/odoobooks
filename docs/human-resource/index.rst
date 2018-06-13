@@ -3,6 +3,9 @@
 ==============
 Human Resource
 ==============
+
+Employee
+--------
 .. toctree::
    :maxdepth: 1
 
