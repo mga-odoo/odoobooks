@@ -36,6 +36,8 @@ Book Index
    sales/index.rst
    accounting/index.rst
    inventory/index.rst
+   purchase/index.rst
+   website-and-ecommerce/index.rst
    point-of-sale/index.rst
    project/index.rst
    manufacturing/index.rst

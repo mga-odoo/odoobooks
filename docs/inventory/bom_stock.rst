@@ -1,4 +1,4 @@
-.. _bomstockkit:
+.. _bomstockstock:
 
 ==============================================================
 Compute stock for the kit product based on the component stock
