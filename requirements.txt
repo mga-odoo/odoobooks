@@ -1,1 +1,2 @@
 sphinxcontrib.youtube
+python-sphinxcontrib.youtube
