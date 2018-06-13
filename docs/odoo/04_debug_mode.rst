@@ -36,6 +36,8 @@ Video
 -----
 Let's see how to activate the developer mode and debug the assets.
 
-.. youtube:: F8T0lzz0P8k
-    :width: 700
-    :height: 394
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/F8T0lzz0P8k" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>

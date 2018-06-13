@@ -24,6 +24,8 @@ Let's see how you can create a test instance before to change any configuration 
 Video
 -----
 
-.. youtube:: IxILl8z5I7w
-    :width: 695
-    :height: 394
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/IxILl8z5I7w" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
