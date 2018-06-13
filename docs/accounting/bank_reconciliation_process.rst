@@ -1,5 +1,8 @@
 .. _bankreconciliationprocess:
 
+.. index::
+   single: Bank Reconciliation Process
+
 ==============================================
 How to manage the bank reconciliation process?
 ==============================================

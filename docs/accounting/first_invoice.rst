@@ -1,10 +1,7 @@
 .. _firstinvoice:
 
 .. index::
-   single: Accounting
-   single: Invoicing
-   single: Invoice
-   single: Customer
+   single: Customer Invoice
    single: Payment
 
 ==================================================

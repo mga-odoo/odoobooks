@@ -1,5 +1,9 @@
 .. _agedpayable:
 
+.. index::
+   single: Aged Payable
+   single: Accounts Payable
+
 ===========================================
 How to forecast future vendor bills to pay?
 ===========================================

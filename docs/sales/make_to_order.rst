@@ -1,4 +1,4 @@
-.. _maketoorder:
+.. _maketoordersale:
 
 =======================================================
 How to trigger the purchase of products based on sales?

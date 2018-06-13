@@ -1,5 +1,8 @@
 .. _bankreconciliation:
 
+.. index::
+   single: Bank Reconciliation
+
 ======================================
 How to do Bank Reconciliation in Odoo?
 ======================================
