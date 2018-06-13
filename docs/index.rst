@@ -19,15 +19,15 @@ Odoo Online Book
 
 This book is dedicated for entrepreneur who wants to implement all-in-one business application out-of-the box for their business.
 
-**Odoo Online Book** is an online book written based on Community and Enterprise Edition. This book covers best implementation practice for most used applications such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing. 
+**Odoo Online Book** is an online book written based on Community and Enterprise Edition. This book covers best implementation practice for most used applications such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
 
 :ref:`Read More → <about>`
 
 Book Index
 ----------
 .. toctree::
-   :maxdepth: 1
-   
+   :maxdepth: 2
+
    about.rst
    author.rst
    reviewer.rst

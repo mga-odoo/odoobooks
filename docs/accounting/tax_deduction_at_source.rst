@@ -1,8 +1,8 @@
 .. _taxdeductionatsource:
 
-======================================================
-Manage tax deduction at source with accounting entries
-======================================================
+============================================================
+Manage tax deduction at source (TDS) with accounting entries
+============================================================
 
 Video
 -----

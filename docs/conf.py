@@ -35,8 +35,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.mathjax',
-    'sphinx.ext.ifconfig',
-    'sphinxcontrib.youtube'
+    'sphinx.ext.ifconfig'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -119,7 +118,7 @@ pygments_style = 'sphinx'
 #     'display_version': True,
 #     'prev_next_buttons_location': 'bottom',
 #     'style_external_links': True,
-    
+
 #     # Toc options
 #     'collapse_navigation': True,
 #     'sticky_navigation': True,
