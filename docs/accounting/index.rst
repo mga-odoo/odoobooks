@@ -1,8 +1,8 @@
 .. _accountingindex:
 
-======================
-Invoicing & Accounting
-======================
+========================
+Invoicing and Accounting
+========================
 .. toctree::
    :maxdepth: 1
 

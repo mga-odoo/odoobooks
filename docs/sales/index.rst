@@ -1,8 +1,8 @@
 .. _salesindex:
 
-====================
-Sales & Subscription
-====================
+======================
+Sales and Subscription
+======================
 .. toctree::
    :maxdepth: 1
 

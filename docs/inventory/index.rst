@@ -1,8 +1,8 @@
 .. _inventoryindex:
 
-=========
-Inventory
-=========
+================
+Manage Inventory
+================
 
 Product & Stock
 ---------------

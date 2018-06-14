@@ -1,8 +1,8 @@
 .. _ecommerceindex:
 
-===================
-Website & eCommerce
-===================
+=====================
+Website and eCommerce
+=====================
 
 Website
 -------
