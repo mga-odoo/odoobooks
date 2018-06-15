@@ -34,6 +34,13 @@ Product and Pricing
    price_based_on_customer_segment.rst
    price_based_on_country.rst
    discount.rst
+
+Unit of Measure
+---------------
+.. toctree::
+   :maxdepth: 1
+
+   product_unit_of_measure.rst
    pricelist_for_uom.rst
 
 Product and Tax
