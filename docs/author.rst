@@ -26,3 +26,7 @@ He was the first international employee appointed to establish a branch of TinyE
 Mantavya is actively engaged with many universities in preparing and reviewing the syllabus for the Computer Applications and Computer Science courses. He has reviewed thousands of academic student projects. As an alumnus of the Gujarat Vidyapith Computer Science Alumni Association, he contributes his free time to various social activities. He also plays the role of a trustee member and treasurer at Gujarat Vidyapith Computer Science Alumni Association.
 
 In his spare time, he enjoys playing cricket with friends and driving to new destinations by road with his wife and daughter.
+
+Contact
+-------
+Mantavya can be reachable at mail@mantavyagajjar.in.

@@ -10,12 +10,12 @@
 Odoo Online Book
 ================
 
-.. image:: images/openerp-book.png
-   :height: 300px
-   :width: 240 px
-   :scale: 100 %
-   :alt: alternate text
-   :align: right
+.. .. image:: images/openerp-book.png
+..    :height: 300px
+..    :width: 240 px
+..    :scale: 100 %
+..    :alt: alternate text
+..    :align: right
 
 This book is dedicated for entrepreneur who wants to implement all-in-one business application out-of-the box for their business.
 
