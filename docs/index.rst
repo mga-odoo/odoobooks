@@ -33,15 +33,17 @@ Table of Content
    reviewer.rst
 
    odoo/index.rst
+   crm/index.rst
    sales/index.rst
    accounting/index.rst
    inventory/index.rst
    purchase/index.rst
-   website-and-ecommerce/index.rst
+   ecommerce/index.rst
    point-of-sale/index.rst
    project/index.rst
    manufacturing/index.rst
    human-resource/index.rst
+   website/index.rst
 
 Indices and tables
 ------------------

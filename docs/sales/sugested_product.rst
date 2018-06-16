@@ -12,7 +12,6 @@ Suggested products can be set on Quotation Templates. Once on a template, you ca
 .. image:: images/chapter_02_07.png
    :alt: Suggested Products
    :align: center
-   :width: 695px
 
 You can also add or modify suggested products on the quotation.
 
@@ -23,18 +22,15 @@ When opening the quotation from the received email, the customer can add the sug
 .. image:: images/chapter_02_08.png
    :alt: Suggested Products on Quotation
    :align: center
-   :width: 695px
 
 The product(s) will be instantly added to their quotation when clicking on any of the little carts.
 
 .. image:: images/chapter_02_09.png
    :alt: Add Suggested Products to Order
    :align: center
-   :width: 695px
 
 Depending on your confirmation process, they can either digitally sign or pay to confirm the quotation. Each move done by the customer to the quotation will be tracked in the sales order, letting the salesperson see it.
 
 .. image:: images/chapter_02_10.png
    :alt: Add Suggested Products to Order
    :align: center
-   :width: 695px

@@ -26,7 +26,6 @@ Make sure that before create a new instance, you have an account at odoo.com, if
 .. image:: images/chapter_01_05.png
    :alt: signup at odoo.com
    :align: center
-   :width: 695px
 
 Create an instance
 ------------------

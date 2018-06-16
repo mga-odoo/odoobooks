@@ -12,7 +12,6 @@ Odoo instant demonstration can be found at https://demo.odoo.com. Online demo is
 .. image:: images/chapter_01_07.png
    :alt: CRM, Sales and Invoicing for 5 users
    :align: center
-   :width: 695px
 
 .. tip:: Don't worry if your URL will be changed form https://demo.odoo.com to https://demo1.odoo.com, https://demo2.odoo.com or https://demo3.odoo.com, Odoo started many demo instance, you will be redirected to the instance having low traffic.
 
@@ -23,7 +22,6 @@ Test upcoming features
 .. image:: images/chapter_01_08.png
    :alt: runbot.odoo.com
    :align: center
-   :width: 695px
 
 Background colours of committee represents the status of the committee, Green represents successfully tested without any ERROR while Red represents ERROR in the code, either code is not clean or there is any test-case failed. You can not connect the committee which are in Blue color as there are currently being tested by the runbot.
 

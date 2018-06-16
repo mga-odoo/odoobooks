@@ -12,7 +12,6 @@ For this feature to work, go to ``Sales / Configuration / Settings`` and activat
 .. image:: images/chapter_02_01.png
    :alt: Sales Settings
    :align: center
-   :width: 695px
 
 Create your first template
 --------------------------
@@ -21,7 +20,6 @@ You will find the templates menu under ``Sales / Configuration``. You can then c
 .. image:: images/chapter_02_02.png
    :alt: Quotation Template
    :align: center
-   :width: 695px
 
 On each template, you can also specify discounts if the option is activated in the Sales settings. The base price is set in the product configuration and can be altered by customer pricelists.
 
@@ -32,14 +30,12 @@ You can edit the customer interface of the template that they see to accept or p
 .. image:: images/chapter_02_03.png
    :alt: Edit Quotation Template
    :align: center
-   :width: 695px
 
 This lets you edit the description content thanks to drag & drop of building blocks. To describe your products add a content block in the zone dedicated to each product.
 
 .. image:: images/chapter_02_04.png
    :alt: Quotation Template - Edit Product Information
    :align: center
-   :width: 695px
 
 .. note:: The description set for the products will be used in all quotations templates containing those products.
 
@@ -50,7 +46,6 @@ When creating a quotation, you can select a template.
 .. image:: images/chapter_02_05.png
    :alt: Create a quotation
    :align: center
-   :width: 695px
 
 Each product in that template will be added to your quotation.
 
@@ -63,7 +58,6 @@ Templates also ease the confirmation process for customers with a digital signat
 .. image:: images/chapter_02_06.png
    :alt: Confirm Quotation
    :align: center
-   :width: 695px
 
 Every quotation will now have this setting added to it. Of course you can still change it and make it specific for each quotation.
 

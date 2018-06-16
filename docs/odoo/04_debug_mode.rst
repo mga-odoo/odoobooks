@@ -28,7 +28,6 @@ The second easy way is to enter into ``Settings``, click on the ``Activate the d
 .. image:: images/chapter_01_09.png
    :alt: Odoo debug mode
    :align: center
-   :width: 695px
 
 You will be able to see the ``Technical`` menu under the ``Settings`` application on successful activation of the debug mode, you can access all the system settings there.
 

@@ -29,7 +29,6 @@ In Odoo, each milestone of your project is considered as a product. From the Sal
 .. image:: images/chapter_02_11.png
    :alt: signup at odoo.com
    :align: center
-   :width: 695px
 
 .. note:: Apply the same configuration for the others milestones.
 
@@ -40,7 +39,6 @@ Now that your milestones (or products) are created, you can create a quotation o
 .. image:: images/chapter_02_12.png
    :alt: signup at odoo.com
    :align: center
-   :width: 695px
 
 Invoice milestones
 ------------------
@@ -53,7 +51,6 @@ Click on Create invoice and, in the new window that pops up, select Invoiceable 
 .. image:: images/chapter_02_13.png
    :alt: signup at odoo.com
    :align: center
-   :width: 695px
 
 .. note:: In order to be able to invoice a product, you need to set up the Accounting application and to configure an accounting journal and a chart of account. Click on the following link to learn more: How to setup Odoo Accounting?
 

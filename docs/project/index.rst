@@ -1,8 +1,8 @@
 .. _projectindex:
 
-==================
-Project Management
-==================
+=======
+Project
+=======
 
 Project & Task
 --------------
