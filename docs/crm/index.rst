@@ -10,3 +10,4 @@ Organize the pipeline
    :maxdepth: 1
 
    plan_activities.rst
+   lost_opportunities.rst
