@@ -1,8 +1,8 @@
 .. _odooindex:
 
-==================
-Access Odoo Online
-==================
+===========
+Odoo Online
+===========
 .. toctree::
    :maxdepth: 1
 
