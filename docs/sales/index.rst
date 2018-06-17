@@ -33,6 +33,7 @@ Product and Pricing
 
    price_based_on_customer_segment.rst
    price_based_on_country.rst
+   show_public_price.rst
    discount.rst
 
 Unit of Measure
