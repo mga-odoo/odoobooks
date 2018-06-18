@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/odoobooks/badge/?version=latest)](http://odoobooks.com/en/latest/?badge=latest)
+
 Read book at http://openerpbook.com
 
 About Odoo Book
