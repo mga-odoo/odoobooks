@@ -31,6 +31,8 @@ Let's assume that you deliver the product at fixed $50 and you deliver for free 
 Goto ``Sales / Configure / Delivery Methods`` rename the existing method *Free delivery charges* to *Delivery charges*
 add the $50 in the **Fixed Price**.
 
+.. tip:: If you have a multiple delivery methods having a fixed price, please create a saparate Delivery Product for each method.
+
 Setup product price
 ~~~~~~~~~~~~~~~~~~~
 Do not forget to add the correct product price when creating the products.
