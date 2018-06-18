@@ -29,7 +29,7 @@ In our example, we wanted to grant Agrolait with a 5% discount on the sale price
 
 Create your quotation
 ---------------------
-To create your first quotation, click on Sales ‣ Quotations and click on Create. Then, complete your quotation as follows:
+To create your first quotation, click on ``Sales / Quotations`` and click on Create. Then, complete your quotation as follows:
 
 Customer and Products
 ~~~~~~~~~~~~~~~~~~~~~
@@ -85,3 +85,8 @@ Access the video at https://www.youtube.com/watch?v=N0kcHM2msHE
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/N0kcHM2msHE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
+
+.. seealso::
+
+  * :doc:`quotation_template`
+  * :doc:`price_including_tax`
