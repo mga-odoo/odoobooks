@@ -20,6 +20,35 @@ Activate the Shipping Costs feature form ``Sales / Configuration / Settings``.
 
 .. note:: Activating the Shipping Costs will install the Inventory application if it was not installed previously.
 
+Setup the delivery charges
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Let's assume that you deliver the product at fixed $50 and you deliver for free when total order value is more than $2000.
+
+.. image:: images/chapter_02_26.png
+   :alt: Delivery Cost Grid
+   :align: center
+
+Goto ``Sales / Configure / Delivery Methods`` rename the existing method *Free delivery charges* to *Delivery charges*
+add the $50 in the **Fixed Price**.
+
+Setup product price
+~~~~~~~~~~~~~~~~~~~
+Do not forget to add the correct product price when creating the products.
+
+.. image:: images/chapter_02_27.png
+   :alt: Product Weight
+   :align: center
+
+Adding delivery cost to the quotation
+-------------------------------------
+You can now choose the Delivery Method on your sale order.
+If you want to invoice the price of the delivery charge on the sale order, click on Set price,
+it will add a line with the name of the delivery method as a product.
+
+.. image:: images/chapter_02_28.png
+  :alt: Product Weight
+  :align: center
+
 Video
 -----
 Access the video at https://www.youtube.com/watch?v=JPpUPbTeJD0
