@@ -23,6 +23,10 @@ This book is dedicated for entrepreneur who wants to implement all-in-one busine
 
 :ref:`Read More → <about>`
 
+.. image:: https://readthedocs.org/projects/odoobooks/badge/?version=latest
+:target: http://odoobooks.com/en/latest/?badge=latest
+:alt: Documentation Status
+
 Table of Content
 ----------------
 .. toctree::
