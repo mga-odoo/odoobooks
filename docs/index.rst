@@ -23,10 +23,6 @@ This book is dedicated for entrepreneur who wants to implement all-in-one busine
 
 :ref:`Read More → <about>`
 
-.. image:: https://readthedocs.org/projects/odoobooks/badge/?version=latest
-:target: http://odoobooks.com/en/latest/?badge=latest
-:alt: Documentation Status
-
 Table of Content
 ----------------
 .. toctree::
@@ -53,5 +49,12 @@ Indices and tables
 ------------------
 
 * :ref:`genindex`
+
+Build Status
+------------
+
+.. image:: https://readthedocs.org/projects/odoobooks/badge/?version=latest
+  :target: http://odoobooks.com/en/latest/?badge=latest
+  :alt: Documentation Status
 
 .. note:: Please comment on the page below, if you have any question related to that topic. You can also send an email to mail@mantavyagajjar.in to propose new topics you would like to have on the book.
