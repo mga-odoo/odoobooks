@@ -77,6 +77,14 @@ Service Tracking
    invoice_milestones.rst
    invoice_based_on_timesheet.rst
 
+Delivery Charges
+----------------
+.. toctree::
+   :maxdepth: 1
+
+   free_delivery.rst
+   delivery_based_on_weight.rst
+   
 Manage Inventory
 ----------------
 .. toctree::
