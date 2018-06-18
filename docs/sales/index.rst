@@ -17,6 +17,7 @@ Sales Quotation
    send_quotation_by_email.rst
    set_default_terms_and_conditions.rst
    set_default_tax.rst
+   section_on_order.rst
 
 Quotation Template
 ------------------
