@@ -9,14 +9,6 @@
 ================
 Odoo Online Book
 ================
-
-.. .. image:: images/openerp-book.png
-..    :height: 300px
-..    :width: 240 px
-..    :scale: 100 %
-..    :alt: alternate text
-..    :align: right
-
 This book is dedicated for entrepreneur who wants to implement all-in-one business application out-of-the box for their business.
 
 **Odoo Online Book** is an online book written based on Community and Enterprise Edition. This book covers best implementation practice for most used applications such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
@@ -32,15 +24,27 @@ Build Status
   :target: http://odoobooks.com/en/latest/?badge=latest
   :alt: Documentation Status
 
-Table of Content
-----------------
+About Book
+----------
 .. toctree::
    :maxdepth: 2
 
    about.rst
    author.rst
    reviewer.rst
+
+Getting Started with odoo
+-------------------------
+.. toctree::
+   :maxdepth: 2
+
    odoo/index.rst
+
+Customer Relationship Management
+--------------------------------
+.. toctree::
+   :maxdepth: 2
+
    crm/index.rst
    sales/index.rst
    accounting/index.rst
