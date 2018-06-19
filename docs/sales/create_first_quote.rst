@@ -1,5 +1,8 @@
 .. _firstquote:
 
+.. index::
+   single: Create first Quotation
+
 =================================
 How to create my first quotation?
 =================================
