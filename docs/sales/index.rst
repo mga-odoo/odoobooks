@@ -58,6 +58,10 @@ Invoicing
 .. toctree::
   :maxdepth: 1
 
+  pro-forma.rst
+  invoice_on_order_qty.rst
+  invoice_on_deliver_qty.rst
+  credit_note_from_order.rst
   single_order_for_multiple_orders.rst
 
 Customer Portal
@@ -84,7 +88,7 @@ Delivery Charges
 
    free_delivery.rst
    delivery_based_on_weight.rst
-   
+
 Manage Inventory
 ----------------
 .. toctree::

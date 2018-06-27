@@ -17,34 +17,15 @@ This book is dedicated for entrepreneur who wants to implement all-in-one busine
 
 .. note:: Please comment on the page below, if you have any question related to that topic. You can also send an email to mail@mantavyagajjar.in to propose new topics you would like to have on the book.
 
-Build Status
-------------
-
-.. image:: https://readthedocs.org/projects/odoobooks/badge/?version=latest
-  :target: http://odoobooks.com/en/latest/?badge=latest
-  :alt: Documentation Status
-
 About Book
 ----------
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    about.rst
    author.rst
    reviewer.rst
-
-Getting Started with odoo
--------------------------
-.. toctree::
-   :maxdepth: 2
-
    odoo/index.rst
-
-Customer Relationship Management
---------------------------------
-.. toctree::
-   :maxdepth: 2
-
    crm/index.rst
    sales/index.rst
    accounting/index.rst
@@ -61,3 +42,11 @@ Indices and tables
 ------------------
 
 * :ref:`genindex`
+
+
+Build Status
+------------
+
+.. image:: https://readthedocs.org/projects/odoobooks/badge/?version=latest
+  :target: http://odoobooks.com/en/latest/?badge=latest
+  :alt: Documentation Status

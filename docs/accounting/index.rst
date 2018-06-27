@@ -97,4 +97,5 @@ Inventory Valuation
 .. toctree::
    :maxdepth: 1
 
+   cogs_anglo_saxon.rst
    stock_valuation.rst
