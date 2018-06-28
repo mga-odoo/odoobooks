@@ -23,8 +23,6 @@ About Book
    :maxdepth: 1
 
    about.rst
-   author.rst
-   reviewer.rst
    odoo/index.rst
    crm/index.rst
    sales/index.rst
