@@ -10,6 +10,7 @@ Inventory
    :maxdepth: 1
 
    factory_location.rst
+   liquid_product_stock.rst
    bom_stock.rst
 
 By-Products
