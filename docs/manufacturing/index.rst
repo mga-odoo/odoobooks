@@ -19,3 +19,10 @@ By-Products
    :maxdepth: 1
 
    wooden_mrp.rst
+
+Subcontracting
+--------------
+.. toctree::
+   :maxdepth: 1
+
+   subcontracting.rst
