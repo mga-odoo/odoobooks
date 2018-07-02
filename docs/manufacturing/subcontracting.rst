@@ -1,8 +1,8 @@
 .. _subcontracting:
 
-===================================================
-Setup the subcontracting flow with inventory routes
-===================================================
+====================================
+Subcontracting process in Production
+====================================
 Most manufacturing companies outsource some part of the job contracting work to
 other manufacturing companies to get the best expertise methodology and resource
 to produce the world class product (i.e Most reputed companies smart phones are
@@ -157,7 +157,7 @@ based on the components and service is not $80.
 .. image:: subcontracting/sub_01_13.png
    :align: center
 
-.. tip:: you can also install the Product extension to track sales and purchases app
+.. tip:: You can also install the Product extension to track sales and purchases app
   to compute the cost of the product based on the cost of material consumed.
 
   .. image:: subcontracting/sub_01_14.png
