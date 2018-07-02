@@ -218,3 +218,7 @@ on the Mark as Done button. Check the inventory level it has be looking as below
 
 .. image:: subcontracting/sub_01_21.png
    :align: center
+
+Contractor Bill
+---------------
+Receive the vendor bill and create it manully.
