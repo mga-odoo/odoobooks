@@ -1,8 +1,8 @@
 .. _subcontracting:
 
-====================================
-Subcontracting process in Production
-====================================
+==============================================
+Outsource subcontracting work in manufacturing
+==============================================
 Most manufacturing companies outsource some part of the job contracting work to
 other manufacturing companies to get the best expertise methodology and resource
 to produce the world class product (i.e Most reputed companies smart phones are
