@@ -26,3 +26,4 @@ Subcontracting
    :maxdepth: 1
 
    subcontracting.rst
+   subcontracting_dropship.rst

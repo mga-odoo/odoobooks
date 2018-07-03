@@ -1,21 +1,24 @@
-.. _subcontracting:
+.. _subcontractingdropship:
 
-=============================================
-Setup subcontracting in manufacturing process
-=============================================
+=================================================================
+Setup subcontracting in manufacturing process (Dropship Material)
+=================================================================
 Most manufacturing companies outsource some part of the job contracting work to
 other manufacturing companies to get the best expertise methodology and resource
 to produce the world class product (i.e Most reputed companies smart phones are
 assembled in China is the best example of the subcontracting)
 
 In this document we will show you steps to setup the subcontracting business flow,
-Issue the raw material to your contractor and get the semi-finished product which
-will be consumed later to prepare the final product in our factory.
+Issue some raw material to your contractor from your warehouse and some raw material
+ask your vendor to make the direct delivery to contractor location.
+
+Contractor will produce the semi-finished product which will be consumed later
+to prepare the final product in our factory.
 
 Let’s take an example of Table, to produce the table we need 1 table top and table
 frame, 4 lags and some consumable like bracket and bolt, assumed that table is
 laminated by third party contractor where we supply wood sheet and lamination
-sheet to prepare the laminated table top.
+sheet will be supplied by our vendor directly to prepare the laminated table top.
 
 .. image:: subcontracting/sub_01_00.png
    :align: center
@@ -62,11 +65,11 @@ Let’s create a two different routes, which can be selectable on the product ro
 * Subcontracting - select this route when you want contractor to be product and
   send it to our warehouse (stock location)
 
-Material Route
-~~~~~~~~~~~~~~
+Material Route (Buy and Deliver)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Material route, select Product and Product Category under the Applicable On options.
 
-.. image:: subcontracting/sub_01_03.png
+.. image:: subcontracting/sub_01_24.png
    :align: center
 
 Create a Procurement that applied on the Contractor location and ask our Stock
@@ -74,6 +77,25 @@ location to fulfill the requirement by stock transfer.
 
 .. image:: subcontracting/sub_01_04.png
    :align: center
+
+.. tip:: Material Route (Buy and Deliver) route first check the material at WH/Stock
+  location and buy when enought stock is not availale.
+
+Material Route (Dropship)
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Material route, select Product and Product Category under the Applicable On options.
+
+.. image:: subcontracting/sub_01_22.png
+  :align: center
+
+Create a Procurement that perform the Buy opertion when stock or product is not
+available at WH/Contractor location.
+
+.. image:: subcontracting/sub_01_23.png
+  :align: center
+
+.. tip:: Material Route (Dropship) route first check the material at WH/Stock location and buy when enought stock
+  is not availale.
 
 Subcontracting Route
 ~~~~~~~~~~~~~~~~~~~~
@@ -105,21 +127,25 @@ Let's create the Tabletop product and select the correct route on this product,
 select Subcontracting as this product is manufactured but at contractor location,
 we just need to supply them wooden and lamination sheet.
 
-.. image:: subcontracting/sub_01_08.png
+.. image:: subcontracting/sub_01_25.png
    :align: center
 
-When you create a Wooden and Lamination sheet select the Material and Buy routs
-on those products.
+When you create a Wooden sheet select the Material (Buy -> Deliver) and Buy routes.
 
-.. image:: subcontracting/sub_01_09.png
+.. image:: subcontracting/sub_01_26.png
    :align: center
 
-When this products required at contractor location it will create the delivery
-order in our warehouse and when this product required in our warehouse we will
-buy it from the vendors.
+When you create a Lamination sheet select the Material (Dropship) route.
+
+.. image:: subcontracting/sub_01_27.png
+   :align: center
+
+Depanding on the product routes will be applied, delivery and purchase order
+will be create for the Wooden sheet while Lamination sheet will create the purchase
+order and direct delivery form vendor location.
 
 .. note:: Define the vendor under the purchase tab and define the re-order level
-  for both location WH/Stock and WH/Contractor depending on the needs.
+  for location WH/Stock and WH/Contractor depending on the needs.
 
 Define the other raw material such as lags, table frame, bracket and bolt as
 stockable and define respective vendors and re-order level for each products.
@@ -225,10 +251,10 @@ Receive the vendor bill and create it manully.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=mms3U_2T8Nc
+Access the video at https://www.youtube.com/watch?v=esoHqzckMxI
 
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/mms3U_2T8Nc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+        <iframe src="https://www.youtube.com/embed/esoHqzckMxI" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
