@@ -35,8 +35,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.mathjax',
-    'sphinx.ext.ifconfig',
-    'sphinx_sitemap'
+    'sphinx.ext.ifconfig'
 ]
 
 site_url = 'https://odoobooks.com/en/latest/'

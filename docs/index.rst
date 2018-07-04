@@ -17,8 +17,8 @@ This book is dedicated for entrepreneur who wants to implement all-in-one busine
 
 .. note:: Please comment on the page below, if you have any question related to that topic. You can also send an email to mail@mantavyagajjar.in to propose new topics you would like to have on the book.
 
-About Book
-----------
+Table of Contents
+-----------------
 .. toctree::
    :maxdepth: 1
 
@@ -39,8 +39,10 @@ About Book
 Indices and tables
 ------------------
 
+* :ref:`toc`
 * :ref:`genindex`
-
+* :ref:`modindex`
+* :ref:`search`
 
 Build Status
 ------------
