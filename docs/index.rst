@@ -20,7 +20,7 @@ This book is dedicated for entrepreneur who wants to implement all-in-one busine
 Current content:
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
    about.rst
    odoo/index.rst
