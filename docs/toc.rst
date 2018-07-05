@@ -3,7 +3,8 @@
 Table of Contents
 -----------------
 .. toctree::
-   :maxdepth: 3
+   :numbered:
+   :maxdepth: 4
 
    about.rst
    odoo/index.rst

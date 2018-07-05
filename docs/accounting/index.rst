@@ -64,8 +64,7 @@ Bank & Cash
    importofx.rst
    cash_withdrawal.rst
 
-
-Indial Localization
+Indian Localization
 -------------------
 .. toctree::
    :maxdepth: 1
