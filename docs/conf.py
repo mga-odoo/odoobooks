@@ -168,17 +168,17 @@ html_show_copyright = True
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'OdooBook'
 
-latex_elements = {
-# The paper size ('letterpaper' or 'a4paper').
-    'papersize': 'letterpaper',
-
-# The font size ('10pt', '11pt' or '12pt').
-    'pointsize': '12pt',
-
-# Additional stuff for the LaTeX preamble.
-    'preamble': r'''
-        \usepackage{charter}
-        \usepackage[defaultsans]{lato}
-        \usepackage{inconsolata}
-    ''',
-}
+# latex_elements = {
+# # The paper size ('letterpaper' or 'a4paper').
+#     'papersize': 'letterpaper',
+#
+# # The font size ('10pt', '11pt' or '12pt').
+#     'pointsize': '11pt',
+#
+# # Additional stuff for the LaTeX preamble.
+#     'preamble': r'''
+#         \usepackage{charter}
+#         \usepackage[defaultsans]{lato}
+#         \usepackage{inconsolata}
+#     ''',
+# }
