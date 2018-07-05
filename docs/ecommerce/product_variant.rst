@@ -1,5 +1,8 @@
 .. _productvariant:
 
+.. index::
+   single: Product Variants
+
 =======================================================================
 How to configure product variants that looks perfect on eCommerce page?
 =======================================================================

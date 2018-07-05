@@ -1,5 +1,9 @@
 .. _minimumstockrule:
 
+.. index::
+   single: Reorder Rules
+   single: Minimum Stock Rules
+
 ==================================
 How to setup a minimum stock rule?
 ==================================

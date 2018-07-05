@@ -1,5 +1,8 @@
 .. _secondapproval:
 
+.. index::
+   single: Two level of approval for Purchase order 
+
 ========================================================
 How to setup two levels of approval for purchase orders?
 ========================================================

@@ -1,5 +1,8 @@
 .. _taxdeductionatsource:
 
+.. index::
+   single: Tax Deduction at Source
+
 ============================================================
 Manage tax deduction at source (TDS) with accounting entries
 ============================================================

@@ -1,5 +1,8 @@
 .. _cashdiscount:
 
+.. index::
+   single: Cash Discount
+
 ============================
 How to setup cash discounts?
 ============================

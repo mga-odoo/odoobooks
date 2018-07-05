@@ -1,5 +1,9 @@
 .. _modifypaidinvoice:
 
+.. index::
+   single: Credit Note
+   single: Reject Invoice
+
 =============================================
 How to modify the confirmed customer invoice?
 =============================================

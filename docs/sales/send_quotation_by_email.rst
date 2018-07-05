@@ -1,7 +1,7 @@
 .. _sendquotationbyemail:
 
 .. index::
-   single: Send by Email
+   single: Send Quotation by Email
 
 ===============================
 How to send quotation by email?

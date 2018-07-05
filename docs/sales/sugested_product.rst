@@ -1,5 +1,8 @@
 .. _sugestedproduct:
 
+.. index::
+   single: Suggested product on Quotation Template
+
 ===========================================
 Increase your sales with suggested products
 ===========================================

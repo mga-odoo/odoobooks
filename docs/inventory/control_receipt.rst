@@ -1,5 +1,9 @@
 .. _controlreceipt:
 
+.. index::
+   single: Incoming Shipment
+   single: Partial Incoming Shipment
+
 ===============================================================
 How to control product received? (Receive entirely & partially)
 ===============================================================

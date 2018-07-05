@@ -1,5 +1,9 @@
 .. _purchaseagreement:
 
+.. index::
+   single: Purchase Agreement
+   single: Blanket Order
+
 ===================================================
 How to manage bulk purchase through tender process?
 ===================================================

@@ -1,5 +1,9 @@
 .. _putawaystrategy:
 
+.. index::
+   single: Putaway Strategy
+   single: Transfer to Cold Storage
+
 =====================================================================================
 How to transfer dairy products to fridge (cold storage) when it arrives to inventory?
 =====================================================================================

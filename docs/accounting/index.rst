@@ -1,5 +1,8 @@
 .. _accountingindex:
 
+.. index::
+   single: Accounting
+
 ==========
 Accounting
 ==========

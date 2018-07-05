@@ -1,5 +1,8 @@
 .. _vendorbill:
 
+.. index::
+   single: Purchase Process
+
 ====================================================
 Purchase order to vendor bill, payment through check
 ====================================================

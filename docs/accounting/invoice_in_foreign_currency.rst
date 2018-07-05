@@ -1,5 +1,8 @@
 .. _invoiceinforeigncurrency:
 
+.. index::
+   single: Multi-Currency Invoice
+
 ===========================================
 How to prepare invoice in foreign currency?
 ===========================================

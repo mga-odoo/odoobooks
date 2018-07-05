@@ -1,5 +1,8 @@
 .. _defaultprojectstages:
 
+.. index::
+   single: Default Stage on Project
+
 ================================================================
 Create default stages in the project created through Sales order
 ================================================================

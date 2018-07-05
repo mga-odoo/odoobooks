@@ -1,5 +1,9 @@
 .. _priceincludingtaxandexcludingtax:
 
+.. index::
+   single: Tax Included in Price
+   single: Tax Excluded from Price
+
 ===========================================================================
 How to manage product prices for B2B (tax excluded) and B2C (tax included)?
 ===========================================================================

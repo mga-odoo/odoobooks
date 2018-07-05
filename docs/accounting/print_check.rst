@@ -1,4 +1,7 @@
-.. printcheck:
+.. _printcheck:
+
+.. index::
+   single: Check Printing
 
 ======================================================================
 How to pay vendor bills by check and print check from Odoo accounting?

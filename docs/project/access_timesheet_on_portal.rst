@@ -1,5 +1,10 @@
 .. _accesstimesheetonportal:
 
+.. index::
+   single: Customer Portal
+   single: Timesheet in Customer Portal
+   single: Project & Task in Customer Portal
+
 =======================================================================
 How to allow the customer to view timesheet on their task and projects?
 =======================================================================

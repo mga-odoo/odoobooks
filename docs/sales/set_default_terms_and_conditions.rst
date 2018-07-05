@@ -1,8 +1,8 @@
 .. _defaulttermsandconditions:
 
 .. index::
-   single: Terms and Conditions
-   single: Default terms and conditions
+   single: Set Terms and Conditions
+   single: Set Default terms and conditions
 
 ===============================================================
 How to set default terms and condition for every new quotation?

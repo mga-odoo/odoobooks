@@ -1,5 +1,8 @@
 .. _createrfq:
 
+.. index::
+   single: Create RFQ
+
 ======================================
 How to create a Request for Quotation?
 ======================================

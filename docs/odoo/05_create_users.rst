@@ -1,10 +1,14 @@
 .. _newusers:
 
+.. index::
+   single: Manage Users
+   single: Create User
+
 ==============================
 Manage users and access rights
 ==============================
 You have an opportunity to invite your colleagues to signup on the instance during the activation process, you may see the below screen during the signup.
- 
+
 .. image:: images/chapter_01_10.png
    :alt: User list
    :align: center

@@ -1,5 +1,8 @@
 .. _organizationalchart:
 
+.. index::
+   single: Organizational chart
+
 ==========================================
 Show organizational chart on employee form
 ==========================================

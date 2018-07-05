@@ -1,5 +1,10 @@
 .. _pricebasedoncustomersegment:
 
+.. index::
+   single: Price based on customer segment
+   single: Price for B2B customers
+   single: Price for B2C customers
+
 ====================================================================================
 How to adapt product price based on customer segment? (e.g. Retailer or Distributor)
 ====================================================================================

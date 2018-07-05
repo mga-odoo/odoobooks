@@ -1,5 +1,9 @@
 .. _testdrive:
 
+.. index::
+   single: Odoo Demo
+   single: Odoo Runbot
+
 ==============================
 How to test upcoming features?
 ==============================

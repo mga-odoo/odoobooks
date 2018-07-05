@@ -1,5 +1,10 @@
 .. _containerproduct:
 
+.. index::
+   single: Container Management
+   single: Container Refilling
+   single: Containers on Rent
+
 =========================================================================================
 How to sell chemical products along with the containers and manage the refilling process?
 =========================================================================================

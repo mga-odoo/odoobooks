@@ -1,5 +1,9 @@
 .. _quotationtemplate:
 
+.. index::
+   single: Quotation Template
+   single: Pre-designed Offer
+
 ==============================
 How to create quick quotation?
 ==============================

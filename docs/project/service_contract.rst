@@ -1,5 +1,10 @@
 .. _servicecontract:
 
+.. index::
+   single: Service Ticket
+   single: Service Contract
+   single: Helpdesk Ticket
+
 ==============================================
 Managing service tickets and service contracts
 ==============================================

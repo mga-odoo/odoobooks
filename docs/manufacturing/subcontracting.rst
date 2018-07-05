@@ -1,5 +1,8 @@
 .. _subcontracting:
 
+.. index::
+   single: Subcontracting (Buy and Deliver Material)
+
 =============================================
 Setup subcontracting in manufacturing process
 =============================================

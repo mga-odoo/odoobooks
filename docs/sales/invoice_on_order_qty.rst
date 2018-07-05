@@ -1,5 +1,8 @@
 .. _invoiceonorderqty:
 
+.. index::
+   single: Invoice based on delivered quantity
+
 =======================================
 Create Invoice for the ordered quantity
 =======================================

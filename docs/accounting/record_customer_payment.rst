@@ -1,4 +1,7 @@
-.. recordcustomerpayment:
+.. _recordcustomerpayment:
+
+.. index::
+   single: Record Payments
 
 ================================================
 What are the different ways to record a payment?

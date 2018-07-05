@@ -1,5 +1,8 @@
 .. _generatefromemail:
 
+.. index::
+   single: Opportunitie from incoming emails
+
 ========================================
 Generate leads/opportunities from emails
 ========================================

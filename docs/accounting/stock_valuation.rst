@@ -1,5 +1,8 @@
 .. _stockvaluation:
 
+.. index::
+   single: Stock Valuation
+
 ======================================================
 Inventory valuation and compute the cost of goods sold
 ======================================================

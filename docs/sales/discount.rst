@@ -1,5 +1,9 @@
 .. _discount:
 
+.. index::
+   single: Discount visible
+   single: Pricelist to compute discount
+
 ====================================================================
 How compute and apply discount automatically based on the pricelist?
 ====================================================================

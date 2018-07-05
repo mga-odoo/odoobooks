@@ -1,5 +1,9 @@
 .. _importofx:
 
+.. index::
+   single: Bank Statement
+   single: Import OFX Statement
+
 ================================================================
 Import bank statement (ofx format) and quick bank reconciliation
 ================================================================

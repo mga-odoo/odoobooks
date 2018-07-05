@@ -1,5 +1,10 @@
 .. _multiplesupplier:
 
+.. index::
+   single: Purchase from multiple vendors
+   single: Bulk Purchase
+   single: Purchase Tender
+
 =======================================================================
 How to purchase partially at two vendors for the same purchase tenders?
 =======================================================================

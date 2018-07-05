@@ -1,5 +1,8 @@
 .. _partialpayment:
 
+.. index::
+   single: Partial Payment
+
 ===============================================================
 Create invoice, receive and register partial payment on invoice
 ===============================================================

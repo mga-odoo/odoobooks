@@ -1,5 +1,8 @@
 .. _creditnotefromorder:
 
+.. index::
+   single: Create credit note from sales order
+
 =====================================================================
 Create credit note from sales order, when customer return the product
 =====================================================================

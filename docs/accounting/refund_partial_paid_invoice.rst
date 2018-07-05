@@ -1,5 +1,8 @@
 .. _refundpartialpaidinvoice:
 
+.. index::
+   single: Credit Note
+
 =========================================
 How to refund the partially paid invoice?
 =========================================

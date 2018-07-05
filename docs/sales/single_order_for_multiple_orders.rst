@@ -1,5 +1,8 @@
 .. _singleorderformultipleorders:
 
+.. index::
+   single: Single invoice form multiple sale orders
+
 ========================================================
 How to create single invoice from multiple sales orders?
 ========================================================

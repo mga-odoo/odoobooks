@@ -1,5 +1,8 @@
 .. _batchdeposit:
 
+.. index::
+   single: Batch Deposit
+
 =======================================
 How to manage batch deposits of checks?
 =======================================

@@ -1,5 +1,9 @@
 .. _refundinvoice:
 
+.. index::
+   single: Refund Invoice
+   single: Credit Note
+
 ============================================
 How to refund a fully paid customer invoice?
 ============================================

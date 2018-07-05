@@ -1,5 +1,8 @@
 .. _pro-forma:
 
+.. index::
+   single: Pro-Forma Invoice
+
 ========================================
 Send Pro-Forma Invoice to your customers
 ========================================

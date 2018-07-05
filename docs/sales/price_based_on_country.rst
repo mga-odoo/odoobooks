@@ -1,5 +1,8 @@
 .. _pricebasedoncountry:
 
+.. index::
+   single: Price based on customer country
+
 =========================================================================================
 How to adapt product price based on customer country or location? (e.g. Price in €  or $)
 =========================================================================================

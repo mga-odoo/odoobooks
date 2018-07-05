@@ -1,5 +1,9 @@
 .. _awasometimesheet:
 
+.. index::
+   single: Chrome timesheet plugin
+   single: Awesome Timesheet
+
 =========================================================
 Record time spent using Awesome Timesheet - Chrome plugin
 =========================================================

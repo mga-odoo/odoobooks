@@ -1,5 +1,8 @@
 .. _sectiononorder:
 
+.. index::
+   single: Section on orders (material, service, etc..)
+
 ==================================================================================
 Sections on sales orders, sort products in sections with subtotals and page-breaks
 ==================================================================================

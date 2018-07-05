@@ -1,5 +1,9 @@
 .. _contactuspage:
 
+.. index::
+   single: Contact us page
+   single: Create leads from Contact us page
+
 =======================================================================
 How to generate leads or opportunities through website contact us page?
 =======================================================================

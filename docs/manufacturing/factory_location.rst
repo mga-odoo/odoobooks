@@ -1,5 +1,9 @@
 .. _factorylocation:
 
+.. index::
+   single: Issue Material for Production
+   single: Issue Material to Factory
+
 =======================================================================
 How to issue material to factory location to start manufacturing order?
 =======================================================================

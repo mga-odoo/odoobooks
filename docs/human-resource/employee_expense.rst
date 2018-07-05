@@ -1,5 +1,9 @@
 .. _employeeexpense:
 
+.. index::
+   single: Employee Expense
+   single: Advance payment to Employee
+
 ============================================================
 Manage advance payment, employee expenses and reconciliation
 ============================================================

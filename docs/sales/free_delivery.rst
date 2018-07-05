@@ -1,5 +1,9 @@
 .. _freedelivery:
 
+.. index::
+   single: Free delivery based on order amount
+   single: Free delivery
+
 ===============================================
 Free delivery if order total is more then $2000
 ===============================================

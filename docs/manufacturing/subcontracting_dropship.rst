@@ -1,5 +1,8 @@
 .. _subcontractingdropship:
 
+.. index::
+   single: Subcontracting (Dropship Material)
+
 =================================================================
 Setup subcontracting in manufacturing process (Dropship Material)
 =================================================================

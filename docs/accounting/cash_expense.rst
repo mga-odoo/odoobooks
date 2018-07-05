@@ -1,5 +1,8 @@
 .. _cashexpense:
 
+.. index::
+   single: Cash Expense
+
 ==================================================
 How to register cash sales and expense in account?
 ==================================================

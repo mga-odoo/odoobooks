@@ -1,5 +1,8 @@
 .. _rejectinvoice:
 
+.. index::
+   single: Cancel Invoice
+
 ================================================================
 How to reject customer invoice, which is not issued to customer?
 ================================================================

@@ -1,5 +1,8 @@
 .. _setdefaulttax:
 
+.. index::
+   single: Set default tax on product
+
 =============================================================
 How to set default taxes on products, sales order and invoice
 =============================================================

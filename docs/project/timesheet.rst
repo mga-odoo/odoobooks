@@ -1,5 +1,9 @@
 .. _timesheet:
 
+.. index::
+   single: Record time spent on task
+   single: Timesheet
+
 =============================================
 How to record time spent on Task and Project?
 =============================================

@@ -1,5 +1,9 @@
 .. _installmentplans:
 
+.. index::
+   single: Installments Plan
+   single: Payment Terms
+
 =======================================================
 How to define an installment plan on customer invoices?
 =======================================================

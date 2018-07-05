@@ -1,5 +1,8 @@
 .. _vendorbillpayment:
 
+.. index::
+   single: Pay Multiple Vendor Bills
+
 ========================================
 How to pay several vendor bills at once?
 ========================================

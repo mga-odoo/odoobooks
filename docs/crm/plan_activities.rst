@@ -1,5 +1,9 @@
 .. _planactivities:
 
+.. index::
+   single: Plan Activity
+   single: Track Activity
+
 ====================================
 Get organized by planning activities
 ====================================

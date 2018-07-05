@@ -1,5 +1,10 @@
 .. _deliveryaddress:
 
+.. index::
+   single: Delivery Address
+   single: Shipping Address
+   single: Invoice Address
+
 ====================================================
 How to use different invoice and delivery addresses?
 ====================================================

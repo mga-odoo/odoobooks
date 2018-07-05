@@ -1,5 +1,9 @@
 .. _customerfollowups:
 
+.. index::
+   single: Customer Statement
+   single: Customer Followups
+
 ===============================================
 How to automate customer follow-ups with plans?
 ===============================================

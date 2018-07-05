@@ -1,5 +1,9 @@
 .. _taskfromsales:
 
+.. index::
+   single: Create Task from Sale Order
+   single: Create Project from Sale Order
+
 ===================================================================
 How to create task from sales order and invoice based on timesheet?
 ===================================================================

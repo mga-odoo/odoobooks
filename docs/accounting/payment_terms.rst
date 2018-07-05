@@ -1,5 +1,9 @@
 .. _paymentterms:
 
+.. index::
+   single: Payment Terms
+   single: Due Date
+
 ===================================
 How to setup and use payment terms?
 ===================================

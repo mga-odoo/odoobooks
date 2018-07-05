@@ -1,5 +1,8 @@
 .. _deliveryweight:
 
+.. index::
+   single: Shipping rate based on weight
+
 ================================================
 Calculate shipping rates based on product weight
 ================================================

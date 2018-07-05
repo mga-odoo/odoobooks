@@ -1,5 +1,8 @@
 .. _onlineapproval:
 
+.. index::
+   single: Online customer approval on quotation
+
 ==================================================================
 How to get customer approval on quotation through customer portal?
 ==================================================================

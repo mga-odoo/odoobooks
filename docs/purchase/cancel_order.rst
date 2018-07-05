@@ -1,5 +1,8 @@
 .. _cancelorder:
 
+.. index::
+   single: Cancel Purchase order
+
 =============================================================================================
 How to cancel confirmed purchase order or confirmed purchase order received partial shipment?
 =============================================================================================

@@ -1,5 +1,10 @@
 .. _supplierproductcode:
 
+.. index::
+   single: Vendor Product Code
+   single: Vendor Product Name
+   single: Vendor Pricelist
+
 ===========================================================================
 How to search for product based on supplier code or name on purchase order?
 ===========================================================================

@@ -1,5 +1,8 @@
 .. _creditpossale:
 
+.. index::
+   single: Credit Sale on Point of Sale
+
 ===============================================
 How to do credit sale through the point of sale
 ===============================================

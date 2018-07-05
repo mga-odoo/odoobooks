@@ -1,5 +1,8 @@
 .. _bomstockstock:
 
+.. index::
+   single: Bill of Material Stock
+
 ==============================================================
 Compute stock for the kit product based on the component stock
 ==============================================================

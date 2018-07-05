@@ -1,5 +1,8 @@
 .. _leadfromwebsite:
 
+.. index::
+   single: Opportunitie from contact us page
+
 ===========================================================
 Generate leads/opportunities from your website contact page
 ===========================================================

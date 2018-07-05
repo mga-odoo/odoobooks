@@ -1,5 +1,8 @@
 .. _cashwithdrawal:
 
+.. index::
+   single: Cash Withdrawal
+
 ====================================================================
 Transferring money from bank account to petty cash (Cash withdrawal)
 ====================================================================

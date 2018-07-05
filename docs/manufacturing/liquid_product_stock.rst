@@ -1,5 +1,8 @@
 .. _liquidproductstock:
 
+.. index::
+   single: Stock of Liquid Products (unit vs ml)
+
 =========================================================
 Manage stock of liquid products in warehouse (unit vs ml)
 =========================================================

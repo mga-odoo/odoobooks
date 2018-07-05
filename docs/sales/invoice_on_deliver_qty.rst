@@ -1,5 +1,8 @@
 .. _invoiceondeliverqty:
 
+.. index::
+   single: Invoice based on delivered quantity (no inventory app)
+
 ===================================================================================
 Create Invoice based on the delivered quantity, when inventory app is not installed
 ===================================================================================

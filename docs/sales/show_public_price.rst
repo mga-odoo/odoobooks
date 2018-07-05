@@ -1,5 +1,9 @@
 .. _discountvisible:
 
+.. index::
+   single: Show Publice Price
+   single: Show Discount
+
 ============================================
 Show public price & discount to the customer
 ============================================

@@ -1,5 +1,8 @@
 .. _matchpayment:
 
+.. index::
+   single: Payment Matching
+
 ========================================
 How to match payment against an invoice?
 ========================================

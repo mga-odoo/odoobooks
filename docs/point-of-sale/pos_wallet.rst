@@ -1,5 +1,8 @@
 .. _poswallet:
 
+.. index::
+   single: Wallet on Point of Sale
+
 ===================================================
 How to pay invoice through wallet in Point of Sale?
 ===================================================

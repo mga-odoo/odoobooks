@@ -1,5 +1,8 @@
 .. _customerfeedback:
 
+.. index::
+   single: Customer Feedback on Task
+
 ======================================
 How to gather feedback from customers?
 ======================================

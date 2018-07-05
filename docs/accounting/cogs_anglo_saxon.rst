@@ -1,5 +1,10 @@
 .. _cogsanglosaxon:
 
+.. index::
+   single: Cost of Goods Sold
+   single: Anglo-Saxon
+   single: Inventory Valuation
+
 ========================================================================================
 Correct cost of good sold accounting entry for kit type product using anglo saxon method
 ========================================================================================

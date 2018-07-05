@@ -1,5 +1,8 @@
 .. _woodenmrp:
 
+.. index::
+   single: By Products
+
 ===========================================================================
 Wooden, Glass or Plastic sheet consumption during the manufacturing process
 ===========================================================================

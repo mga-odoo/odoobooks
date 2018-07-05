@@ -1,5 +1,8 @@
 .. _invoicemilestones:
 
+.. index::
+   single: Invoice project milestone
+
 =======================================
 How to invoice milestones of a project?
 =======================================

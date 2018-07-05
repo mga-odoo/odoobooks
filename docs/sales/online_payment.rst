@@ -1,5 +1,8 @@
 .. _onlinepayment:
 
+.. index::
+   single: Online approval and payment on order
+
 ===============================================================
 How to get online payment on quotation through customer portal?
 ===============================================================

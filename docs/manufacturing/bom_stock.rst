@@ -1,5 +1,8 @@
 .. _bomstockkit:
 
+.. index::
+   single: Component Stock
+
 ==============================================================
 Compute stock for the kit product based on the component stock
 ==============================================================

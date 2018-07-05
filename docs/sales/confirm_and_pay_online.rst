@@ -1,5 +1,9 @@
 .. _confirmandpayonline:
 
+.. index::
+   single: Online Payment & Approval
+   single: Customer Portal
+
 ================================================================
 Confirm quotation online and pay Invoice through customer portal
 ================================================================

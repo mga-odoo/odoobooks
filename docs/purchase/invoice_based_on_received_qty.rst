@@ -1,5 +1,8 @@
 .. _invoicebasedonreceived:
 
+.. index::
+   single: Invoice based on receiption
+
 =================================================================
 How to control vendor bills, pay vendor bills based on reception?
 =================================================================

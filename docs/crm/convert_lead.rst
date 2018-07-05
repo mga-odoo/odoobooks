@@ -1,5 +1,8 @@
 .. _convertlead:
 
+.. index::
+   single: Lead to Opportunitie
+
 ================================
 Convert leads into opportunities
 ================================

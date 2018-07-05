@@ -1,4 +1,7 @@
-.. maketoorderexception:
+.. _maketoorderexception:
+
+.. index::
+   single: Change Supplier During Dropshipping
 
 ===============================================================================================
 How to buy from new supplier with drop ship policy, when you default supplier reject the order?

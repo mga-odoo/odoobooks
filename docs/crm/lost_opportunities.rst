@@ -1,5 +1,8 @@
 .. _lostopportunities:
 
+.. index::
+   single: Lost Opportunities
+
 =========================
 Manage lost opportunities
 =========================

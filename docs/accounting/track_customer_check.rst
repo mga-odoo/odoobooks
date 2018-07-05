@@ -1,5 +1,8 @@
 .. _trackcustomercheck:
 
+.. index::
+   single: Check Clearance Status
+
 ==============================================
 How to track uncleared customer check in bank?
 ==============================================

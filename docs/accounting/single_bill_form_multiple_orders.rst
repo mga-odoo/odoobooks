@@ -1,5 +1,8 @@
 .. _singlebillformultipleorders:
 
+.. index::
+   single: Merge Vendor Bills
+
 ===============================================================
 How to create single vendor bill from multiple purchase orders?
 ===============================================================
