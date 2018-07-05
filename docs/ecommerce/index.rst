@@ -1,8 +1,8 @@
 .. _ecommerce:
 
-=========
-eCommerce
-=========
+==========================
+Selling Online - eCommerce
+==========================
 
 Products
 --------

@@ -1,8 +1,8 @@
 .. _purchaseindex:
 
-========
-Purchase
-========
+===================
+Purchase Management
+===================
 .. toctree::
    :maxdepth: 1
 

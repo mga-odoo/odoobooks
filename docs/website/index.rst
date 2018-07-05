@@ -1,8 +1,8 @@
 .. _ecommerceindex:
 
-=======
-Website
-=======
+============================
+Content Management - Website
+============================
 
 Website
 -------

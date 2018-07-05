@@ -1,8 +1,8 @@
 .. _crmindex:
 
-===
-CRM
-===
+================================
+Customer Relationship Management
+================================
 
 Organize the pipeline
 ---------------------

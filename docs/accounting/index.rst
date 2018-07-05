@@ -3,9 +3,9 @@
 .. index::
    single: Accounting
 
-==========
-Accounting
-==========
+======================
+Accounting and Finance
+======================
 .. toctree::
    :maxdepth: 1
 
