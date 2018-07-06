@@ -88,7 +88,7 @@ License
 All the pages, images and vidoes of Odoo Books are free to use modify and reuse
 on blog, forum, support platform, etc. They are provided under Creative
 Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-Please credits to https://odoobook.com when using page(s) from Odoo Online Book.
+Please credits to https://odoobooks.com when using page(s) from Odoo Online Book.
 
 .. image:: images/licenses.png
 

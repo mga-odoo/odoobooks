@@ -56,6 +56,7 @@ master_doc = 'index'
 # General information about the project.
 project = u'Odoo Online Book'
 copyright = u'Mantavya Gajjar'
+author = u'Mantavya Gajjar'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -165,9 +166,23 @@ html_show_copyright = True
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 #html_file_suffix = None
 
+
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'OdooBook'
 
+
+latex_documents = [
+    (master_doc, 'OdooBook.tex', project, copyright, 'manual'),
+]
+
+man_pages = [
+    (master_doc, 'OdooBook', project, [author], 1)
+]
+
+texinfo_documents = [
+    (master_doc, 'odooonlinebook', project, author, 'odooonlinebook',
+        'Odoo Implementation Best Practice', 'Miscellaneous'),
+]
 # latex_elements = {
 # # The paper size ('letterpaper' or 'a4paper').
 #     'papersize': 'letterpaper',
