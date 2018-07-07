@@ -82,6 +82,10 @@ Mantavya can be reachable at mail@mantavyagajjar.in.
 Reviewer(s)
 -----------
 
+Credits
+-------
+Thanks to all the contributors of Odoo Documentation project as many pages/topics
+of this book was actually taken from https://www.odoo.com/documentation.
 
 License
 -------
