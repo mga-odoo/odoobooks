@@ -13,12 +13,12 @@
 About Book
 ==========
 
-.. image:: images/openerp-book.png
-   :height: 300px
-   :width: 240 px
-   :scale: 100 %
-   :alt: alternate text
-   :align: right
+.. .. image:: images/openerp-book.png
+..    :height: 300px
+..    :width: 240 px
+..    :scale: 100 %
+..    :alt: alternate text
+..    :align: right
 
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
@@ -44,12 +44,12 @@ follow the configuration steps, some page also shows the video for the configura
 Author(s)
 ---------
 
-.. image:: images/mga.jpg
-   :height: 300px
-   :width: 240 px
-   :scale: 100 %
-   :alt: Mantavya Gajjar
-   :align: right
+.. .. image:: images/mga.jpg
+..    :height: 300px
+..    :width: 240 px
+..    :scale: 100 %
+..    :alt: Mantavya Gajjar
+..    :align: right
 
 **Mantavya Gajjar** has 12+ years' experience in Odoo, starting from TinyERP
 and OpenERP. He started his career as a developer, he developed many new features

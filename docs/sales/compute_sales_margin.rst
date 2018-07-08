@@ -14,14 +14,15 @@ whether we can allow additional discount to the customer or not.
 
 Configuration
 -------------
-Install the **Sales Management**, **Purchase Management** applications.
+Install the **Sales Management** application.
 
-.. image:: images/chapter_02_34.png
-   :alt: Installed Applications
+.. image:: images/chapter_02_15.png
+   :alt: Sales Application
    :align: center
 
-Installation of sales and purchase will install other applications
-such as **Inventory Management** and **Invoicing Management**.
+.. note:: If you want to check Margin feature for *Average Cost (AVCO)* install
+  **Purchase Management**. Installation of sales and purchase will install other
+  applications such as **Inventory Management** and **Invoicing Management**.
 
 Margins
 ~~~~~~~
@@ -74,3 +75,5 @@ Access the video at https://www.youtube.com/watch?v=GzhZi2296Z8
     </div>
 
 .. seealso::
+
+    * :doc:`../accounting/stock_valuation`
