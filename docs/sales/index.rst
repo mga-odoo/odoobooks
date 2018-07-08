@@ -89,6 +89,13 @@ Delivery Charges
    free_delivery.rst
    delivery_based_on_weight.rst
 
+Sales Margin
+------------
+.. toctree::
+   :maxdepth: 1
+
+   compute_sales_margin.rst
+
 Manage Inventory
 ----------------
 .. toctree::
