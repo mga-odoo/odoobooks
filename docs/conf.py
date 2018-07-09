@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Odoo Implementation Best Practices - Online Odoo Book'
+project = u'Odoo Book'
 copyright = u'Mantavya Gajjar'
 author = u'Mantavya Gajjar'
 
@@ -182,7 +182,7 @@ man_pages = [
 
 texinfo_documents = [
     (master_doc, 'odooonlinebook', project, author, 'odooonlinebook',
-        'Odoo Implementation Best Practices', 'Miscellaneous'),
+        'Odoo Book', 'Miscellaneous'),
 ]
 # latex_elements = {
 # # The paper size ('letterpaper' or 'a4paper').
