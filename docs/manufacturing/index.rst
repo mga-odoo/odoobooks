@@ -27,3 +27,4 @@ Subcontracting
 
    subcontracting.rst
    subcontracting_dropship.rst
+   subcontractor.rst
