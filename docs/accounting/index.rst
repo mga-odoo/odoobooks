@@ -91,7 +91,7 @@ Vendor Bills & Payments
    print_check.rst
    batch_deposit.rst
    vendor_bill_payment.rst
-   aged_payable.rst
+   customer_aged_payable_report.rst
    single_bill_form_multiple_orders.rst
 
 Inventory Valuation
