@@ -20,6 +20,7 @@ Customer Invoice
    first_invoice.rst
    match_payment.rst
    cash_discount.rst
+   invoice_numbers_by_financial_year.rst
 
 Payment Terms
 -------------
@@ -28,16 +29,19 @@ Payment Terms
 
    payment_terms.rst
    installment_plans.rst
+   warning_on_credit_limit.rst
 
 Payment & Followups
 -------------------
 .. toctree::
    :maxdepth: 1
 
-   customer_followups.rst
    record_customer_payment.rst
    track_customer_check.rst
    partial_payment.rst
+   customer_followups.rst
+   advance_payment_from_customer.rst
+   print_customer_ledger.rst
 
 Setup Accounting
 ----------------
@@ -46,6 +50,13 @@ Setup Accounting
 
    company_setup.rst
    import_opening.rst
+
+Taxes & Duties
+--------------
+.. toctree::
+   :maxdepth: 1
+
+   tax_based_on_loal_or_export_sales.rst
 
 Credit Notes
 ------------
@@ -72,6 +83,7 @@ Indian Localization
 .. toctree::
    :maxdepth: 1
 
+   configure_gst_in_odoo.rst
    tax_deduction_at_source.rst
 
 Multi Currency
@@ -91,6 +103,7 @@ Vendor Bills & Payments
    print_check.rst
    batch_deposit.rst
    vendor_bill_payment.rst
+   partial_payment_on_multiple_bill_payment.rst
    customer_aged_payable_report.rst
    single_bill_form_multiple_orders.rst
 

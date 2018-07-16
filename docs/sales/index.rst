@@ -26,6 +26,8 @@ Quotation Template
 
    quotation_template.rst
    sugested_product.rst
+   quotation_template_online_customer_apporoval.rst
+   quotation_template_online_apporoval_and_payment.rst
 
 Product and Pricing
 -------------------
