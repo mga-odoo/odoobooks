@@ -75,8 +75,8 @@ The salesman can make the changes as per the requirement but you can be
 sure that salesman will never forget to add the default terms and
 conditions.
 
-.. tip:: The payment terms will be added automatically at the end of every
-  quotation as a part of the terms and conditions.
+Tip: The payment terms will be added automatically at the end of every
+quotation as a part of the terms and conditions.
 
 .. |image0| image:: ./media/image3.png
    :width: 6.5in

@@ -71,16 +71,6 @@ messages send to customer or received from the customer are available
 below quotation. All the communication history will be preserved and
 available when quotation gets converted to sales order.
 
-Video
------
-Access the video at https://www.youtube.com/watch?v=TUcNeJ4CSVg
-
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/TUcNeJ4CSVg" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
-    </div>
-
 .. |image0| image:: ./media/image3.png
    :width: 6.5in
    :height: 1.94444in
