@@ -35,11 +35,12 @@ version every 12 to 15 months.
 
 This book covers the implementation best practices and approach to configure
 the business applications out-of-the-box regardless of  Odoo versions.
-Each topic on this book try to give solution for the real-life business problem,
-follow the configuration steps, some page also shows the video for the configuration steps.
+Each topic on this book give you a solution for the real-life business problem,
+follow the steps and configure application to solve your businness problems,
+some page you will get the video that explain configuration steps in details.
 
 .. note:: Some of the topics on this book give the step-by-step configuration
-  through video. You can access all the videos at `Youtube Page <https://www.youtube.com/c/MantavyaGajjar>`_ used on this website.
+  through video. You can access all those videos at `Youtube Page <https://www.youtube.com/c/MantavyaGajjar>`_ used on this website.
 
 Author(s)
 ---------
@@ -74,18 +75,15 @@ the Gujarat Vidyapith Computer Science Alumni Association, he contributes his
 free time to various social activities. He also plays the role of a trustee
 member and treasurer at Gujarat Vidyapith Computer Science Alumni Association.
 
-Contact
-~~~~~~~
-Mantavya can be reachable at mail@mantavyagajjar.in.
-
+*Mantavya can be reachable at mail@mantavyagajjar.in.*
 
 Reviewer(s)
 -----------
 
 Credits
 -------
-Thanks to all the contributors of Odoo Documentation project as many pages/topics
-of this book was actually taken from https://www.odoo.com/documentation.
+Thanks to all the contributors of Odoo Official Documentation project as many
+pages/topics of this book was actually taken from https://www.odoo.com/documentation.
 
 License
 -------
@@ -98,7 +96,7 @@ Please credits to https://odoobooks.com when using page(s) from Odoo Online Book
 
 Creative Commons License
 
-Odoo Implementation Best Practice Book is licensed under a Creative Commons
+Odoo Book is licensed under a Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 Book updates
