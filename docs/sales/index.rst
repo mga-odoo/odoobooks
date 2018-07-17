@@ -16,6 +16,7 @@ Sales Quotation
    create_my_first_quotation.rst
    send_quotation_by_email.rst
    set_default_terms_and_conditions.rst
+   change_your_quotation_layout.rst
    apply_default_taxes_on_products_or_sales_order.rst
    section_on_order.rst
 
