@@ -13,10 +13,10 @@ Sales Quotation
 .. toctree::
    :maxdepth: 1
 
-   create_first_quotation.rst
-   send_quotation_by_mail.rst
+   create_my_first_quotation.rst
+   send_quotation_by_email.rst
    set_default_terms_and_conditions.rst
-   set_default_tax.rst
+   apply_default_taxes_on_products_or_sales_order.rst
    section_on_order.rst
 
 Quotation Template

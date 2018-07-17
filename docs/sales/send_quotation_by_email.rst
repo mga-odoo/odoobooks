@@ -71,12 +71,12 @@ messages send to customer or received from the customer are available
 below quotation. All the communication history will be preserved and
 available when quotation gets converted to sales order.
 
-.. |image0| image:: ./media/image3.png
+.. |image0| image:: 02/media/image4.png
    :width: 6.5in
    :height: 1.94444in
-.. |image1| image:: ./media/image6.png
+.. |image1| image:: 02/media/image6.png
    :width: 6.5in
    :height: 4.22222in
-.. |image2| image:: ./media/image5.png
+.. |image2| image:: 02/media/image5.png
    :width: 6.5in
    :height: 2.68056in

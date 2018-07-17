@@ -107,21 +107,21 @@ Update your company’s details (address, website, logo, etc) appearing on
 your quotation from the the Settings menu on the app switcher, and on
 click on the link Settings → General settings → Configure company data.
 
-.. |Sales Management Application| image:: ./media/image2.png
+.. |Sales Management Application| image:: 01/media/image4.png
    :width: 3.02604in
    :height: 0.91968in
-.. |image1| image:: ./media/image5.png
+.. |image1| image:: 01/media/image6.png
    :width: 6.5in
    :height: 2.79167in
-.. |image2| image:: ./media/image12.png
+.. |image2| image:: 01/media/image12.png
    :width: 6.5in
    :height: 3.01389in
-.. |image3| image:: ./media/image11.png
+.. |image3| image:: 01/media/image11.png
    :width: 6.5in
    :height: 1.83333in
-.. |image4| image:: ./media/image8.png
+.. |image4| image:: 01/media/image10.png
    :width: 6.5in
    :height: 3.18056in
-.. |image5| image:: ./media/image7.png
+.. |image5| image:: 01/media/image9.png
    :width: 5.24907in
    :height: 6.79688in
