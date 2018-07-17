@@ -13,8 +13,8 @@ Sales Quotation
 .. toctree::
    :maxdepth: 1
 
-   create_first_quote.rst
-   send_quotation_by_email.rst
+   create_first_quotation.rst
+   send_quotation_by_mail.rst
    set_default_terms_and_conditions.rst
    set_default_tax.rst
    section_on_order.rst

@@ -1,83 +1,86 @@
-.. _defaulttermsandconditions:
+Set default terms and condition on quotation
+============================================
 
-.. index::
-   single: Set Terms and Conditions
-   single: Set Default terms and conditions
+Every quotation issued to the prospect need to have terms and
+conditions, those terms and conditions are accepted by the customer at
+the time of accepting the quotation.
 
-===============================================================
-How to set default terms and condition for every new quotation?
-===============================================================
-Quotations are documents sent to customers to offer an estimated price
-for a particular set of goods or services along with the business terms and condions.
-The customer can accept the quotation, in which case the seller will have to issue a sales order, or refuse it.
+The most common terms and conditions includes the payment terms,
+delivery date, and tax clarification, there are many other points as
+below can be included in the terms and conditions:
 
-This section will show you how to set the default terms and condition for every new quotation.
+-  Acceptance
+
+-  Payment Terms
+
+-  Taxes
+
+-  Warranty
+
+-  Claims
+
+-  Returns
+
+-  Shipment
+
+-  Security Interest
+
+-  Cancellation
+
+-  Indemnification
+
+-  Governing Law
+
+Business case
+-------------
+
+Let’s take an example of the trading company, they need to define the
+terms and conditions required by their nature of business, the terms and
+conditions should be applied to all the quotation created by any
+salesman. They want to set the below point as a default terms and
+conditions:
+
+-  Delivery of the goods will take 10 working days
+
+-  Other taxes such as octroi will be charges extra
+
+-  100% payment should be released at the time of confirmation
 
 Configuration
 -------------
-Install the Sales Management module to be able to send quotation,
-you’ll need to install the Sales Management module from the app module in the Odoo backend.
 
-.. image:: images/chapter_02_15.png
-   :alt: Sales Settings
-   :align: center
+Assumed that the **Sales Management** application is already installed.
 
-Set default terms and conditions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Every quotation issued to the prospect need to have some default terms and conditions,
-those terms and conditions are accepted by the customer at the time of accepting the quotation.
+Default terms and conditions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The standard terms and conditions includes the below points:
+Let’s go to Sales / Configuration / Settings, enable the default terms
+and conditions and enter all the conditions those required to be set by
+default on all the quotation.
 
-* Acceptance
-* Payment Terms
-* Taxes
-* Warranty
-* Claims
-* Returns
-* Shipment
-* Security Interest
-* Cancellation
-* Indemnification
-* Governing Law
+|image0|
 
-Prepare and set the default terms and conditions under
-the ``Sales / Configuration / Setting``.
+Click on **SAVE** to apply the settings.
 
-.. image:: images/chapter_02_29.png
-   :alt: Terms and Condition
-   :align: center
+Create a quotation
+------------------
 
-Create your quotation
----------------------
-To create your first quotation, click on ``Sales / Quotations`` and click on the Create button.
-The default terms and conditions should be filled and appeared on the printed quotation.
+Goto **Sales / Orders / Quotations** and create a new quotation, you
+will be notice that quotation is empty but the default terms and
+conditions is set on it.
 
-.. image:: images/chapter_02_33.png
-   :alt: Terms and Condition
-   :align: center
+|image1|
 
-By setting the term and conditions in the global settings, you can be sure
-that all the quotation follow the same terms and conditions, prepared and send by
-all the sales person.
+The salesman can make the changes as per the requirement but you can be
+sure that salesman will never forget to add the default terms and
+conditions.
 
-Print quotation
-~~~~~~~~~~~~~~~
-Quotation can be printed along with term and conditions.
+.. tip:: The payment terms will be added automatically at the end of every
+  quotation as a part of the terms and conditions.
 
-.. image:: images/chapter_02_30.png
-   :alt: Terms and Condition
-   :align: center
-
-Video
------
-Access the video at https://www.youtube.com/watch?v=hqY5eZxgfRs
-
-.. raw:: html
-
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/hqY5eZxgfRs" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
-    </div>
-
-.. seealso::
-  * :doc:`send_quotation_by_email`
+.. |image0| image:: ./media/image3.png
+   :width: 6.5in
+   :height: 2.52778in
+.. |image1| image:: ./media/image4.png
+   :width: 6.5in
+   :height: 2.875in

@@ -10,6 +10,7 @@ Employee
    :maxdepth: 1
 
    organizational_chart.rst
+   holiday.rst
 
 Employee Expense
 ----------------
