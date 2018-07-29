@@ -132,7 +132,7 @@ Business case
 This section gives you a real-life business case.
 
 Configuration
-~~~~~~~~~~~~~
+-------------
 
 this sections give you a step-by-step configuration, that help you to
 fit the real-life business problem in Odoo using the standard features. Some of
