@@ -21,16 +21,12 @@ such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
   topics you would like to have on the book.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
 
    about/about.rst
    about/author.rst
    about/reviewer.rst
    about/preface.rst
-
-.. toctree::
-   :maxdepth: 3
-
    odoo/index.rst
    crm/index.rst
    sales/index.rst
