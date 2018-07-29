@@ -16,7 +16,7 @@ business application out-of-the box for their business.
 Edition. This book covers best implementation practice for most used applications
 such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
 
-:ref:`Read More → <about/about>`
+:ref:`Read More → <./about/about>`
 
 .. note:: Please comment on the page below, if you have any question related to
   that topic. You can also send an email to mail@mantavyagajjar.in to propose new
