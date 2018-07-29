@@ -41,10 +41,10 @@ currency. **Multi-Currencies** feature can be activated from **Invoicing
 |image0|
 
 .. tip:: Select **Automatic Currency Rate** to get the accurate currency
-conversion rate when you do want a currency conversion to prepare the
-quotation, set *Daily* for the **Internal** field, the rate can be
-updated from different exchange services such as *European Central
-Bank*, *Federal Tax Administration* or *Mexican Bank*.
+  conversion rate when you do want a currency conversion to prepare the
+  quotation, set *Daily* for the **Internal** field, the rate can be
+  updated from different exchange services such as *European Central
+  Bank*, *Federal Tax Administration* or *Mexican Bank*.
 
 Pricelist
 ~~~~~~~~~
@@ -68,9 +68,9 @@ Enter *EMEA Pricelist* in the **Name** field\ *,* select *EUR* in the
 **Currency** field and add the *Europe* in the **Country Group** field.
 
 .. note:: The country group is used to assign pricelist automatically
-when customer is being created. So, even if your salesman forget to
-assign pricelist the system will assign automatically when customer’s
-country is set on the customer.
+  when customer is being created. So, even if your salesman forget to
+  assign pricelist the system will assign automatically when customer’s
+  country is set on the customer.
 
 Product
 ~~~~~~~

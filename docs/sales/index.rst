@@ -40,6 +40,13 @@ Product and Pricing
    adapt_price_based_on_customer_location.rst
    compute_and_apply_discount_from_pricelist.rst
 
+Sales Margin
+------------
+.. toctree::
+  :maxdepth: 1
+
+  compute_sales_margin.rst
+
 Unit of Measure
 ---------------
 .. toctree::
@@ -67,23 +74,6 @@ Invoicing
   credit_note_from_order.rst
   single_order_for_multiple_orders.rst
 
-Customer Portal
----------------
-.. toctree::
-   :maxdepth: 1
-
-   online_approval.rst
-   online_payment.rst
-   confirm_and_pay_online.rst
-
-Service Tracking
-----------------
-.. toctree::
-   :maxdepth: 1
-
-   invoice_milestones.rst
-   invoice_based_on_timesheet.rst
-
 Delivery Charges
 ----------------
 .. toctree::
@@ -92,16 +82,35 @@ Delivery Charges
    free_delivery.rst
    delivery_based_on_weight.rst
 
-Sales Margin
-------------
-.. toctree::
-   :maxdepth: 1
-
-   compute_sales_margin.rst
-
 Manage Inventory
 ----------------
 .. toctree::
    :maxdepth: 1
 
    make_to_order.rst
+
+Service Product
+---------------
+.. toctree::
+  :maxdepth: 1
+
+  invoice_milestones.rst
+  invoice_based_on_timesheet.rst
+
+Subscription
+------------
+.. toctree::
+  :maxdepth: 1
+
+  subscription/setup_recurring_invoice.rst
+  subscription/sell_subscription_throught_sales_quotation.rst
+  subscription/sell_subscription_through_ecommerce_platform.rst
+
+Customer Portal
+---------------
+.. toctree::
+  :maxdepth: 1
+
+  online_approval.rst
+  online_payment.rst
+  confirm_and_pay_online.rst

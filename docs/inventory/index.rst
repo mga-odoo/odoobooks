@@ -18,6 +18,7 @@ Delivery Order
    :maxdepth: 1
 
    delivery_address.rst
+   amendment_delivery_order.rst
 
 Incoming Shipment
 -----------------
