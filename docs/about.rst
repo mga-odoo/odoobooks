@@ -152,7 +152,7 @@ See also
 This section has the useful links to the related business cases.
 
 Conversations
--------------
+=============
 
 There are different text styles, that used to differentiate the
 informations, like **Bold text** used to name any screen label, menus,
