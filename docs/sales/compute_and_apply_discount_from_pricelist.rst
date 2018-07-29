@@ -60,8 +60,8 @@ be computed by applying the discount (%) and discount will not be
 visible to customer on quotation.
 
 .. tip:: The *Discount included in the price* option can be used to
-apply the price variation such as commodity price, it may decrease or
-increased.
+  apply the price variation such as commodity price, it may decrease or
+  increased.
 
 Create a product
 ~~~~~~~~~~~~~~~~
@@ -105,6 +105,16 @@ Pricelist*.
 The 30% is computed based on the difference between price offered to
 distributors and the product **Sales Price**. *I.e. 3200 - 2240 = 960
 which is 30% of the 3200 price*.
+
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=J41EpiT0a5g
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/J41EpiT0a5g" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
 
 .. |image0| image:: static/compute_and_apply_discount_from_pricelist/media/image6.png
    :width: 6.5in

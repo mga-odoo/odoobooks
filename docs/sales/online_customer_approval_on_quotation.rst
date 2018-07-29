@@ -40,7 +40,7 @@ Information** tab.
 |image0|
 
 .. tip:: You can change the **Confirmation Mode** for each quotation
-regardless of the configuration on quotation template.
+  regardless of the configuration on quotation template.
 
 Accept quotation
 ~~~~~~~~~~~~~~~~
@@ -58,10 +58,10 @@ manufacturing order or create a task or project in the project
 management depending on your configuration.
 
 .. tip:: Customer can accept and sign online quotation which are not
-expired yet. The expiration date will be computed on quotation based on
-the number of days defined on quotation template in **Quotation expires
-after** field. However the specific **Expiration Date** can be set on
-the quotation manually before you send the quotation by email.
+  expired yet. The expiration date will be computed on quotation based on
+  the number of days defined on quotation template in **Quotation expires
+  after** field. However the specific **Expiration Date** can be set on
+  the quotation manually before you send the quotation by email.
 
 Reject quotation
 ~~~~~~~~~~~~~~~~
@@ -70,6 +70,16 @@ The quotation will be set to **Cancelled** state in the backend once it
 has been rejected by the customer online, however it can be reset to
 draft modified and send it back to the customer when you are in
 negotiation process.
+
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=NBfqS4LlKQc
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/NBfqS4LlKQc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
 
 .. |image0| image:: static/online_customer_approval_on_quotation/media/image4.png
    :width: 6.5in

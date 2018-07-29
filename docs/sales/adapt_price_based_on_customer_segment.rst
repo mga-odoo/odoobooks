@@ -99,13 +99,23 @@ of Laptop, the special price *790/unit* applied as we prepare the
 quotation for more than *5* quantity.
 
 .. tip:: Pricelist can be changed on the quotation after selecting a
-customer. The pricelist selected on the quotation have the higher
-priority over the pricelist assigned to the customer.
+  customer. The pricelist selected on the quotation have the higher
+  priority over the pricelist assigned to the customer.
 
 Now, a salesman can create quotations quickly regardless of the customer
 type and price offered to them, of course a correct pricelist have to be
 configured when you create customer, it can be reviewed later depending
 on the turnover.
+
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=MKStY2Tt1l0
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/MKStY2Tt1l0" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
 
 .. |image0| image:: static/price_based_on_currency/media/image7.png
    :width: 6.5in

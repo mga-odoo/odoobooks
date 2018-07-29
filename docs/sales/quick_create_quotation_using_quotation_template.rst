@@ -97,6 +97,15 @@ on quotation.
 .. tip:: Please remove the attached pdf quotation at the time sending
   quotation by mail, if you want customer open the quotation preview.
 
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=2b7QcMnA3EA
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/2b7QcMnA3EA" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
 
 .. |image0| image:: static/quick_create_quotation_using_quotation_template/media/image8.png
    :width: 6.5in

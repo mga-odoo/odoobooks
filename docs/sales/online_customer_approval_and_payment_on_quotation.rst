@@ -47,8 +47,8 @@ I have installed and configure the *Authorised.net* payment acquirer.
 |image0|
 
 .. tip:: Do not forget to **Publish** configured payment acquire to
-force customer to pay by that and unpublish other acquire such as **Wire
-Transfer**.
+  force customer to pay by that and unpublish other acquire such as **Wire
+  Transfer**.
 
 I have also made change to **Payment Flow** from *Redirect to the
 acquirer website* to *Payment from Odoo* as i want to process the
@@ -67,7 +67,7 @@ tab.
 |image1|
 
 .. tip:: You can change the **Confirmation Mode** for each quotation
-regardless of the configuration on quotation template.
+  regardless of the configuration on quotation template.
 
 Accept and pay online
 ~~~~~~~~~~~~~~~~~~~~~
@@ -82,14 +82,14 @@ The quotation accepted and paid by the customer online will convert
 quotation to sales order in backend.
 
 .. warning:: Make sure that customer has correct contract details before
-they process for the online payment. Some payment acquirer required
-complete customer details.
+  they process for the online payment. Some payment acquirer required
+  complete customer details.
 
 .. tip:: Customer can accept and pay online quotation which are not
-expired yet. The expiration date will be computed on quotation based on
-the number of days defined on quotation template in **Quotation expires
-after** field. However the specific **Expiration Date** can be set on
-the quotation manually before you send the quotation by email.
+  expired yet. The expiration date will be computed on quotation based on
+  the number of days defined on quotation template in **Quotation expires
+  after** field. However the specific **Expiration Date** can be set on
+  the quotation manually before you send the quotation by email.
 
 The quotation converted to sales order and It will automatically
 triggers the next business process in backend such as creating a
@@ -113,6 +113,16 @@ The quotation will be set to **Cancelled** state in the backend once it
 has been rejected by the customer online, however it can be reset to
 draft modified and send it back to the customer when you are in
 negotiation process.
+
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=MJZevBuebyM
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/MJZevBuebyM" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
 
 .. |image0| image:: static/online_customer_approval_and_payment_on_quotation/media/image9.png
    :width: 6.5in

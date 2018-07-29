@@ -26,7 +26,7 @@ Bottom of the popup windows you can choose the layout for all your legal
 document which will be printed with header and footer.
 
 .. tip:: Do not forget to select the company logo, you can click on
-Preview link to check how it looks before you choose.
+  Preview link to check how it looks before you choose.
 
 Choose the appropriate layout and apply the setting.
 

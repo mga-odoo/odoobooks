@@ -62,7 +62,7 @@ should be entered between 0 to 100, it computes discount in percentage.
 
 If you don’t have any customer or product created before on your Odoo
 instance yet, you can create them on the fly directly from your
-quotations :
+quotations:
 
 -  To add a new customer, click on the **Customer** drop-down menu and
       click on **Create and edit**. In this new window, you will be able
@@ -108,8 +108,19 @@ print your first quotation. Click on the **PRINT** button again, you
 will get the printable PDF version of your quotation.
 
 .. tip:: Update your company’s details (address, website, logo, etc) can
-be changed later by clicking on the link **Change Document Template**
-under the **Settings / General Settings**.
+  be changed later by clicking on the link **Change Document Template**
+  under the **Settings / General Settings**.
+
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=N0kcHM2msHE
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/N0kcHM2msHE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
+
 
 .. |Sales Management Application| image:: static/create_my_first_quotation/media/image3.png
    :width: 3.02604in

@@ -43,8 +43,8 @@ discount, to apply 5% discount enter 5 in the **Discount (%)** field for
 iPad Mini product in the sales order line.
 
 .. tip:: The discount should be entered between 0 to 100, it computes
-discount in percentage. The price will change automatically when you
-enter the discount.
+  discount in percentage. The price will change automatically when you
+  enter the discount.
 
 |image1|
 
@@ -58,7 +58,17 @@ have not applied discount on any of the product on quotation as you
 don’t want to offer discount to your customer.
 
 .. tip:: All the taxes applicable on the product will be computed on the
-discounted product price (i.e. Taxes will be computed on **Subtotal**)
+  discounted product price (i.e. Taxes will be computed on **Subtotal**)
+
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=tq3e17Ccjxk
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/tq3e17Ccjxk" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
 
 .. |image0| image:: static/apply_manual_discount/media/image4.png
    :width: 6.5in

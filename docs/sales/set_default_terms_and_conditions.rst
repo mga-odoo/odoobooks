@@ -79,6 +79,17 @@ conditions.
   every quotation as a part of the terms and conditions in the printed
   quotation if any.
 
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=hqY5eZxgfRs
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/hqY5eZxgfRs" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
+
+
 .. |image0| image:: static/set_default_terms_and_condition/media/image3.png
    :width: 6.5in
    :height: 2.52778in
