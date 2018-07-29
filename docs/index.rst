@@ -6,9 +6,9 @@
 .. index::
    single: Home
 
-=========
-Odoo Book
-=========
+================
+Odoo Online Book
+================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
@@ -24,10 +24,7 @@ Manufacturing.
 .. toctree::
    :maxdepth: 3
 
-   about/about.rst
-   about/author.rst
-   about/reviewer.rst
-   about/preface.rst
+   about.rst
    odoo/index.rst
    crm/index.rst
    sales/index.rst
