@@ -21,8 +21,7 @@ such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
   topics you would like to have on the book.
 
 .. toctree::
-   :maxdepth: 3
-   :hidden:
+   :maxdepth: 1
 
    about/about.rst
    about/author.rst

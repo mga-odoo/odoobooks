@@ -5,7 +5,7 @@ Table of Contents
 .. toctree::
    :maxdepth: 3
 
-   about.rst
+   about/about.rst
    odoo/index.rst
    crm/index.rst
    sales/index.rst

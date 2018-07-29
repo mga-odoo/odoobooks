@@ -9,10 +9,10 @@ order, or refuse it.
 Business case
 -------------
 
-For example, *My Company* sells electronic products and a client
-*Agrolait* showed interest in buying 3 *iPads* to facilitate their
-operations. I would like to send them a quotation for those *iPads* with
-a sales price of *320 USD* per *iPad* with a **5% discount**.
+For example, *My Company* sells electronic products and a client *John
+Deo* showed interest in buying 3 *iPads* to facilitate their operations.
+I would like to send them a quotation for those *iPads* with a sales
+price of *320 USD* per *iPad* with a **5% discount**.
 
 Configuration
 -------------
@@ -29,8 +29,8 @@ Discounts on sales order line
 Allowing discounts on quotations is a common sales practice to improve
 the chances to convert the prospect into a customer.
 
-In our example, we want to grant 5% discount to our customer *Agrolait*
-on the sale price. To enable the feature, go into the **Sales**
+In our business case, we want to grant 5% discount to our customer *John
+Deo* on the sale price. To enable the feature, go into the **Sales**
 application, select **Configuration / Settings** and, under **Pricing**
 section, select it and **APPLY** to allow manual discounts on order
 lines.
@@ -57,8 +57,8 @@ under **Ordered Quantity** and the **Discount** if applicable.
 
 |image2|
 
-The discount should be entered between 0 to 100, it computes discount in
-percentage. To apply 5% discount enter 5 in the **Discount (%)**.
+To apply 5% discount enter 5 in the **Discount (%)**. The discount
+should be entered between 0 to 100, it computes discount in percentage.
 
 If you don’t have any customer or product created before on your Odoo
 instance yet, you can create them on the fly directly from your
@@ -92,36 +92,37 @@ You can select the expiration date of your quotation and add your
 company’s terms and conditions directly in your quotation (see picture
 below).
 
-|image4|
-
 Preview quotation
 -----------------
 
-If you want to see what your quotation looks like before sending it,
-click on the Print button (upper left corner). It will give you a
-printable PDF version with all your quotation details.
+You can check the quotation before you send to the customer by email,
+click on the **PRINT** button (upper left corner). You will see the
+popup window that ask for company master details such as address,
+contact, email, VAT number, and report layout you want to set for your
+company.
 
-|image5|
+|image4|
 
-Update your company’s details (address, website, logo, etc) appearing on
-your quotation from the the Settings menu on the app switcher, and on
-click on the link Settings → General settings → Configure company data.
+Click on the **SAVE** button to apply the settings, now you are ready to
+print your first quotation. Click on the **PRINT** button again, you
+will get the printable PDF version of your quotation.
 
-.. |Sales Management Application| image:: 01/media/image4.png
+.. tip:: Update your company’s details (address, website, logo, etc) can
+be changed later by clicking on the link **Change Document Template**
+under the **Settings / General Settings**.
+
+.. |Sales Management Application| image:: static/create_my_first_quotation/media/image3.png
    :width: 3.02604in
    :height: 0.91968in
-.. |image1| image:: 01/media/image6.png
+.. |image1| image:: static/create_my_first_quotation/media/image4.png
    :width: 6.5in
-   :height: 2.79167in
-.. |image2| image:: 01/media/image12.png
+   :height: 2.11111in
+.. |image2| image:: static/create_my_first_quotation/media/image6.png
    :width: 6.5in
-   :height: 3.01389in
-.. |image3| image:: 01/media/image11.png
+   :height: 3.56944in
+.. |image3| image:: static/create_my_first_quotation/media/image9.png
    :width: 6.5in
    :height: 1.83333in
-.. |image4| image:: 01/media/image10.png
+.. |image4| image:: static/create_my_first_quotation/media/image10.png
    :width: 6.5in
-   :height: 3.18056in
-.. |image5| image:: 01/media/image9.png
-   :width: 5.24907in
-   :height: 6.79688in
+   :height: 5.06944in

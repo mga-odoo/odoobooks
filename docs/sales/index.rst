@@ -13,32 +13,32 @@ Sales Quotation
 .. toctree::
    :maxdepth: 1
 
-   create_my_first_quotation.rst
+   create_my_first_quotation
    send_quotation_by_email.rst
-   set_default_terms_and_conditions.rst
    change_your_quotation_layout.rst
-   apply_default_taxes_on_products_or_sales_order.rst
-   section_on_order.rst
+   set_default_terms_and_conditions.rst
+   apply_default_tax.rst
+   sections_on_sales_orders.rst
 
 Quotation Template
 ------------------
 .. toctree::
    :maxdepth: 1
 
-   quotation_template.rst
-   sugested_product.rst
-   quotation_template_online_customer_apporoval.rst
-   quotation_template_online_apporoval_and_payment.rst
+   quick_create_quotation_using_quotation_template.rst
+   increase_your_sales_with_suggested_products.rst
+   online_customer_approval_on_quotation.rst
+   online_customer_approval_and_payment_on_quotation.rst
 
 Product and Pricing
 -------------------
 .. toctree::
    :maxdepth: 1
 
-   price_based_on_customer_segment.rst
-   price_based_on_country.rst
-   show_public_price.rst
-   discount.rst
+   apply_manual_discount.rst
+   adapt_price_based_on_customer_segment.rst
+   adapt_price_based_on_customer_location.rst
+   compute_and_apply_discount_from_pricelist.rst
 
 Unit of Measure
 ---------------

@@ -66,8 +66,8 @@ Create a quotation
 ------------------
 
 Goto **Sales / Orders / Quotations** and create a new quotation, you
-will be notice that quotation is empty but the default terms and
-conditions is set on it.
+will notice that quotation is empty but the default terms and conditions
+are set on it.
 
 |image1|
 
@@ -76,11 +76,12 @@ sure that salesman will never forget to add the default terms and
 conditions.
 
 .. tip:: The payment terms will be added automatically at the end of
-  every quotation as a part of the terms and conditions.
+  every quotation as a part of the terms and conditions in the printed
+  quotation if any.
 
-.. |image0| image:: 03/media/image2.png
+.. |image0| image:: static/set_default_terms_and_condition/media/image3.png
    :width: 6.5in
    :height: 2.52778in
-.. |image1| image:: 03/media/image4.png
+.. |image1| image:: static/set_default_terms_and_condition/media/image4.png
    :width: 6.5in
    :height: 2.875in

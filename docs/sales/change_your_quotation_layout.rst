@@ -9,7 +9,8 @@ to your need.
 Business case
 -------------
 
-Let’s use the beautiful quotation layout.
+Let’s switch to the beautiful layout. So, not only quotation but all the
+legal document will be printed with the same layout.
 
 Configuration
 -------------
@@ -25,7 +26,7 @@ Bottom of the popup windows you can choose the layout for all your legal
 document which will be printed with header and footer.
 
 .. tip:: Do not forget to select the company logo, you can click on
-  Preview link to check how it looks before you choose.
+Preview link to check how it looks before you choose.
 
 Choose the appropriate layout and apply the setting.
 
@@ -36,9 +37,9 @@ The default layout will be switched to the selected one on the
 configuration, now your quotation will be printed with the new layout.
 |image1|
 
-.. |image0| image:: 05/media/image4.png
+.. |image0| image:: static/change_your_quotatio_layout/media/image4.png
    :width: 6.5in
    :height: 2.26389in
-.. |image1| image:: 05/media/image2.png
+.. |image1| image:: static/change_your_quotatio_layout/media/image2.png
    :width: 4.71943in
    :height: 6.11979in
