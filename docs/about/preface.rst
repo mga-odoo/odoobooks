@@ -9,20 +9,6 @@ locally installed Odoo on your server.
 Book covers
 -----------
 
-.. toctree::
-  :maxdepth: 2
-
-  ../crm/index.rst
-  ../sales/index.rst
-  ../accounting/index.rst
-  ../inventory/index.rst
-  ../purchase/index.rst
-  ../ecommerce/index.rst
-  ../point-of-sale/index.rst
-  ../project/index.rst
-  ../manufacturing/index.rst
-  ../human-resource/index.rst
-  ../website/index.rst
 
 Page structure
 --------------
