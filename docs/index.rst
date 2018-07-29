@@ -22,11 +22,16 @@ such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
 
 .. toctree::
    :maxdepth: 3
+   :hidden:
 
    about/about.rst
    about/author.rst
    about/reviewer.rst
    about/preface.rst
+
+.. toctree::
+   :maxdepth: 3
+
    odoo/index.rst
    crm/index.rst
    sales/index.rst

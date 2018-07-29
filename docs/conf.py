@@ -171,7 +171,7 @@ html_show_copyright = True
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'OdooBook'
 
-
+latex_logo = 'image/odoo_logo.png'
 latex_documents = [
     (master_doc, 'OdooBook.tex', project, copyright, 'manual'),
 ]
