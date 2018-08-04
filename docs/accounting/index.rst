@@ -112,5 +112,9 @@ Inventory Valuation
 .. toctree::
    :maxdepth: 1
 
+   ../inventory/inventory_valuation/manual_valuation_standard_costing.rst
+   ../inventory/inventory_valuation/manual_valuation_fifo_costing.rst
+   ../inventory/inventory_valuation/manual_valuation_average_costing.rst
+
    cogs_anglo_saxon.rst
    stock_valuation.rst

@@ -37,3 +37,12 @@ Inventory Costing
    inventory_costing/costing_at_averagr_price.rst
    inventory_costing/fifo_costing_method.rst
    inventory_costing/average_costing.rst
+
+Inventory Valuation
+-------------------
+.. toctree::
+   :maxdepth: 1
+
+   inventory_valuation/manual_valuation_standard_costing.rst
+   inventory_valuation/manual_valuation_fifo_costing.rst
+   inventory_valuation/manual_valuation_average_costing.rst

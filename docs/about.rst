@@ -17,7 +17,7 @@ Why this book?
 After writing `Odoo 10 Implementation
 Cookbook <https://www.packtpub.com/application-development/odoo-10-implementation-cookbook>`__,
 I realized that it is too difficult to have the latest and up-to-date
-printed book for each version of the fast evolving business application.
+printed book of each version for the fast evolving business application.
 Odoo release its stable version every 12 to 15 months. The aim of this
 book is to guide you through step-by-step configuration for business
 problems.
