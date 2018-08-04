@@ -76,4 +76,7 @@ Access the video at https://www.youtube.com/watch?v=GzhZi2296Z8
 
 .. seealso::
 
+    * :doc:`costing_at_averagr_price`
+    * :doc:`fifo_costing_method`
+    * :doc:`average_costing`
     * :doc:`../accounting/stock_valuation`
