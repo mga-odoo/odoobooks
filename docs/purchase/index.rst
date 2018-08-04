@@ -46,6 +46,16 @@ Purchase Agreement
    purchase_agreement.rst
    multiple_supplier.rst
 
+Inventory Costing
+-----------------
+.. toctree::
+  :maxdepth: 1
+
+  ../inventory/inventory_costing/standard_costing.rst
+  ../inventory/inventory_costing/costing_at_averagr_price.rst
+  ../inventory/inventory_costing/fifo_costing_method.rst
+  ../inventory/inventory_costing/average_costing.rst
+
 Advance Topics
 --------------
 .. toctree::

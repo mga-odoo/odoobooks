@@ -27,3 +27,13 @@ Incoming Shipment
 
    control_receipt.rst
    put_away_strategy.rst
+
+Inventory Costing
+-----------------
+.. toctree::
+   :maxdepth: 1
+
+   inventory_costing/standard_costing.rst
+   inventory_costing/costing_at_averagr_price.rst
+   inventory_costing/fifo_costing_method.rst
+   inventory_costing/average_costing.rst
