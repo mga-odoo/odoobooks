@@ -38,8 +38,8 @@ Inventory Costing
    inventory_costing/fifo_costing_method.rst
    inventory_costing/average_costing.rst
 
-Inventory Valuation
--------------------
+Inventory Valuation (Anglo-Saxons)
+----------------------------------
 .. toctree::
    :maxdepth: 1
 

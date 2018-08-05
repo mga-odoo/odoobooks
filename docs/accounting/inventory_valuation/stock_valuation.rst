@@ -19,4 +19,4 @@ Access the video at https://www.youtube.com/watch?v=PlN0r1Acroo
 
 .. seealso::
 
-    * :doc:`cogs_anglo_saxon`
+    * :doc:`cost_of_goods_sold_kit_product`

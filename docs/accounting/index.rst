@@ -107,14 +107,14 @@ Vendor Bills & Payments
    customer_aged_payable_report.rst
    single_bill_form_multiple_orders.rst
 
-Inventory Valuation
--------------------
+Inventory Valuation (Anglo-Saxons)
+----------------------------------
 .. toctree::
    :maxdepth: 1
 
-   ../inventory/inventory_valuation/manual_valuation_standard_costing.rst
-   ../inventory/inventory_valuation/manual_valuation_fifo_costing.rst
-   ../inventory/inventory_valuation/manual_valuation_average_costing.rst
+   inventory_valuation/manual_valuation_standard_costing.rst
+   inventory_valuation/manual_valuation_fifo_costing.rst
+   inventory_valuation/manual_valuation_average_costing.rst
 
-   cogs_anglo_saxon.rst
-   stock_valuation.rst
+   inventory_valuation/cost_of_goods_sold_kit_product.rst
+   inventory_valuation/stock_valuation.rst
