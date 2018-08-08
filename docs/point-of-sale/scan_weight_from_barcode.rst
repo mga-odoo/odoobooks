@@ -24,6 +24,10 @@ create a packs in advance such as Pack of 250grm, Pack of 500grm or Pack of
 1kg. They would like to compute the price of the pack depending on the pack
 scan at the terminal.
 
+.. tip:: You can scan **Product price** or **Discount** from the barcode,
+  you need to configure the barcode rules under Nomenclature (i.e. Goto
+  Point of sale session configuration and enable **Barcode Scanner** option)
+
 Video
 -----
 Access the video at https://www.youtube.com/watch?v=L-kRofdfdLc
