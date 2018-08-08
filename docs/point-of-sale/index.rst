@@ -20,6 +20,13 @@ Session Management
    print_z_report_point_of_sale.rst
    print_z_report_for_multiple_terminals.rst
 
+Barcode Scanner
+---------------
+.. toctree::
+   :maxdepth: 1
+
+   scan_weight_from_barcode.rst
+
 Accounting
 ----------
 .. toctree::
