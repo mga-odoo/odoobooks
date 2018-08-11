@@ -27,6 +27,7 @@ Barcode Scanner
 
    scan_weight_from_barcode.rst
    scan_product_price_from_barcode.rst
+   multiple_barcode_for_same_product.rst
 
 Accounting
 ----------
@@ -35,3 +36,5 @@ Accounting
 
    credit_pos_sale.rst
    pos_wallet.rst
+   sales_return_point_of_sale_accounting.rst
+   sales_return_point_of_sale_invoice_accounting.rst
