@@ -26,6 +26,7 @@ Barcode Scanner
    :maxdepth: 1
 
    scan_weight_from_barcode.rst
+   scan_product_price_from_barcode.rst
 
 Accounting
 ----------
