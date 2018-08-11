@@ -35,12 +35,12 @@ price can be configured.
   231234500000. keep last 5 digit as 0 as it may different according to the
   price.
 
-  Video
-  -----
-  Access the video at https://www.youtube.com/watch?v=xbPLx-KRh2s
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=xbPLx-KRh2s
 
-  .. raw:: html
+.. raw:: html
 
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-          <iframe src="https://www.youtube.com/embed/xbPLx-KRh2s" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
-      </div>
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/xbPLx-KRh2s" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
