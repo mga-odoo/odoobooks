@@ -12,9 +12,8 @@ Table of Contents
    accounting/index.rst
    inventory/index.rst
    purchase/index.rst
-   ecommerce/index.rst
    point-of-sale/index.rst
    project/index.rst
    manufacturing/index.rst
    human-resource/index.rst
-   website/index.rst
+   ecommerce-and-website/index.rst
