@@ -9,6 +9,9 @@ Point of Sale
 .. toctree::
    :maxdepth: 1
 
+   register_customer.rst
+   create_customer_invoice.rst
+   limited_period_offer.rst
    round_off_on_point_of_sale_cash_sale.rst
    sales_return_on_point_of_sale.rst
 
