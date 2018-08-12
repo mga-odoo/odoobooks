@@ -1,5 +1,8 @@
 .. _salesreturn:
 
+.. index::
+   single: Sales Return on Point of Sale
+
 ==================================
 Sales return through Point of Sale
 ==================================

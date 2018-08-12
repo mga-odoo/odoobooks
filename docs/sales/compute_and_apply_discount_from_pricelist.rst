@@ -1,3 +1,8 @@
+
+.. index::
+   single: Compute discount
+   single: Compute discount from pricelist
+
 Compute and apply discount automatically based on the pricelist
 ===============================================================
 

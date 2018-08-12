@@ -1,4 +1,7 @@
 
+.. index::
+   single: Scan product price through barcode
+
 =======================================================================================
 Scan product price through barcode in Point of Sale (Dynamic pricing without pricelist)
 =======================================================================================

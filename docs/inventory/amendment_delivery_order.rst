@@ -1,3 +1,7 @@
+
+.. index::
+   single: Amendment products on delivery order
+
 ===================================================================================
 How to amendment products on delivery order? (Installed only inventory application)
 ===================================================================================

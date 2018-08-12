@@ -1,5 +1,10 @@
 .. _subcontractor:
 
+.. index::
+   single: Contractor
+   single: Job-work
+   single: Sub-Contractor
+
 ======================================
 Subcontracting process for contractors
 ======================================

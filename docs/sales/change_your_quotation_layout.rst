@@ -1,3 +1,8 @@
+
+.. index::
+   single: Report Layout
+   single: Quotation Layout
+
 Change your quotation layout
 ============================
 

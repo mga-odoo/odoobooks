@@ -1,5 +1,9 @@
 .. _indiangst:
 
+.. index::
+   single: Multiple tax included in Product Price
+   single: Goods and Service Tax included in price
+
 ==================================================
 Multiple tax included in price, i.e.Indian GST Tax
 ==================================================

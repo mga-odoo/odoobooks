@@ -1,3 +1,7 @@
+
+.. index::
+   single: Product price based on customer type (Retailer or Distributor)
+
 Adapt product price based on customer segment (e.g. Retailer or Distributor)
 ============================================================================
 

@@ -1,3 +1,8 @@
+
+.. index::
+   single: Sales Return on Point of Sale
+   single: Return Cash on Point of Sale
+
 ============================================================================
 Sales return through Point of Sale terminal, receive product and return cash
 ============================================================================

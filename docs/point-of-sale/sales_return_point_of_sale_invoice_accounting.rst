@@ -1,3 +1,7 @@
+
+.. index::
+   single: Sales Return (Customer Invocie)
+
 ===========================================================================================
 Sales return through Point of Sale terminal (working with customer invoice and credit note)
 ===========================================================================================

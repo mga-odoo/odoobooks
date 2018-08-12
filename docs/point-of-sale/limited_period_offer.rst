@@ -1,3 +1,8 @@
+
+.. index::
+   single: Offers on point of sale
+   single: Pricelist on point of sale
+
 ===============================================
 Launch a limited period offers on Point of Sale
 ===============================================

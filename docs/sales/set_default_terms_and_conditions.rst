@@ -1,3 +1,7 @@
+
+.. index::
+   single: Set default terms and condition
+
 Set default terms and condition on quotation
 ============================================
 

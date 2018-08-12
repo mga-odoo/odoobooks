@@ -1,3 +1,7 @@
+
+.. index::
+   single: Online customer approval and payment on quotation
+
 Online customer approval and payment on quotation
 =================================================
 

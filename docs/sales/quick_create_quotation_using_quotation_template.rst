@@ -1,3 +1,7 @@
+
+.. index::
+   single: Quotation Templates
+
 Create quick quotation using quotation template
 ===============================================
 

@@ -1,3 +1,7 @@
+
+.. index::
+   single: Discount on quotation
+
 Apply discount on quotation
 ===========================
 

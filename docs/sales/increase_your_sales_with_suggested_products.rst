@@ -1,3 +1,7 @@
+
+.. index::
+   single: Suggested product on quotation
+
 Increase your sales with suggested products
 ===========================================
 

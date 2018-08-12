@@ -1,3 +1,7 @@
+
+.. index::
+   single: Create quotation
+
 Create your first quotation
 ===========================
 

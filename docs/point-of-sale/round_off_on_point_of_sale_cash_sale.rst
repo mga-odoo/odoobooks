@@ -1,5 +1,9 @@
 .. _roundoffpos:
 
+.. index::
+   single: Rounding on Point of Sale
+   single: Write-off on Point of Sale
+
 ==========================================================
 Manage cash round-up or down at Point of Sale cash payment
 ==========================================================

@@ -1,5 +1,11 @@
 .. _about:
 
+
+.. index::
+   single: About Online Book
+   single: About Author
+   single: About Reviewer
+
 ======================
 About Odoo Online Book
 ======================

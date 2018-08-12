@@ -1,3 +1,7 @@
+
+.. index::
+   single: Sell subscription through Sales Quotation
+
 ==========================================
 Sell subscriptions through sales quotation
 ==========================================

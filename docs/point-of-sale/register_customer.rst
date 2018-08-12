@@ -1,4 +1,8 @@
 
+.. index::
+   single: Select Customer on Point of Sale
+   single: Customer Ledger through Point of Sale
+
 =============================================================
 Use customers on point of sale and access the customer ledger
 =============================================================

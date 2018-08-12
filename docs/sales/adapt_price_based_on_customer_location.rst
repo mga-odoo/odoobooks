@@ -1,3 +1,7 @@
+
+.. index::
+   single: Product price based on country (€ or $)
+
 Adapt product price based on customer country or location (e.g. Price in € or $)
 ================================================================================
 

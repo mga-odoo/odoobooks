@@ -1,3 +1,7 @@
+
+.. index::
+   single: Sections on sales orders
+
 Sections on sales orders, sort products in sections with subtotals and page-breaks
 ==================================================================================
 

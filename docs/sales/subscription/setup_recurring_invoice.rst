@@ -1,3 +1,7 @@
+
+.. index::
+   single: Create recurring invoice
+
 ============================================================
 Set up recurring invoice, that help you to invoice regularly
 ============================================================

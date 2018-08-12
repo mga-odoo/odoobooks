@@ -1,4 +1,7 @@
 
+.. index::
+   single: Multi-company Product price
+
 ==========================================
 Define the product sales price per company
 ==========================================

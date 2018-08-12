@@ -1,3 +1,7 @@
+
+.. index::
+   single: Send quotation by email
+
 Send quotation by email
 =======================
 

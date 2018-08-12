@@ -1,4 +1,7 @@
 
+.. index::
+   single: Scan product weight through barcode
+
 ===========================================================
 Scan weight of the product through barcode in Point of sale
 ===========================================================

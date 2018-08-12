@@ -1,3 +1,9 @@
+
+.. index::
+   single: Sell Subscription contracts through eCommerce
+   single: Auto debit payment (Card)
+   single: Recurring Invoice
+
 =======================================================================================
 Sell subscription through eCommerce platform, receive payment through card (auto-debit)
 =======================================================================================

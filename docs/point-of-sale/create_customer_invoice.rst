@@ -1,3 +1,7 @@
+
+.. index::
+   single: Customer invoice on point of sale
+
 ==============================================================
 Create a customer invoice for selected orders on Point of Sale
 ==============================================================

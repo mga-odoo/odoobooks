@@ -1,5 +1,8 @@
 .. _orderproductvariant:
 
+.. index::
+   single: Product Varient on Website
+
 ====================================================================
 Ordering products, variant attribute and values on the products page
 ====================================================================

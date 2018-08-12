@@ -1,3 +1,7 @@
+
+.. index::
+   single: Online customer approval on quotation
+
 Online customer approval on quotation
 =====================================
 

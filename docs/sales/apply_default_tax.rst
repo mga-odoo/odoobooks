@@ -1,3 +1,8 @@
+
+.. index::
+   single: Default tax on product
+   single: Default tax on quotation
+
 Apply default taxes on products or sales order
 ==============================================
 

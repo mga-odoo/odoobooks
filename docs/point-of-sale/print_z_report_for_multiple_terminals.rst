@@ -1,5 +1,11 @@
 .. _zreportformultiplesession:
 
+.. index::
+   single: Z-Report
+   single: Session Summary Report
+   single: Day report for Point of sale session
+
+
 =============================================================================
 Print z-report at the end of the day for each terminal separately and grouped
 =============================================================================

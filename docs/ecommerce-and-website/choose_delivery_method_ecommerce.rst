@@ -1,4 +1,7 @@
 
+.. index::
+   single: Choose normal or express delivery
+
 ====================================================================
 Allow your customer to choose Normal or Express delivery at checkout
 ====================================================================

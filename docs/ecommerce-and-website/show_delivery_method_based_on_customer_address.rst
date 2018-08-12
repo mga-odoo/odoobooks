@@ -1,4 +1,7 @@
 
+.. index::
+   single: Delivery methods available
+
 =======================================================
 Show delivery methods depending on the customer address
 =======================================================

@@ -1,3 +1,9 @@
+
+.. index::
+   single: Barcode Alias
+   single: Manufacturer Barcode
+   single: Multiple Barcode for single Product
+
 ========================================================================================
 Scanning manufacturer barcode at Point of Sale (Scan same product for multiple barcodes)
 ========================================================================================
