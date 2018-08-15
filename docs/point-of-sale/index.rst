@@ -13,6 +13,8 @@ Point of Sale
    create_customer_invoice.rst
    limited_period_offer.rst
    round_off_on_point_of_sale_cash_sale.rst
+   discount_on_product_or_order.rst
+   loyalty_program.rst
    sales_return_on_point_of_sale.rst
 
 Session Management
