@@ -10,6 +10,13 @@
 About Odoo Online Book
 ======================
 
+.. image:: images/openerp-book.png
+   :height: 300px
+   :width: 240 px
+   :scale: 100 %
+   :alt: Odoo Online Book
+   :align: right
+
 Odoo online book is dedicated for functional consultants or entrepreneur
 who wants to implement or use odoo online all-in-one business
 application out-of-the box. This is an online book written based on Odoo
