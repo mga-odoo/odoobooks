@@ -57,6 +57,7 @@ Taxes & Duties
    :maxdepth: 1
 
    tax_based_on_loal_or_export_sales.rst
+   retention_tax.rst
 
 Credit Notes
 ------------
@@ -84,6 +85,8 @@ Indian Localization
    :maxdepth: 1
 
    configure_gst_in_odoo.rst
+   ./india_tds/tax_deduction_at_source_customer_invoice.rst
+   ./india_tds/tax_deduction_at_source_vendor_bill.rst
    tax_deduction_at_source.rst
 
 Multi Currency
