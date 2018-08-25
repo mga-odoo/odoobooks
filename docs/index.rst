@@ -21,6 +21,9 @@ Manufacturing.
   that topic. You can also send an email to mail@mantavyagajjar.in to propose new
   topics you would like to have on the book.
 
+* :ref:`toc`
+* :ref:`genindex`
+
 .. toctree::
    :maxdepth: 3
 
@@ -36,8 +39,3 @@ Manufacturing.
    manufacturing/index.rst
    human-resource/index.rst
    ecommerce-and-website/index.rst
-
-* :ref:`toc`
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
