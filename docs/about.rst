@@ -63,8 +63,11 @@ Attribution-NonCommercial-ShareAlike 4.0 International License.
 Updates
 =======
 
-To get in touch with the book updates, You can follow author on
-`Twitter <https://www.twitter.com/mantavyagajjar>`__.
+You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
+channel to receive an instance update about the new videos and pages on this book.
+
+You can follow `Twitter <https://www.twitter.com/mantavyagajjar>`_ channel
+to get the updates about the book.
 
 About the Author
 ================

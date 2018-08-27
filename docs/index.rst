@@ -20,6 +20,9 @@ Manufacturing.
 .. note:: Please comment on the page below, if you have any question related to
   that topic. You can also send an email to mail@mantavyagajjar.in to propose new
   topics you would like to have on the book.
+  
+  You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
+  channel to receive an instance update about the new videos and pages on this book.
 
 * :ref:`toc`
 * :ref:`genindex`
