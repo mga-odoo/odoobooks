@@ -62,7 +62,6 @@ Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 Updates
 =======
-
 You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
 channel to receive an instance update about the new videos and pages on this book.
 
