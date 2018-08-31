@@ -1,45 +1,71 @@
-.. _lostopportunities:
-
-.. index::
-   single: Lost Opportunities
-
-=========================
 Manage lost opportunities
 =========================
-While working with your opportunities, you might lose some of them. You will want to keep track of the reasons you lost them and also which ways Odoo can help you recover them in the future.
 
-Mark a lead as lost
--------------------
-While in your pipeline, select any opportunity you want and you will see a *Mark Lost* button.
+While working with your opportunities, you might lose some of them. You
+may want to keep track of those opportunities with the reasons you lost
+them and also the ways to recover them in the future.
 
-You can then select an existing *Lost Reason* or create a new one right there.
+Business case
+-------------
 
-.. image:: images/crm_04.png
-   :align: center
+The company planning to revised the price of the product they are
+selling and they would like to make a test offer or announcement about
+the to the opportunity who lost because of the reason “\ *Too
+Expensive*\ ”.
 
-.. tip:: You will find your *Lost Reasons* under :menuselection:`Configuration --> Lost Reasons`. You can select & rename any of them as well as create a new one from there.
+Mark an opportunity as lost
+---------------------------
+
+While in your pipeline, select any opportunity you have to mark as lort,
+you will see a **Mark Lost** button, by clicking on that you have to
+select the lost reason, that can then select an existing **Lost Reason**
+or create a new one right there.
+
+|image0|
+
+.. tip:: You will find your **Lost Reasons** under **Configuration /
+  Lost Reasons**. You can manage the reasons from if you want to better
+  organize the lost reason.
 
 Retrieve lost opportunities
 ---------------------------
-To retrieve lost opportunities and do actions on them (send an email, make a feedback call, etc.), select the *Lost* filter in the search bar.
 
-.. image:: images/crm_05.png
-   :align: center
+To retrieve lost opportunities and do actions on them (send an email,
+make a feedback call, etc.), select the **Lost** filter in the search
+bar.
 
-You will then see all your lost opportunities. If you want to refine them further, you can add a filter on the *Lost Reason*.
+|image1|
+
+You will then see all your lost opportunities. If you want to refine
+them further, you can add a filter on the **Lost Reason**.
 
 For Example, *Too Expensive*.
 
-.. image:: images/crm_06.png
-   :align: center
+|image2|
 
 Restore lost opportunities
 --------------------------
 
-From the Kanban view with the filter(s) in place, you can select any opportunity you wish and work on it as usual. You can also restore it by clicking on *Archived*.
+From the kanban view with the filter(s) in place, you can select any
+opportunity you wish and work on it as usual. You can also restore it by
+clicking on **Archived**.
 
-.. image:: images/crm_07.png
-   :align: center
+|image3|
 
-.. seealso::
-   * :doc:`plan_activities`
+You can switch to **List View** select the opportunities you want to
+restore, from Action click on Unarchive to restore multiple
+opportunities at once.
+
+|image4|
+
+https://drive.google.com/file/d/1Q_3SkHgHap_a7zUXGTyjDaaYVzotqOxa/preview
+
+.. |image0| image:: ./static/lost_opportunities/media/image3.png
+
+.. |image1| image:: ./static/lost_opportunities/media/image9.png
+
+.. |image2| image:: ./static/lost_opportunities/media/image4.png
+
+.. |image3| image:: ./static/lost_opportunities/media/image8.png
+
+.. |image4| image:: ./static/lost_opportunities/media/image10.png
