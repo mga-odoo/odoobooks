@@ -3,9 +3,9 @@
 .. index::
    single: Batch Deposit
 
-=======================================
-How to manage batch deposits of checks?
-=======================================
+===============================
+Manage batch deposits of checks
+===============================
 
 Video
 -----

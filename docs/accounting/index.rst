@@ -3,7 +3,6 @@
 .. index::
    single: Accounting
 
-======================
 Accounting and Finance
 ======================
 .. toctree::

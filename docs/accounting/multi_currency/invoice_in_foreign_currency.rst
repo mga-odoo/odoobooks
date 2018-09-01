@@ -3,9 +3,9 @@
 .. index::
    single: Multi-Currency Invoice
 
-===========================================
-How to prepare invoice in foreign currency?
-===========================================
+===================================
+Prepare invoice in foreign currency
+===================================
 
 Video
 -----

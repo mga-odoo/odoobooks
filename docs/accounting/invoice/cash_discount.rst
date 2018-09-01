@@ -3,9 +3,9 @@
 .. index::
    single: Cash Discount
 
-============================
-How to setup cash discounts?
-============================
+==========================================================
+Setup cash discounts when customer pay before the due date
+==========================================================
 
 Video
 -----

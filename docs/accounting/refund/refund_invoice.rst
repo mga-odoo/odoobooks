@@ -4,9 +4,9 @@
    single: Refund Invoice
    single: Credit Note
 
-============================================
-How to refund a fully paid customer invoice?
-============================================
+====================================
+Refund a fully paid customer invoice
+====================================
 
 Video
 -----

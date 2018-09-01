@@ -3,9 +3,9 @@
 .. index::
    single: Check Printing
 
-======================================================================
-How to pay vendor bills by check and print check from Odoo accounting?
-======================================================================
+==============================================================
+Pay vendor bills by check and print check from Odoo accounting
+==============================================================
 
 Video
 -----

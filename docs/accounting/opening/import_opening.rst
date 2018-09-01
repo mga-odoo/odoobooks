@@ -3,9 +3,9 @@
 .. index::
    single: Opening Balance
 
-========================================================
-How to setup Odoo Accounting and Import opening balance?
-========================================================
+================================================
+Setup Odoo Accounting and Import opening balance
+================================================
 
 Video
 -----

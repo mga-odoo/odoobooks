@@ -4,9 +4,9 @@
    single: Credit Note
    single: Reject Invoice
 
-=============================================
-How to modify the confirmed customer invoice?
-=============================================
+=====================================
+Modify the confirmed customer invoice
+=====================================
 
 Video
 -----

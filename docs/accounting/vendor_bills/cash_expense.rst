@@ -3,9 +3,9 @@
 .. index::
    single: Cash Expense
 
-==================================================
-How to register cash sales and expense in account?
-==================================================
+==========================================
+Register cash sales and expense in account
+==========================================
 
 Video
 -----

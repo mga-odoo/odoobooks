@@ -3,9 +3,9 @@
 .. index::
    single: Credit Note
 
-=========================================
-How to refund the partially paid invoice?
-=========================================
+=================================
+Refund the partially paid invoice
+=================================
 
 Video
 -----

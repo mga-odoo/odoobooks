@@ -4,9 +4,9 @@
    single: Installments Plan
    single: Payment Terms
 
-=======================================================
-How to define an installment plan on customer invoices?
-=======================================================
+===================================================================
+Define an installment plan on customer invoices (Use Payment terms)
+===================================================================
 
 Video
 -----

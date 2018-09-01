@@ -5,9 +5,9 @@
    single: Anglo-Saxon
    single: Inventory Valuation
 
-========================================================================================
-Correct cost of good sold accounting entry for kit type product using anglo saxon method
-========================================================================================
+============================================================================
+Correct cost of goods sold (COGS) entry for a kit type product (Anglo-Saxon)
+============================================================================
 
 Video
 -----
