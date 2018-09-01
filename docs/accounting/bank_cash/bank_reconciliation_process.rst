@@ -3,9 +3,9 @@
 .. index::
    single: Bank Reconciliation Process
 
-==============================================
-How to manage the bank reconciliation process?
-==============================================
+======================================
+Manage the bank reconciliation process
+======================================
 
 Video
 -----

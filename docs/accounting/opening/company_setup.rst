@@ -3,9 +3,9 @@
 .. index::
    single: Account Initial Setup
 
-==================================================================
-How to setup Company Information, Bank Accounts and Fiscal Period?
-==================================================================
+==========================================================
+Setup Company Information, Bank Accounts and Fiscal Period
+==========================================================
 
 Video
 -----

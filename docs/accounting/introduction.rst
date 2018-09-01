@@ -1,6 +1,5 @@
 .. _accountingintroduction:
 
-===============
 Odoo Accounting
 ===============
 Access the video at https://www.youtube.com/watch?v=6XgKPjgyoec

@@ -1,6 +1,5 @@
 .. _odooaccounting:
 
-==========================
 The Accounting behind Odoo
 ==========================
 

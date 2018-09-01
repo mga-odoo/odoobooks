@@ -3,9 +3,9 @@
 .. index::
    single: Pay Multiple Vendor Bills
 
-========================================
-How to pay several vendor bills at once?
-========================================
+================================
+Pay several vendor bills at once
+================================
 
 Video
 -----

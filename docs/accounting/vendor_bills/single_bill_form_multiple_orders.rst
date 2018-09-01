@@ -3,9 +3,9 @@
 .. index::
    single: Merge Vendor Bills
 
-===============================================================
-How to create single vendor bill from multiple purchase orders?
-===============================================================
+=======================================================
+Create single vendor bill from multiple purchase orders
+=======================================================
 
 Video
 -----

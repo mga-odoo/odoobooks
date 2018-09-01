@@ -3,9 +3,9 @@
 .. index::
    single: Bank Reconciliation
 
-======================================
-How to do Bank Reconciliation in Odoo?
-======================================
+===========================
+Bank Reconciliation in Odoo
+===========================
 
 Video
 -----

@@ -1,5 +1,4 @@
 
-==========================================================
 Manage withholding taxes, ledger and payment to government
 ==========================================================
 A withholding tax, also called a retention tax, it is a government requirement

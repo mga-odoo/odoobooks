@@ -3,7 +3,6 @@
 .. index::
    single: Apply tax based on local or export sales
 
-========================================
 Apply tax based on local or export sales
 ========================================
 
