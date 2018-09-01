@@ -15,7 +15,7 @@ track which marketing platform bring how many users on your website.
 Business case
 -------------
 
-The *My Company* is running a electronic ecommerce store, they want to
+The *My Company* is running a electronic eCommerce store, they want to
 invest in the paid marketing on different social media platform such as
 Facebook, Pinterest, Instagram and Google.
 
