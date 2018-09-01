@@ -3,9 +3,9 @@
 .. index::
    single: Sales that create purchase order
 
-=======================================================
-How to trigger the purchase of products based on sales?
-=======================================================
+=========================================================
+Create a purchase order for products based on sales order
+=========================================================
 
 Video
 -----

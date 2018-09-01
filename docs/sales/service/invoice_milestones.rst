@@ -3,9 +3,10 @@
 .. index::
    single: Invoice project milestone
 
-=======================================
-How to invoice milestones of a project?
-=======================================
+=======================================================
+Create an invoice at milestone completion for a project
+=======================================================
+
 There are different kind of service sales: prepaid volume of hours/days
 (e.g. support contract), billing based on time and material (e.g. billing
 consulting hours) or a fixed price contract (e.g. a project).

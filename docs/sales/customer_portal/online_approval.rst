@@ -3,9 +3,12 @@
 .. index::
    single: Online customer approval on quotation
 
-==================================================================
-How to get customer approval on quotation through customer portal?
-==================================================================
+=======================================================
+Ask your customer to approve a quotation through portal
+=======================================================
+
+Video
+-----
 Access the video at https://www.youtube.com/watch?v=IEl0v3968kk
 
 .. raw:: html

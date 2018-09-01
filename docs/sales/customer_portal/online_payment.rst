@@ -3,9 +3,9 @@
 .. index::
    single: Online approval and payment on order
 
-===============================================================
-How to get online payment on quotation through customer portal?
-===============================================================
+===================================================================
+Ask your customer to pay online payment on quotation through portal
+===================================================================
 
 Video
 -----
