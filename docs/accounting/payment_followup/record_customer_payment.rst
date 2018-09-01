@@ -3,9 +3,9 @@
 .. index::
    single: Record Payments
 
-================================================
-What are the different ways to record a payment?
-================================================
+==================================
+Different ways to record a payment
+==================================
 
 Video
 -----
