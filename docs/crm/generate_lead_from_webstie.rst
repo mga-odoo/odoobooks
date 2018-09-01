@@ -65,6 +65,16 @@ contacts, use the national format for your company country.
 
 |image5|
 
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=Q4FujRKnUHM
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/Q4FujRKnUHM" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
+
 .. |image0| image:: ./static/generate_lead_from_webstie/media/image10.png
 
 .. |image1| image:: ./static/generate_lead_from_webstie/media/image8.png

@@ -22,9 +22,16 @@ You will find the configuration of sales channels under **Configuration
 
 |image1|
 
+Video
+-----
+Access the video at https://www.youtube.com/watch?v=79OehLEHOYU
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/embed/79OehLEHOYU" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    </div>
+
 .. |image0| image:: ./static/generate_from_email/media/image2.png
-   :width: 6.5in
-   :height: 2.625in
+
 .. |image1| image:: ./static/generate_from_email/media/image4.png
-   :width: 6.5in
-   :height: 2.23611in
