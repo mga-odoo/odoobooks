@@ -19,6 +19,7 @@ Sales Quotation
    set_default_terms_and_conditions.rst
    apply_default_tax.rst
    sections_on_sales_orders.rst
+   compute_sales_margin.rst
 
 Quotation Template
 ------------------
@@ -30,8 +31,8 @@ Quotation Template
    online_customer_approval_on_quotation.rst
    online_customer_approval_and_payment_on_quotation.rst
 
-Product and Pricing
--------------------
+Discounts and Pricelist
+-----------------------
 .. toctree::
    :maxdepth: 1
 
@@ -41,13 +42,6 @@ Product and Pricing
    compute_and_apply_discount_from_pricelist.rst
    ../inventory/inventory_costing/average_costing.rst
    product_price_per_company.rst
-
-Sales Margin
-------------
-.. toctree::
-  :maxdepth: 1
-
-  compute_sales_margin.rst
 
 Unit of Measure
 ---------------
