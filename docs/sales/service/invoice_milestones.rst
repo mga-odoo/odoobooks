@@ -49,7 +49,7 @@ the following setup:
   milestone, you will manually update their quantity from the Delivered tab
   on your sale order
 
-.. image:: images/chapter_02_11.png
+.. image:: ../images/chapter_02_11.png
    :alt: signup at odoo.com
    :align: center
 
@@ -63,7 +63,7 @@ set the Ordered Quantity to 1 as each milestone is completed once. Once the
 quotation is confirmed and transformed into a sale order, you will be able to
 change the delivered quantities when the corresponding milestone has been achieved.
 
-.. image:: images/chapter_02_12.png
+.. image:: ../images/chapter_02_12.png
    :alt: signup at odoo.com
    :align: center
 
@@ -82,7 +82,7 @@ Click on Create invoice and, in the new window that pops up, select Invoiceable
 lines and validate. It will create a new invoice (in draft status) with only
 the strategy audit product as invoiceable.
 
-.. image:: images/chapter_02_13.png
+.. image:: ../images/chapter_02_13.png
    :alt: signup at odoo.com
    :align: center
 

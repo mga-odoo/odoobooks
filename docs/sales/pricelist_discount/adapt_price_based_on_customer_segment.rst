@@ -122,14 +122,9 @@ Access the video at https://www.youtube.com/watch?v=MKStY2Tt1l0
     </div>
 
 .. |image0| image:: static/price_based_on_currency/media/image7.png
-   :width: 6.5in
-   :height: 2.72222in
+
 .. |image1| image:: static/price_based_on_currency/media/image3.png
-   :width: 6.5in
-   :height: 2.80556in
+
 .. |image2| image:: static/price_based_on_currency/media/image8.png
-   :width: 6.5in
-   :height: 3.77778in
+
 .. |image3| image:: static/price_based_on_currency/media/image6.png
-   :width: 6.5in
-   :height: 3.02778in

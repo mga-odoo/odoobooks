@@ -122,14 +122,9 @@ Access the video at https://www.youtube.com/watch?v=J41EpiT0a5g
     </div>
 
 .. |image0| image:: static/compute_and_apply_discount_from_pricelist/media/image6.png
-   :width: 6.5in
-   :height: 3.09722in
+
 .. |image1| image:: static/compute_and_apply_discount_from_pricelist/media/image7.png
-   :width: 6.5in
-   :height: 2.80556in
+
 .. |image2| image:: static/compute_and_apply_discount_from_pricelist/media/image8.png
-   :width: 6.5in
-   :height: 4.02778in
+
 .. |image3| image:: static/compute_and_apply_discount_from_pricelist/media/image5.png
-   :width: 6.5in
-   :height: 3.02778in

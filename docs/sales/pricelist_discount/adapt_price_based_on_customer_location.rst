@@ -160,26 +160,17 @@ Access the video at https://www.youtube.com/watch?v=YMXc4W5cHNg
 
 
 .. |image0| image:: static/price_based_on_customer/media/image15.png
-   :width: 6.5in
-   :height: 2.76389in
+
 .. |image1| image:: static/price_based_on_customer/media/image9.png
-   :width: 6.5in
-   :height: 2.72222in
+
 .. |image2| image:: static/price_based_on_customer/media/image13.png
-   :width: 6.5in
-   :height: 2.18056in
+
 .. |image3| image:: static/price_based_on_customer/media/image11.png
-   :width: 6.5in
-   :height: 2.80556in
+
 .. |image4| image:: static/price_based_on_customer/media/image16.png
-   :width: 6.5in
-   :height: 4.02778in
+
 .. |image5| image:: static/price_based_on_customer/media/image8.png
-   :width: 6.5in
-   :height: 3.04167in
+
 .. |image6| image:: static/price_based_on_customer/media/image10.png
-   :width: 6.5in
-   :height: 2.34722in
+
 .. |image7| image:: static/price_based_on_customer/media/image14.png
-   :width: 6.5in
-   :height: 3.02778in

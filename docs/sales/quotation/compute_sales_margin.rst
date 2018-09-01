@@ -16,7 +16,7 @@ Configuration
 -------------
 Install the **Sales Management** application.
 
-.. image:: images/chapter_02_15.png
+.. image:: ../images/chapter_02_15.png
    :alt: Sales Application
    :align: center
 
@@ -29,7 +29,7 @@ Margins
 Go to ``Sales / Configuration / Settings`` select **Margins** and apply the setting.
 This will show margins on orders.
 
-.. image:: images/chapter_02_35.png
+.. image:: ../images/chapter_02_35.png
    :alt: Sales Settings
    :align: center
 
@@ -38,7 +38,7 @@ Products
 Enter the product **Sales Price** and **Cost** accordingly, enter the latest
 sales and cost price.
 
-.. image:: images/chapter_02_36.png
+.. image:: ../images/chapter_02_36.png
    :alt: Sales Settings
    :align: center
 
@@ -56,7 +56,7 @@ The margin will be computed as soon as you select the product, the difference
 between **Unit Price** and **Cost** is margin. The **Margin** be computed
 based on the difference for each lines on sale order.
 
-.. image:: images/chapter_02_37.png
+.. image:: ../images/chapter_02_37.png
    :alt: Sales Settings
    :align: center
 
@@ -73,10 +73,3 @@ Access the video at https://www.youtube.com/watch?v=GzhZi2296Z8
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
         <iframe src="https://www.youtube.com/embed/GzhZi2296Z8" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
-
-.. .. seealso::
-..
-..     * :doc:`costing_at_averagr_price`
-..     * :doc:`fifo_costing_method`
-..     * :doc:`average_costing`
-..     * :doc:`../accounting/stock_valuation`

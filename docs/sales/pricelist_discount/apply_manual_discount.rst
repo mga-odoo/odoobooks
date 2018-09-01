@@ -75,8 +75,5 @@ Access the video at https://www.youtube.com/watch?v=tq3e17Ccjxk
     </div>
 
 .. |image0| image:: static/apply_manual_discount/media/image4.png
-   :width: 6.5in
-   :height: 2.11111in
+
 .. |image1| image:: static/apply_manual_discount/media/image2.png
-   :width: 6.5in
-   :height: 2.88889in

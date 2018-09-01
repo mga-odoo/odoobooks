@@ -127,17 +127,11 @@ Access the video at https://www.youtube.com/watch?v=N0kcHM2msHE
 
 
 .. |Sales Management Application| image:: static/create_my_first_quotation/media/image3.png
-   :width: 3.02604in
-   :height: 0.91968in
+
 .. |image1| image:: static/create_my_first_quotation/media/image4.png
-   :width: 6.5in
-   :height: 2.11111in
+
 .. |image2| image:: static/create_my_first_quotation/media/image6.png
-   :width: 6.5in
-   :height: 3.56944in
+
 .. |image3| image:: static/create_my_first_quotation/media/image9.png
-   :width: 6.5in
-   :height: 1.83333in
+
 .. |image4| image:: static/create_my_first_quotation/media/image10.png
-   :width: 6.5in
-   :height: 5.06944in

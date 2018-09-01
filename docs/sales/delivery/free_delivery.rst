@@ -18,7 +18,7 @@ Configuration
 -------------
 Activate the Shipping Costs feature form ``Sales / Configuration / Settings``.
 
-.. image:: images/chapter_02_21.png
+.. image:: ../images/chapter_02_21.png
    :alt: Sales Settings
    :align: center
 
@@ -28,7 +28,7 @@ Setup the delivery charges
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 Let's assume that you deliver the product at fixed $50 and you deliver for free when total order value is more than $2000.
 
-.. image:: images/chapter_02_26.png
+.. image:: ../images/chapter_02_26.png
    :alt: Delivery Cost Grid
    :align: center
 
@@ -41,7 +41,7 @@ Setup product price
 ~~~~~~~~~~~~~~~~~~~
 Do not forget to add the correct product price when creating the products.
 
-.. image:: images/chapter_02_27.png
+.. image:: ../images/chapter_02_27.png
    :alt: Product Weight
    :align: center
 
@@ -51,7 +51,7 @@ You can now choose the Delivery Method on your sale order.
 If you want to invoice the price of the delivery charge on the sale order, click on Set price,
 it will add a line with the name of the delivery method as a product.
 
-.. image:: images/chapter_02_28.png
+.. image:: ../images/chapter_02_28.png
   :alt: Product Weight
   :align: center
 

@@ -86,8 +86,5 @@ Access the video at https://www.youtube.com/watch?v=NBfqS4LlKQc
     </div>
 
 .. |image0| image:: static/online_customer_approval_on_quotation/media/image4.png
-   :width: 6.5in
-   :height: 2.63889in
+
 .. |image1| image:: static/online_customer_approval_on_quotation/media/image2.png
-   :width: 6.5in
-   :height: 4.23611in
