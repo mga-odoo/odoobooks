@@ -3,9 +3,9 @@
 .. index::
    single: Print Customer Ledger
 
-=============================
-How to print customer ledger?
-=============================
+=====================
+Print customer ledger
+=====================
 
 Video
 -----

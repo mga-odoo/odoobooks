@@ -1,8 +1,8 @@
 .. _salesindex:
 
-=================
-Sales & Invoicing
-=================
+===================
+Sales and Invoicing
+===================
 .. toctree::
    :maxdepth: 2
 

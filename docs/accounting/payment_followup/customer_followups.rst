@@ -4,9 +4,9 @@
    single: Customer Statement
    single: Customer Followups
 
-===============================================
-How to automate customer follow-ups with plans?
-===============================================
+=======================================
+Automate customer follow-ups with plans
+=======================================
 
 Video
 -----

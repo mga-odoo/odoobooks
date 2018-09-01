@@ -13,7 +13,7 @@ amount to pay, as the tax will be paid by the customer.
 
 As, an example, in Colombia you may have the following vendor bills:
 
-.. image:: ./static/retention/vendor_bill.png
+.. image:: static/retention/vendor_bill.png
 
 In this example, the company who sent the invoice was of 1000$ + 15% Tax the
 customer has to deduct the 10% tax and pay to the government.

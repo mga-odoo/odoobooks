@@ -3,9 +3,9 @@
 .. index::
    single: Check Clearance Status
 
-==============================================
-How to track uncleared customer check in bank?
-==============================================
+================================================
+Track uncleared customer check in bank statement
+================================================
 
 Video
 -----
