@@ -58,7 +58,16 @@ opportunities at once.
 
 |image4|
 
-https://drive.google.com/file/d/1Q_3SkHgHap_a7zUXGTyjDaaYVzotqOxa/preview
+Video
+-----
+Access the video at https://drive.google.com/file/d/1Q_3SkHgHap_a7zUXGTyjDaaYVzotqOxa/preview
+
+.. raw:: html
+
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+      <iframe src="https://drive.google.com/file/d/1Q_3SkHgHap_a7zUXGTyjDaaYVzotqOxa/preview" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+  </div>
+
 
 .. |image0| image:: ./static/lost_opportunities/media/image3.png
 

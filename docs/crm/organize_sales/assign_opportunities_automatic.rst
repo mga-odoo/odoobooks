@@ -89,7 +89,6 @@ Access the video at https://drive.google.com/file/d/1EJsfk3MtppcdyzhB_xCvHqC05ZN
       <iframe src="https://drive.google.com/file/d/1EJsfk3MtppcdyzhB_xCvHqC05ZNkPSRj/preview" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
   </div>
 
-
 .. |image0| image:: ./static/automtic_assign/media/image6.png
 
 .. |image1| image:: ./static/automtic_assign/media/image9.png
