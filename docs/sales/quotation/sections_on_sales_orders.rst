@@ -84,14 +84,9 @@ Access the video at https://www.youtube.com/watch?v=BKiUsvBpkUg
     </div>
 
 .. |image0| image:: static/sections_on_sales_orders/media/image5.png
-   :width: 6.5in
-   :height: 3.19444in
+
 .. |image1| image:: static/sections_on_sales_orders/media/image7.png
-   :width: 6.5in
-   :height: 1.84722in
+
 .. |image2| image:: static/sections_on_sales_orders/media/image3.png
-   :width: 6.5in
-   :height: 2.90278in
+
 .. |image3| image:: static/sections_on_sales_orders/media/image8.png
-   :width: 6.28125in
-   :height: 4.28125in

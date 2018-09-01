@@ -3,9 +3,9 @@
 .. index::
    single: Apply Pricelist based on Unit of Measure
 
-==========================================================================================
-How to sell and purchase products in different units of measure, and apply better pricing?
-==========================================================================================
+==================================================================================
+Sell and purchase products in different units of measure, and apply better pricing
+==================================================================================
 
 Video
 -----

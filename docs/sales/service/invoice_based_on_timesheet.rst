@@ -4,9 +4,9 @@
    single: Create Task from Sales Order
    single: Create Invoice from Timesheet
 
-===================================================================
-How to create task from sales order and invoice based on timesheet?
-===================================================================
+===========================================================
+Create task from sales order and invoice based on timesheet
+===========================================================
 
 Video
 -----

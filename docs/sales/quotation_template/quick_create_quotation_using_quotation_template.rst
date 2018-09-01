@@ -112,17 +112,11 @@ Access the video at https://www.youtube.com/watch?v=2b7QcMnA3EA
     </div>
 
 .. |image0| image:: static/quick_create_quotation_using_quotation_template/media/image8.png
-   :width: 6.5in
-   :height: 2.625in
+
 .. |image1| image:: static/quick_create_quotation_using_quotation_template/media/image4.png
-   :width: 6.5in
-   :height: 2.875in
+
 .. |image2| image:: static/quick_create_quotation_using_quotation_template/media/image7.png
-   :width: 6.5in
-   :height: 3.72222in
+
 .. |image3| image:: static/quick_create_quotation_using_quotation_template/media/image9.png
-   :width: 6.5in
-   :height: 2.90278in
+
 .. |image4| image:: static/quick_create_quotation_using_quotation_template/media/image10.png
-   :width: 6.5in
-   :height: 2.63889in

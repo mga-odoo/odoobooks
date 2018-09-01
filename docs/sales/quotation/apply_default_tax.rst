@@ -57,11 +57,7 @@ Access the video at https://www.youtube.com/watch?v=tq3e17Ccjxk
 
 
 .. |image0| image:: static/apply_default_tax/media/image6.png
-   :width: 6.5in
-   :height: 1.91667in
+
 .. |image1| image:: static/apply_default_tax/media/image5.png
-   :width: 6.5in
-   :height: 2.02778in
+
 .. |image2| image:: static/apply_default_tax/media/image3.png
-   :width: 6.5in
-   :height: 2.63889in

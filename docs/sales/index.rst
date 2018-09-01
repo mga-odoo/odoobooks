@@ -13,91 +13,86 @@ Sales Quotation
 .. toctree::
    :maxdepth: 1
 
-   create_my_first_quotation
-   send_quotation_by_email.rst
-   change_your_quotation_layout.rst
-   set_default_terms_and_conditions.rst
-   apply_default_tax.rst
-   sections_on_sales_orders.rst
+   ./quotation/create_my_first_quotation
+   ./quotation/send_quotation_by_email.rst
+   ./quotation/change_your_quotation_layout.rst
+   ./quotation/set_default_terms_and_conditions.rst
+   ./quotation/apply_default_tax.rst
+   ./quotation/sections_on_sales_orders.rst
+   ./quotation/compute_sales_margin.rst
 
 Quotation Template
 ------------------
 .. toctree::
    :maxdepth: 1
 
-   quick_create_quotation_using_quotation_template.rst
-   increase_your_sales_with_suggested_products.rst
-   online_customer_approval_on_quotation.rst
-   online_customer_approval_and_payment_on_quotation.rst
+   ./quotation_template/quick_create_quotation_using_quotation_template.rst
+   ./quotation_template/increase_your_sales_with_suggested_products.rst
+   ./quotation_template/online_customer_approval_on_quotation.rst
+   ./quotation_template/online_customer_approval_and_payment_on_quotation.rst
 
-Product and Pricing
--------------------
+Discounts and Pricelist
+-----------------------
 .. toctree::
    :maxdepth: 1
 
-   apply_manual_discount.rst
-   adapt_price_based_on_customer_segment.rst
-   adapt_price_based_on_customer_location.rst
-   compute_and_apply_discount_from_pricelist.rst
+   ./pricelist_discount/apply_manual_discount.rst
+   ./pricelist_discount/adapt_price_based_on_customer_segment.rst
+   ./pricelist_discount/adapt_price_based_on_customer_location.rst
+   ./pricelist_discount/compute_and_apply_discount_from_pricelist.rst
    ../inventory/inventory_costing/average_costing.rst
-   product_price_per_company.rst
-
-Sales Margin
-------------
-.. toctree::
-  :maxdepth: 1
-
-  compute_sales_margin.rst
+   ./pricelist_discount/product_price_per_company.rst
 
 Unit of Measure
 ---------------
 .. toctree::
    :maxdepth: 1
 
-   product_unit_of_measure.rst
-   pricelist_for_uom.rst
+   ./unit_of_measure/product_unit_of_measure.rst
+   ./unit_of_measure/pricelist_for_uom.rst
+   ./unit_of_measure/product_packaging.rst
 
 Product and Tax
 ---------------
 .. toctree::
    :maxdepth: 1
 
-   price_including_tax.rst
-   price_including_tax_and_excluding_tax.rst
+   ./product_tax/price_including_tax.rst
+   ./product_tax/price_including_tax_and_excluding_tax.rst
 
 Invoicing
 ---------
 .. toctree::
   :maxdepth: 1
 
-  pro-forma.rst
-  invoice_on_order_qty.rst
-  invoice_on_deliver_qty.rst
-  credit_note_from_order.rst
-  single_order_for_multiple_orders.rst
+  ./invoicing/pro-forma.rst
+  ./invoicing/invoice_on_order_qty.rst
+  ./invoicing/invoice_on_deliver_qty.rst
+  ./invoicing/credit_note_from_order.rst
+  ./invoicing/single_order_for_multiple_orders.rst
 
 Delivery Charges
 ----------------
 .. toctree::
    :maxdepth: 1
 
-   free_delivery.rst
-   delivery_based_on_weight.rst
+   ./delivery/free_delivery.rst
+   ./delivery/delivery_based_on_weight.rst
 
 Manage Inventory
 ----------------
 .. toctree::
    :maxdepth: 1
 
-   make_to_order.rst
+   ./inventory/make_to_order.rst
 
 Service Product
 ---------------
 .. toctree::
   :maxdepth: 1
 
-  invoice_milestones.rst
-  invoice_based_on_timesheet.rst
+  ./service/invoice_milestones.rst
+  ./service/invoice_based_on_timesheet.rst
 
 Subscription
 ------------
@@ -113,6 +108,6 @@ Customer Portal
 .. toctree::
   :maxdepth: 1
 
-  online_approval.rst
-  online_payment.rst
-  confirm_and_pay_online.rst
+  ./customer_portal/online_approval.rst
+  ./customer_portal/online_payment.rst
+  ./customer_portal/confirm_and_pay_online.rst

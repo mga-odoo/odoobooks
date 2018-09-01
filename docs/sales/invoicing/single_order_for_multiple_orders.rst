@@ -3,9 +3,9 @@
 .. index::
    single: Single invoice form multiple sale orders
 
-========================================================
-How to create single invoice from multiple sales orders?
-========================================================
+================================================
+Create single invoice from multiple sales orders
+================================================
 
 Video
 -----

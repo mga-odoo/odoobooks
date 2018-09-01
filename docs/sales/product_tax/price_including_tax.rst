@@ -4,9 +4,9 @@
    single: Tax Included in Price
    single: Business to Customer Prices (Tax included)
 
-=============================================================
-How to manage prices for Business to Customer (tax included)?
-=============================================================
+=====================================================
+Manage prices for Business to Customer (tax included)
+=====================================================
 
 Video
 -----

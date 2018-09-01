@@ -45,8 +45,5 @@ pay quotation online.
 |image1|
 
 .. |image0| image:: static/increase_your_sales_with_supgested_products/media/image2.png
-   :width: 6.5in
-   :height: 2.86111in
+
 .. |image1| image:: static/increase_your_sales_with_supgested_products/media/image4.png
-   :width: 6.5in
-   :height: 4.05556in

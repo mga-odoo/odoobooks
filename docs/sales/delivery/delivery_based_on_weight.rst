@@ -17,7 +17,7 @@ Configuration
 -------------
 Activate the Shipping Costs feature form ``Sales / Configuration / Settings``.
 
-.. image:: images/chapter_02_21.png
+.. image:: ../images/chapter_02_21.png
    :alt: Shipping Costs Configuration
    :align: center
 
@@ -28,14 +28,14 @@ Setup the delivery charges
 Let's assume that you deliver the product to your customer through postal service and the service changres you based on weight.
 Postal service deliver to all over the USA at $20 fixed rates if the weight upto 1kg, when weight is above 1kg, they charge $8 for every 1kg.
 
-.. image:: images/chapter_02_22.png
+.. image:: ../images/chapter_02_22.png
    :alt: Delivery Cost Grid
    :align: center
 
 Goto ``Sales / Configure / Delivery Methods`` and create a new method *Postal Delivery*,
 select *Based on Rule* for **Provide** as the delivery cost is based on the weight and create a two rules.
 
-.. image:: images/chapter_02_23.png
+.. image:: ../images/chapter_02_23.png
    :alt: Delivery Rules
    :align: center
 
@@ -43,7 +43,7 @@ Setup product weight
 ~~~~~~~~~~~~~~~~~~~~
 Do not forget to add the correct product weight while creating the products.
 
-.. image:: images/chapter_02_24.png
+.. image:: ../images/chapter_02_24.png
    :alt: Product Weight
    :align: center
 
@@ -55,7 +55,7 @@ You can now choose the Delivery Method on your sale order.
 If you want to invoice the price of the delivery charge on the sale order, click on Set price,
 it will add a line with the name of the delivery method as a product.
 
-.. image:: images/chapter_02_25.png
+.. image:: ../images/chapter_02_25.png
    :alt: Product Weight
    :align: center
 

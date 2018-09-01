@@ -43,8 +43,5 @@ configuration, now your quotation will be printed with the new layout.
 |image1|
 
 .. |image0| image:: static/change_your_quotatio_layout/media/image4.png
-   :width: 6.5in
-   :height: 2.26389in
+
 .. |image1| image:: static/change_your_quotatio_layout/media/image2.png
-   :width: 4.71943in
-   :height: 6.11979in
