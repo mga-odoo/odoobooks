@@ -10,7 +10,7 @@
 About Odoo 11.0 Online Book
 ===========================
 
-.. image:: images/openerp-book2.png
+.. image:: images/openerp-book.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
