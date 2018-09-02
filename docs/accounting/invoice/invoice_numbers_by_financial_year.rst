@@ -3,9 +3,9 @@
 .. index::
    single: Reset invoice numbering based on the date range
 
-======================================================================
-Reset invoice numbering based on the date range (monthly invoice book)
-======================================================================
+=======================================================================
+Reset invoice number for every new financial year or change every month
+=======================================================================
 
 Video
 -----
