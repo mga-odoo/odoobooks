@@ -5,9 +5,8 @@
    single: Vendor Product Name
    single: Vendor Pricelist
 
-===========================================================================
-How to search for product based on supplier code or name on purchase order?
-===========================================================================
+Search by supplier product code or name on the request for quotation
+====================================================================
 
 Video
 -----

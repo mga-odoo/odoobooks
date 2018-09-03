@@ -5,9 +5,8 @@
    single: Bulk Purchase
    single: Purchase Tender
 
-=======================================================================
-How to purchase partially at two vendors for the same purchase tenders?
-=======================================================================
+Purchase partially from two vendors for the same purchase tender
+================================================================
 
 Video
 -----

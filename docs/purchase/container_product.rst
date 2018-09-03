@@ -5,9 +5,8 @@
    single: Container Refilling
    single: Containers on Rent
 
-=========================================================================================
-How to sell chemical products along with the containers and manage the refilling process?
-=========================================================================================
+Sell or refill the chemical products in container
+=================================================
 
 Video
 -----

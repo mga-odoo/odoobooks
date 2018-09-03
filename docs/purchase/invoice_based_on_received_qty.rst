@@ -1,11 +1,10 @@
 .. _invoicebasedonreceived:
 
 .. index::
-   single: Invoice based on receiption
+   single: Invoice based on reception
 
-=================================================================
-How to control vendor bills, pay vendor bills based on reception?
-=================================================================
+Control vendor bills, pay vendor bills based on reception
+=========================================================
 
 Video
 -----

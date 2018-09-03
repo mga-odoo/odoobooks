@@ -1,12 +1,11 @@
 .. _maketoorder:
 
 .. index::
-   single: Purchase ondemand
+   single: Purchase on demand
    single: Sales order that create the Purchase order
 
-=======================================================
-How to trigger the purchase of products based on sales?
-=======================================================
+Create a purchase order when sale order confirms
+================================================
 
 Video
 -----
