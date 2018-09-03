@@ -4,9 +4,8 @@
    single: Purchase Agreement
    single: Blanket Order
 
-===================================================
-How to manage bulk purchase through tender process?
-===================================================
+Manage bulk purchase through tender process
+===========================================
 
 Video
 -----

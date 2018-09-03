@@ -13,8 +13,8 @@ Request for Quotation
 
    create_rfq.rst
    make_to_order.rst
-   dropship.rst
    second_approval.rst
+   dropship.rst
 
 Supplier Pricelist
 -------------------
@@ -51,10 +51,7 @@ Inventory Costing
 .. toctree::
   :maxdepth: 1
 
-  ../inventory/inventory_costing/standard_costing.rst
-  ../inventory/inventory_costing/costing_at_averagr_price.rst
-  ../inventory/inventory_costing/fifo_costing_method.rst
-  ../inventory/inventory_costing/average_costing.rst
+  inventory_costing/index.rst
 
 Advance Topics
 --------------

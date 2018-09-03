@@ -3,9 +3,8 @@
 .. index::
    single: Dropshipping in Delivery
 
-===========================
-How to setup drop-shipping?
-===========================
+Setup drop-shipping
+===================
 
 Video
 -----

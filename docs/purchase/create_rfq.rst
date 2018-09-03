@@ -3,9 +3,8 @@
 .. index::
    single: Create RFQ
 
-======================================
-How to create a Request for Quotation?
-======================================
+Create a Request for Quotation
+==============================
 
 Video
 -----
