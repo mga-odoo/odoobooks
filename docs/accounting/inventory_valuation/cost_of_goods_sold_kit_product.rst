@@ -1,13 +1,10 @@
 .. _cogsanglosaxon:
 
 .. index::
-   single: Cost of Goods Sold
-   single: Anglo-Saxon
-   single: Inventory Valuation
+   single: Cost of goods sold for kit product (Community 10.0)
 
-============================================================================
-Correct cost of goods sold (COGS) entry for a kit type product (Anglo-Saxon)
-============================================================================
+Compute cost of goods sold for a kit product (Real price costing and Automated valuation) - Odoo 10.0 community
+===============================================================================================================
 
 Video
 -----
