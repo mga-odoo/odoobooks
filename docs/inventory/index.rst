@@ -33,16 +33,18 @@ Inventory Costing
 .. toctree::
    :maxdepth: 1
 
-   inventory_costing/standard_costing.rst
-   inventory_costing/costing_at_averagr_price.rst
-   inventory_costing/fifo_costing_method.rst
-   inventory_costing/average_costing.rst
+   inventory_costing/index.rst
 
 Inventory Valuation (Anglo-Saxons)
 ----------------------------------
 .. toctree::
    :maxdepth: 1
 
-   inventory_valuation/manual_valuation_standard_costing.rst
-   inventory_valuation/manual_valuation_fifo_costing.rst
-   inventory_valuation/manual_valuation_average_costing.rst
+   inventory_valuation/index.rst
+
+Automatic Inventory Valuation (Anglo-Saxons)
+--------------------------------------------
+.. toctree::
+ :maxdepth: 1
+
+ automatic_inventory_valuation/index.rst
