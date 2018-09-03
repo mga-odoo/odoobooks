@@ -6,9 +6,9 @@ Business case
 -------------
 The **My Company** is a distributor of *Laptop*, they purchase a laptop form the
 default supplier and sell to retail customers, they do not maintain the stock,
-they always purchase on demand so **Standard pricing** is pefect costing method
+they always purchase on demand so **Standard pricing** is perfect costing method
 for them. Some times they benefit or loss if they have stock and product price
-change as they directly change the product cost price whcih impect on their
+change as they directly change the product cost price which impact on their
 inventory value.
 
 Configuration

@@ -1,7 +1,7 @@
 ===============================================================================
 Compute sell price and margin based on product cost price (AVCO costing method)
 ===============================================================================
-The most common buisnees case where you want to decide the sell price basd on
+The most common business case where you want to decide the sell price based on
 your cost of of the product purchase price.
 
 Business case

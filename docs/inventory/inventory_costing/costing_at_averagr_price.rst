@@ -1,7 +1,7 @@
 =============================================
 Compute the cost of product (average costing)
 =============================================
-The average costing method help you to dicide the product sell price, each time
+The average costing method help you to decide the product sell price, each time
 you purchase the product new cost will be updated based on the existing stock
 and purchased stock value.
 
@@ -9,7 +9,7 @@ Business case
 -------------
 The **My Company** is a distributor of *Laptop*, they purchase a laptop form the
 default supplier and sell to retail customers, there are sometime frequent price
-change, so **My Company** wans to setup the inventory costing and based on
+change, so **My Company** wants to setup the inventory costing and based on
 average cost method.
 
 Configuration

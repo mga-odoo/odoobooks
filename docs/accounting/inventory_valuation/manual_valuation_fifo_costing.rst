@@ -1,5 +1,5 @@
-Compute the inventory valuation and cost of goods sold using fifo costing method and manual valuation
-=====================================================================================================
+Compute the inventory valuation and cost of goods sold using fifo costing method
+================================================================================
 
 The manual inventory valuation method suggest that the valuation of an
 inventory has to be manage manually in financial accounting. The

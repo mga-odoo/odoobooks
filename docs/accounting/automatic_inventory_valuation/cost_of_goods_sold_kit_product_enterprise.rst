@@ -3,8 +3,8 @@
 .. index::
    single: Cost of goods sold for kit product
 
-Compute cost of goods sold for a kit product (Standard costing and Automated valuation)
-=======================================================================================
+Compute cost of goods sold for a kit product using standard costing method
+==========================================================================
 
 Video
 -----
