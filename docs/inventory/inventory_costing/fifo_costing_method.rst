@@ -20,7 +20,7 @@ Configuration
 
 - Define *Default Supplier* as a vendor with the cost price of *Laptop*.
 
-- Purchse 3 unit of Laptop at different rates, the product will be computed
+- Purchase 3 unit of Laptop at different rates, the product will be computed
   on each reception by doing an average based on the purchase price.
 
 .. tip:: The FIFO is same as the Real price costing, follows the accounting

@@ -1,5 +1,6 @@
-Compute the inventory valuation in P&L and BS (using standard costing and manual valuation)
-===========================================================================================
+
+Compute the inventory valuation and cost of goods sold using standard costing
+=============================================================================
 
 The manual inventory valuation method suggest that the valuation of an
 inventory has to be manage manually in financial accounting. The
