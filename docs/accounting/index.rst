@@ -81,12 +81,19 @@ Analytic Accounting (Cost center)
 
    analytic_accounting/index.rst
 
-Inventory Valuation (Anglo-Saxons)
-----------------------------------
+Manual Inventory Valuation (Anglo-Saxons)
+-----------------------------------------
 .. toctree::
    :maxdepth: 1
 
    inventory_valuation/index.rst
+
+Automatic Inventory Valuation (Anglo-Saxons)
+--------------------------------------------
+.. toctree::
+  :maxdepth: 1
+
+  automatic_inventory_valuation/index.rst
 
 Indian Localization
 -------------------
