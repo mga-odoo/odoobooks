@@ -6,8 +6,6 @@
    single: About Author
    single: About Reviewer
 
-.. sectionauthor:: Mantavya Gajjar <mantavyagajjar@gmail.com>
-
 ======================
 About Odoo Online Book
 ======================
