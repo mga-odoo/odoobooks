@@ -74,6 +74,13 @@ Vendor Bills and Payments
 
    vendor_bills/index.rst
 
+Analytic Accounting (Cost center)
+---------------------------------
+.. toctree::
+   :maxdepth: 1
+
+   analytic_accounting/index.rst
+
 Inventory Valuation (Anglo-Saxons)
 ----------------------------------
 .. toctree::
