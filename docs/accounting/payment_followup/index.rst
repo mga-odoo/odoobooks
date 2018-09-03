@@ -9,3 +9,4 @@
    customer_followups.rst
    advance_payment_from_customer.rst
    print_customer_ledger.rst
+   reconcile_invoice_and_bills.rst
