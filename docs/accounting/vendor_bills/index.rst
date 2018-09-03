@@ -10,3 +10,4 @@
    partial_payment_on_multiple_bills.rst
    customer_aged_payable_report.rst
    single_bill_form_multiple_orders.rst
+   manage_employee_expense.rst
