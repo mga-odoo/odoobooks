@@ -17,7 +17,7 @@ About Odoo 11.0 Online Book
    :alt: Odoo Online Book
    :align: right
 
-Odoo 11.0 online book is dedicated for functional consultants or entrepreneur
+Odoo online book is dedicated for functional consultants or entrepreneur
 who wants to implement or use odoo online all-in-one business
 application out-of-the box. This is an online book written based on Odoo
 **Community** and **Enterprise** Edition. This book covers best
