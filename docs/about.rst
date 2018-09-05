@@ -6,9 +6,9 @@
    single: About Author
    single: About Reviewer
 
-===========================
-About Odoo 11.0 Online Book
-===========================
+======================
+About Odoo Online Book
+======================
 
 .. image:: images/openerp-book.png
    :height: 300px
