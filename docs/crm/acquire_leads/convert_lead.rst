@@ -1,3 +1,7 @@
+
+.. index::
+   single: Convert leads into opportunities
+
 Convert leads into opportunities
 ================================
 

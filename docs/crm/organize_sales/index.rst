@@ -1,4 +1,6 @@
 
+.. index::
+   single: Organize the pipeline
 
 .. toctree::
    :titlesonly:

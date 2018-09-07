@@ -1,3 +1,7 @@
+
+.. index::
+   single: Assign leads based on scoring
+
 Assign leads based on scoring
 =============================
 
