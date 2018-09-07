@@ -1,4 +1,6 @@
 
+.. index::
+   single: Customer Portal
 
 .. toctree::
   :maxdepth: 1
