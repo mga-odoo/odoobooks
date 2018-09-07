@@ -1,3 +1,7 @@
+
+.. index::
+   single: Create New Tax
+
 Create a new taxes
 ==================
 

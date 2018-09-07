@@ -1,4 +1,6 @@
 
+.. index::
+   single: Profitability for service projects
 
 Compute the profitability for service projects
 ==============================================

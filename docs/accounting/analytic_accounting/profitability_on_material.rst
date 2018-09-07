@@ -1,4 +1,6 @@
 
+.. index::
+   single: Profitability for trading company
 
 Compute the profitability for trading company
 =============================================

@@ -1,4 +1,6 @@
 
+.. index::
+   single: Automatic Stock Valuation
 
 .. toctree::
    :maxdepth: 1

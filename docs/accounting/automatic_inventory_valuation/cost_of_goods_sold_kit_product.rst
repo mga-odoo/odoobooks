@@ -1,10 +1,13 @@
 .. _cogsanglosaxon:
 
 .. index::
-   single: Cost of goods sold for kit product (Community 10.0)
+   single: Cost of goods sold for kit product (Real price)
 
-Compute cost of goods sold for a kit product using real price costing - Odoo 10.0 community
-===========================================================================================
+Compute cost of goods sold for a kit product using real price costing
+=====================================================================
+
+This document is written based on the Odoo 10.0 community edition.
+
 
 Video
 -----

@@ -1,3 +1,8 @@
+
+.. index::
+   single: Business to Business, Tax Excluded
+   single: Business to Customer, Tax Included
+
 Manage product prices for B2B (tax excluded) and B2C (tax included)
 ===================================================================
 

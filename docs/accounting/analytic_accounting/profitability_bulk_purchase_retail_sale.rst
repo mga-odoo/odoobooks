@@ -1,4 +1,6 @@
 
+.. index::
+   single: Profitability when bulk purchase and retail sales
 
 Compute the profitability for trading company, bulk purchase and retail sales
 =============================================================================

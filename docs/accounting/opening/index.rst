@@ -1,4 +1,6 @@
 
+.. index::
+   single: Setup Accounting App
 
 .. toctree::
    :maxdepth: 1

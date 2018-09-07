@@ -1,3 +1,7 @@
+
+.. index::
+   single: FIFO Costing & Manual Inventory Valuation
+
 Compute the inventory valuation and cost of goods sold using fifo costing method
 ================================================================================
 

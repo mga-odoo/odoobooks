@@ -1,4 +1,7 @@
 
+.. index::
+   single: TDS Payable
+
 ==============================================================================================
 Manage tax deduction at source, tax ledger, compute payable and pay through bank (vendor bill)
 ==============================================================================================

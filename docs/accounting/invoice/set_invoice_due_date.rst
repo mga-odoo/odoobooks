@@ -1,4 +1,6 @@
 
+.. index::
+   single: Due date on customer invoice
 
 Set due date on the invoice
 ===========================

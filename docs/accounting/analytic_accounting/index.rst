@@ -1,4 +1,6 @@
 
+.. index::
+   single: Analytic Accounting
 
 .. toctree::
    :maxdepth: 1

@@ -1,4 +1,6 @@
 
+.. index::
+   single: Taxes and Duties
 
 .. toctree::
    :maxdepth: 1

@@ -1,4 +1,7 @@
 
+.. index::
+   single: TDS Certificate Receivable
+
 ============================================================================
 Track tax deduction at source and certificate receivable, (customer invoice)
 ============================================================================

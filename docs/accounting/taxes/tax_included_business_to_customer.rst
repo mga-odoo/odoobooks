@@ -1,3 +1,7 @@
+
+.. index::
+   single: Business to Customer (tax included)
+
 Define product prices for Business to Customer (tax included)
 =============================================================
 

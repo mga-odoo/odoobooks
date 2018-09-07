@@ -1,4 +1,6 @@
 
+.. index::
+   single: Profitability based on service and material
 
 Profitability based on the service and material (Website development company)
 =============================================================================

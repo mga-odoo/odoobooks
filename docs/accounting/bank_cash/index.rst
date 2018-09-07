@@ -1,4 +1,6 @@
 
+.. index::
+   single: Bank and Cash Reconciliation
 
 .. toctree::
    :maxdepth: 1

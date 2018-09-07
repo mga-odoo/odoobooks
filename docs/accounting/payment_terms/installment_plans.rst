@@ -2,7 +2,6 @@
 
 .. index::
    single: Installments Plan
-   single: Payment Terms
 
 ===================================================================
 Define an installment plan on customer invoices (Use Payment terms)
