@@ -1,5 +1,8 @@
 .. _posindex:
 
+.. index::
+   single: Point of Sale
+
 =============
 Point of Sale
 =============
