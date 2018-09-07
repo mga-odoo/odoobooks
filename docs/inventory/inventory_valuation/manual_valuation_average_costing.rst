@@ -1,4 +1,7 @@
 
+.. index::
+   single: Average Costing and Manual Valuation
+
 Compute the inventory valuation and cost of goods sold using average costing method
 ===================================================================================
 

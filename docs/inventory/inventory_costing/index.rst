@@ -1,4 +1,6 @@
 
+.. index::
+   single: Inventory Costing Methods
 
 .. toctree::
    :maxdepth: 1

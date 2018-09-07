@@ -1,3 +1,7 @@
+
+.. index::
+   single: Compute the cost of product using fifo method
+
 =======================================================
 Compute the cost of product (first in first out method)
 =======================================================
