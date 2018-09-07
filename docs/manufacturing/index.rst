@@ -1,5 +1,9 @@
 .. _mrpindex:
 
+
+.. index::
+   single: Manufacturing
+
 =============
 Manufacturing
 =============

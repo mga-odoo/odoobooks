@@ -1,9 +1,9 @@
 .. _firstinstance:
 
 .. index::
-   single: Instance
-   single: Online
-   single: Browser
+   single: Create Instance
+   single: Online Instance
+   single: Supported Browser
    single: Activate instance
    single: Free trial
 
