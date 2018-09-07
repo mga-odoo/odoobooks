@@ -1,4 +1,6 @@
 
+.. index::
+   single: Invoicing
 
 .. toctree::
   :maxdepth: 1

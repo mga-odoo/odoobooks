@@ -1,4 +1,6 @@
 
+.. index::
+   single: Marketing Activity
 
 .. toctree::
   :titlesonly:

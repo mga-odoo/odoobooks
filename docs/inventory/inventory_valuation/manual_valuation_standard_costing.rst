@@ -1,4 +1,7 @@
 
+.. index::
+   single: Standard Costing and Manual Valuation
+
 Compute the inventory valuation and cost of goods sold using standard costing
 =============================================================================
 

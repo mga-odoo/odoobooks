@@ -1,3 +1,7 @@
+
+.. index::
+   single: Compute margin when costing is average
+
 ===============================================================================
 Compute sell price and margin based on product cost price (AVCO costing method)
 ===============================================================================

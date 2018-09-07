@@ -1,7 +1,7 @@
 .. _multiplesalesteam:
 
 .. index::
-   single: Sales Team
+   single: Multiple Sales Team
 
 Manage multiple sales teams
 ===========================

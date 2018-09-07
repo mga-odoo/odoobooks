@@ -1,4 +1,7 @@
 
+.. index::
+   single: Delivery charges based on zip code, state or country
+
 =======================================================================
 Different delivery price based on the area (zip code, state or country)
 =======================================================================

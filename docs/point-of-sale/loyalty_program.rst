@@ -1,4 +1,7 @@
 
+.. index::
+   single: Loyalty program
+
 =================================================================================
 Retain your walk-in customers, setup customer retention program (loyalty program)
 =================================================================================

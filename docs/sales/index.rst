@@ -1,5 +1,8 @@
 .. _salesindex:
 
+.. index::
+   single: Sales and Invoicing
+   
 ===================
 Sales and Invoicing
 ===================

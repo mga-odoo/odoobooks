@@ -1,4 +1,6 @@
 
+.. index::
+   single: Inventory Valuation
 
 .. toctree::
    :maxdepth: 1

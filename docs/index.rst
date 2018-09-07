@@ -7,12 +7,12 @@
    single: Home
 
 
-Odoo Online Book
-================
+Odoo 10 Implementation Best Practices
+=====================================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
-**Odoo Online Book** is an online book written based on Community and Enterprise
+**Odoo 10 Implementation Best Practices Book** is an online book written based on Community and Enterprise
 Edition. This book covers best implementation practice for most used
 applications such as Sales, Purchase, Inventory, Financial Accounting and
 Manufacturing.
@@ -24,8 +24,9 @@ Manufacturing.
   You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
   channel to receive an instance update about the new videos and pages on this book.
 
-* :ref:`toc`
-* :ref:`genindex`
+Search the topics by :ref:`genindex` or start reading the book by :ref:`toc`.
+
+
 
 .. toctree::
    :maxdepth: 3

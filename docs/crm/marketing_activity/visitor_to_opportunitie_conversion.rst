@@ -1,5 +1,9 @@
-Measure which marketing campaign bring more opportunities
-=========================================================
+
+.. index::
+   single: Which marketing campaign creates more opportunities
+
+Measure which marketing campaign creates more opportunities
+===========================================================
 
 The biggest challenge for every business is *how do I drive more traffic
 to my online store?*, If you able to get the visitor you can convert

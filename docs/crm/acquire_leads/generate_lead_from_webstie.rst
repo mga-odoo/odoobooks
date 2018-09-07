@@ -1,3 +1,7 @@
+
+.. index::
+   single: Generate leads from website
+
 Generate leads/opportunities from your website contact page
 ===========================================================
 

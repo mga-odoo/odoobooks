@@ -1,4 +1,7 @@
 
+.. index::
+   single: Discount on Point of Sale
+
 ==========================================================
 Apply discount on specific product price or on order value
 ==========================================================

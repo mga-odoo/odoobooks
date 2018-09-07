@@ -1,3 +1,7 @@
+
+.. index::
+   single: Reactive the lost leads
+
 Email marketing on the lost activity to reactive them
 =====================================================
 

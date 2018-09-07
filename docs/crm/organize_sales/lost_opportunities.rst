@@ -1,3 +1,7 @@
+
+.. index::
+   single: Manage lost opportunities
+
 Manage lost opportunities
 =========================
 

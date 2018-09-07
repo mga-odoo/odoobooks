@@ -1,5 +1,8 @@
 .. _crmindex:
 
+.. index::
+   single: Customer Relationship Management (CRM)
+
 Customer Relationship Management
 ================================
 

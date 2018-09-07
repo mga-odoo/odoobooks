@@ -1,9 +1,13 @@
+
+.. index::
+   single: Automatic leads assignation
+
 Automatic leads assignation to team members
 ===========================================
 
 There are multiple sales people working within the sales team, the
 number of leads increased you have to increased the number of people to
-work on. The problem starts for the team manager to assign the leds to
+work on. The problem starts for the team manager to assign the leads to
 them when team grows, let’s see how you can make the team manager life
 easy with automatic leads assignation.
 

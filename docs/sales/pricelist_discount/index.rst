@@ -1,4 +1,7 @@
 
+.. index::
+   single: Pricelist and Discount
+
 .. toctree::
    :maxdepth: 1
 

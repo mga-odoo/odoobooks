@@ -1,5 +1,9 @@
-Measure the score for an opportunity based on the user behaviour on your website
-================================================================================
+
+.. index::
+   single: Measure the leads score
+
+Measure the score for an opportunity based on the user behavior on your website
+===============================================================================
 
 Tracking your website pages will give you much more information about
 the interests of your website visitors. Every tracked page they visit
