@@ -1,4 +1,6 @@
 
+.. index::
+   single: Subscriptions
 
 .. toctree::
   :maxdepth: 1

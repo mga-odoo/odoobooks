@@ -1,4 +1,7 @@
 
+.. index::
+   single: Selling Products by Fixed Packages
+
 Selling products by multiple of unit # per package
 ==================================================
 

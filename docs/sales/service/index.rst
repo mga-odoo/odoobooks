@@ -1,4 +1,6 @@
 
+.. index::
+   single: Service Product
 
 .. toctree::
   :maxdepth: 1

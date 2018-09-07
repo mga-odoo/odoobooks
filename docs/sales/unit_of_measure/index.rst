@@ -1,4 +1,6 @@
 
+.. index::
+   single: Unit of Measure
 
 .. toctree::
    :maxdepth: 1

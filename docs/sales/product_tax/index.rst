@@ -1,4 +1,7 @@
 
+.. index::
+   single: Product and Tax
+
 .. toctree::
    :maxdepth: 1
 
