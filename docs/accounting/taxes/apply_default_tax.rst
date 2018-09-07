@@ -1,3 +1,7 @@
+
+.. index::
+   single: Apply default tax
+
 Apply default taxes on products or sales order
 ==============================================
 

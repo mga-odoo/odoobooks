@@ -1,4 +1,6 @@
 
+.. index::
+   single: Vendor Bills and Payment
 
 .. toctree::
    :maxdepth: 1

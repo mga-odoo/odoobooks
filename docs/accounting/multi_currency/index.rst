@@ -1,4 +1,6 @@
 
+.. index::
+   single: Multi Currency
 
 .. toctree::
    :maxdepth: 1

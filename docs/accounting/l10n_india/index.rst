@@ -1,4 +1,7 @@
 
+.. index::
+   single: Indian Localization
+
 .. toctree::
    :maxdepth: 1
 

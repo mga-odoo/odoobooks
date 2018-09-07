@@ -1,4 +1,6 @@
 
+.. index::
+   single: Foreign Exchange Gain/Loss
 
 Foreign exchange gain or loss entry when invoice and payment in foreign currency
 ================================================================================

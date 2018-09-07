@@ -1,3 +1,7 @@
+
+.. index::
+   single: Which marketing platform bring more visitors
+
 Which marketing platform bring more visitors
 ============================================
 

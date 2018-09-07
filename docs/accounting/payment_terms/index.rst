@@ -1,4 +1,6 @@
 
+.. index::
+   single: Payment Terms
 
 .. toctree::
    :maxdepth: 1

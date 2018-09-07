@@ -1,8 +1,7 @@
 .. _paymentterms:
 
 .. index::
-   single: Payment Terms
-   single: Due Date
+   single: Compute Due Date
 
 =============================================================
 Setup and use payment terms - 50% advance, balance in 30 days

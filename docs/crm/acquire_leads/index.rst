@@ -1,4 +1,6 @@
 
+.. index::
+   single: Acquire leads
 
 .. toctree::
   :titlesonly:

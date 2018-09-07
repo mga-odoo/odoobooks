@@ -1,4 +1,6 @@
 
+.. index::
+   single: Payment and Followups
 
 .. toctree::
    :maxdepth: 1

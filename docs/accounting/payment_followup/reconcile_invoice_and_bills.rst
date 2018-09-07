@@ -1,4 +1,6 @@
 
+.. index::
+   single: Reconcile Customer Invoice with Vendor Bills
 
 Reconcile customer invoice vs vendor bill
 =========================================

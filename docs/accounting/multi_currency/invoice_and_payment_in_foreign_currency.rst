@@ -1,4 +1,6 @@
 
+.. index::
+   single: Multi-Currency Invoice and Payment
 
 Invoice and payment in foreign currency
 =======================================

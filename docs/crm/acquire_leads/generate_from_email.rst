@@ -1,3 +1,7 @@
+
+.. index::
+   single: Generate leads from emails
+
 Generate leads/opportunities from emails
 ========================================
 
