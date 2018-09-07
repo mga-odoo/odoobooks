@@ -6,9 +6,9 @@
    single: About Author
    single: About Reviewer
 
-======================
-About Odoo Online Book
-======================
+=========================
+About Odoo 11 Online Book
+=========================
 
 .. image:: images/openerp-book.png
    :height: 300px
@@ -17,7 +17,7 @@ About Odoo Online Book
    :alt: Odoo Online Book
    :align: right
 
-Odoo online book is dedicated for functional consultants or entrepreneur
+Odoo 11 online book is dedicated for functional consultants or entrepreneur
 who wants to implement or use odoo online all-in-one business
 application out-of-the box. This is an online book written based on Odoo
 **Community** and **Enterprise** Edition. This book covers best
