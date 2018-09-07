@@ -1,3 +1,7 @@
+
+.. index::
+   single: Compute cost of product using standard method
+
 ============================================
 Compute the cost of product (standard price)
 ============================================

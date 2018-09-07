@@ -1,4 +1,6 @@
 
+.. index::
+   single: Delivery charges
 
 .. toctree::
    :maxdepth: 1

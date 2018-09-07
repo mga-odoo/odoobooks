@@ -1,3 +1,7 @@
+
+.. index::
+   single: Compute the average cost of product
+
 =============================================
 Compute the cost of product (average costing)
 =============================================

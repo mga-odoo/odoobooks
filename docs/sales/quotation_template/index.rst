@@ -1,4 +1,7 @@
 
+.. index::
+   single: Quotation Template
+
 .. toctree::
    :maxdepth: 1
 

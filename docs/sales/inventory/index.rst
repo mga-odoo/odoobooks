@@ -1,4 +1,6 @@
 
+.. index::
+   single: Inventory
 
 .. toctree::
    :maxdepth: 1

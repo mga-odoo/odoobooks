@@ -1,4 +1,7 @@
 
+.. index::
+   single: Sales Quotation
+
 
 .. toctree::
    :maxdepth: 1

@@ -1,4 +1,7 @@
 
+.. index::
+   single: Margin on the delivery charges
+
 =======================================================================
 Manage delivery price fluctuation, apply margin on the delivery charges
 =======================================================================

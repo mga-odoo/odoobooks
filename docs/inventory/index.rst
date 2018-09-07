@@ -1,5 +1,8 @@
 .. _inventoryindex:
 
+.. index::
+   single: Inventory
+
 ====================
 Inventory Management
 ====================

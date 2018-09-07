@@ -1,7 +1,7 @@
 .. _productuom:
 
 .. index::
-   single: Unit of Measure
+   single: Sale and Purchase in different unit of measure
 
 ==============================================
 Sale and purchase in different unit of measure
