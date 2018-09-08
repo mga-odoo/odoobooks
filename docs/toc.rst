@@ -1,6 +1,6 @@
 .. _toc:
 
-Odoo Online Book
+Table of Content
 ================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.

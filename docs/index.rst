@@ -24,8 +24,9 @@ Manufacturing.
   You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
   channel to receive an instance update about the new videos and pages on this book.
 
-* :ref:`toc`
-* :ref:`genindex`
+Search the topics by :ref:`genindex` or start reading the book by :ref:`toc`.
+
+
 
 .. toctree::
    :maxdepth: 3
