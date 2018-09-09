@@ -3,9 +3,15 @@
 .. index::
    single: Inventory
 
-====================
 Inventory Management
 ====================
+
+Setup
+-----
+.. toctree::
+   :maxdepth: 1
+
+   setup/index.rst
 
 Product & Stock
 ---------------
