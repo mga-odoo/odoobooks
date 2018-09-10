@@ -3,6 +3,10 @@
 .. index::
    single: Cash Discount
 
+.. meta::
+  :description: Setup cash discounts when customer pay before the due date
+  :keywords: Odoo 12.0, cash discount, discount, payment terms, bank reconciliation
+
 ==========================================================
 Setup cash discounts when customer pay before the due date
 ==========================================================
