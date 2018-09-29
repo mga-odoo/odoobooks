@@ -47,12 +47,12 @@ on which product.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=tq3e17Ccjxk
+Access the video at https://www.youtube.com/watch?v=o9sVx6AIg5Q
 
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/tq3e17Ccjxk" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+        <iframe src="https://www.youtube.com/embed/o9sVx6AIg5Q" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
 
 

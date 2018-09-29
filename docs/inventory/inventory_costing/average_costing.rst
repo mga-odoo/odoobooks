@@ -12,7 +12,7 @@ Business case
 -------------
 The **My Company** is a distributor of *Laptop*, they purchase a laptop form the
 default supplier and sell to retail customers, there are sometime frequent price
-change, so **My Company** wans to setup the inventory costing and based on cost
+change, so **My Company** wants to setup the inventory costing and based on cost
 they can define the product they add 35% margin and sell to their customers.
 
 Configuration
@@ -31,15 +31,15 @@ Configuration
 - Activate the **Multiple Sales Prices per Product** and **Margins** under the
   Sales / Configuration / Settings.
 
-- Change existing price list *Public Pricelist* and add new pricelist iteam,
+- Change existing price list *Public Pricelist* and add new pricelist item,
   they increase the Laptop price by 35%.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=t2P70HKk3rE
+Access the video at https://www.youtube.com/watch?v=SQC26XH-ebQ
 
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/t2P70HKk3rE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+        <iframe src="https://www.youtube.com/embed/SQC26XH-ebQ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>

@@ -77,12 +77,12 @@ negotiation process.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=NBfqS4LlKQc
+Access the video at https://www.youtube.com/watch?v=LZjN1fdVSO4
 
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/NBfqS4LlKQc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+        <iframe src="https://www.youtube.com/embed/LZjN1fdVSO4" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
 
 .. |image0| image:: static/online_customer_approval_on_quotation/media/image4.png
