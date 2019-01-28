@@ -18,8 +18,7 @@ Product & Stock
 .. toctree::
    :maxdepth: 1
 
-   minimum_stock_rule.rst
-   bom_stock.rst
+   product_stock/index.rst
 
 Delivery Order
 --------------
