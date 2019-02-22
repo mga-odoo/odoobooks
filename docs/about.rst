@@ -1,5 +1,8 @@
 .. _about:
 
+.. meta::
+  :description: Odoo Online Book, Version 12.0 by Mantavya Gajjar
+  :keywords: Odoo, Online, Book, V12.0, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
