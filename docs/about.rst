@@ -1,7 +1,7 @@
 .. _about:
 
 .. meta::
-   :description: Odoo Online Book, Version 12.0 by Mantavya Gajjar
+   :description: Title: Odoo Online Book, Author: Mantavya Gajjar, Category: Books, Price: Free
    :keywords: Odoo, Online, Book, V12.0, Mantavya, Gajjar
 
 .. index::
