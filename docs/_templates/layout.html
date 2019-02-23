@@ -17,6 +17,11 @@
 </script>
 {% endblock %}
 
+{% block body %}
+{{ super() }}
+  <div itemprop="author">Mantavya Gajjar</div>
+{% endblock %}
+
 {% block comments %}
   <div id="disqus_thread"></div>
     <script>
