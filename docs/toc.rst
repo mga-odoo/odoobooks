@@ -1,5 +1,9 @@
 .. _toc:
 
+.. meta::
+  :description: Odoo Online Book Version 12.0 Table of Content
+  :keywords: Odoo, Online, Book, V12.0, Mantavya Gajjar, Table of Content
+
 Table of Content
 ================
 This book is dedicated for entrepreneur who wants to implement all-in-one
