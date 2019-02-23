@@ -3,6 +3,10 @@
 .. index::
    single: Meat Carton (Business Case)
 
+.. meta::
+  :description: Purchase Meat in carton (20kg), keep stock in cartons/kg and sell in kg or carton
+  :keywords: Sale, Purchase, Unit of Measure, Meat Carton, Carton or KG
+
 =================================================================================
 Purchase Meat in carton (20kg), keep stock in cartons/kg and sell in kg or carton
 =================================================================================
