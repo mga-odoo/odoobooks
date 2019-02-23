@@ -11,11 +11,13 @@ Selling products in fixed units per package (Packaging)
 
 Business Case
 -------------
-Assuming that you are involved in the reseller business, and you are selling Material
-in predefined packages. The packages you received is carton (1000 units / carton) and you
-sell small packages such as Pack of 12, 24 and so on.
+Assuming that you are a reseller for the Material product, you buy in bulk
+(i.e. carton of 1000 units) and sell in the small predefined packages
+(i.e. Pack of 12, 24, 48 ...).
 
-You can restrict quantity on the sales order so that it can be sold by predefined package size.
+You can restrict quantity on the sales order (12, 24, 48), so that it can be sold
+only in predefined package size, you are also creating a packages when you deliver
+from the warehouse.
 
 Video
 -----
