@@ -39,7 +39,7 @@ extensions = [
     'sphinx_sitemap'
 ]
 
-site_url = 'https://odoobooks.com/en/latest/'
+site_url = 'https://odoobooks.com/'
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
