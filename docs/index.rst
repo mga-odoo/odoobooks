@@ -8,7 +8,7 @@
 
 .. meta::
   :description: Odoo Online Book Version 12.0
-  :keywords: Odoo, Online, Book, version 12.0
+  :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 12.0
 
 Odoo Online Book
 ================
