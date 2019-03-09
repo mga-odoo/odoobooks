@@ -12,6 +12,8 @@ Project & Task
    task_from_sales.rst
    default_project_stages.rst
    customer_feedback.rst
+   create_project_when_customer_confirm_payment.rst
+   check_profitablity_of_the_project.rst
 
 Timesheet
 ---------
