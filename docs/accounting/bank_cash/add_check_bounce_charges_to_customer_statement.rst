@@ -7,9 +7,9 @@
 .. index::
    single: Check Bounce Charges
 
-==================================================================================
-Add check bounce charges to customers outstanding, when our bank charge penalty us
-==================================================================================
+=====================================================================================
+Add check bounce charges to customers outstanding, when our bank charge penalty to us
+=====================================================================================
 
 Business Case
 -------------
