@@ -12,3 +12,4 @@
    cash_withdrawal.rst
    batch_deposit.rst
    employee_bulk_salary_posting_and_payment.rst
+   
