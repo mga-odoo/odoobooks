@@ -30,5 +30,7 @@ Subcontracting
    :maxdepth: 1
 
    subcontracting.rst
+   partial_receipt_of_material_and_bill_from_subcontractor.rst
+   procure_semi-finish_material_from subcontract_or_manufacture_or_purchase.rst
    subcontracting_dropship.rst
    subcontractor.rst
