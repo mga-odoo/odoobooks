@@ -10,8 +10,8 @@
   :description: Odoo Online Book Version 12.0
   :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 12.0
 
-Odoo Online Book
-================
+Odoo 12 Online Book
+===================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
