@@ -11,7 +11,7 @@
 Sales and Invoicing
 ===================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    introduction.rst
    setup-odoo-sales-application.rst
