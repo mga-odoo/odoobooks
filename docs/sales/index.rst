@@ -14,6 +14,7 @@ Sales and Invoicing
    :maxdepth: 2
 
    introduction.rst
+   setup-odoo-sales-application.rst
 
 Sales Quotation
 ---------------

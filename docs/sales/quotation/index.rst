@@ -6,8 +6,8 @@
 .. toctree::
    :maxdepth: 1
 
-   create_my_first_quotation
-   send_quotation_by_email.rst
+   create-first-quotation-and-apply-discount.rst
+   send-quotation-by-email-customer-sign-online.rst
    change_your_quotation_layout.rst
    set_default_terms_and_conditions.rst
    apply_default_tax.rst
