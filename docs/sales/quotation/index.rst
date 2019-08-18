@@ -11,4 +11,3 @@
    set-default-terms-and-condition-on-quotation.rst
    apply-default-taxes-when-creating-new-product.rst
    sections-on-sales-order-to-separate-the-material-and-service-on-quotation.rst
-   compute_sales_margin.rst
