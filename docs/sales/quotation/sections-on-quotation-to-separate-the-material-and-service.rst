@@ -2,8 +2,8 @@
 .. index::
    single: Sections on sales orders
 
-Sections on sales order to separate the material and service on quotation
-=========================================================================
+Sections on quotation to separate the material and service
+==========================================================
 Let’s take an example of the trading and service company who wants to
 send the quotation for Air-condition, related material, installation and annual
 maintenance contract service.
