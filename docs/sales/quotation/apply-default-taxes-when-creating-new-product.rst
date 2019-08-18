@@ -3,8 +3,8 @@
    single: Default tax on product
    single: Default tax on quotation
 
-Apply default taxes on products or sales order
-==============================================
+Apply default taxes when creating new product
+=============================================
 
 Taxes applied in your country are installed automatically for most
 localizations. Default taxes set in orders and invoices come from each
@@ -47,14 +47,13 @@ on which product.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=o9sVx6AIg5Q
+Access the video at https://www.youtube.com/watch?v=d4CdJY9RANA
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/o9sVx6AIg5Q" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/d4CdJY9RANA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
-
 
 .. |image0| image:: static/apply_default_tax/media/image6.png
 
