@@ -10,3 +10,7 @@
 .section>img {
 	border: 1px solid #CCC;
 }
+
+.youtube-video {
+	height: 392px;
+}
