@@ -38,9 +38,7 @@ Create the list of products that you are going to sale together, in our
 business case the list of products of type service are as below:
 
 -  Offshore Project Setup Fee
-
 -  Project Manager Consulting Days
-
 -  Developer Days
 
 Create your quotation template
@@ -53,28 +51,8 @@ their quantity as well as the expiration time for the quotation.
 
 |image1|
 
-.. tip:: You can also specify discount,if discount option is activated
+.. tip:: You can also specify discount, if discount option is activated
   in the Sales settings.
-
-You can edit the customer interface of the template that they see to
-accept or pay the quotation. This lets you describe your company,
-services and products. When you click on **Edit Template** you will be
-brought to the quotation template editor.
-
-|image2|
-
-The quotation template editor lets you edit the description content
-thanks to drag & drop of building blocks. To describe your products add
-a content block in the zone dedicated to each product.
-
-.. note:: The description set for the products will be used in all
-  quotations templates containing those products.
-
-Create a quotation
-------------------
-
-When creating a quotation, you have to select a template, product in
-that template will be added to your quotation.
 
 |image3|
 
@@ -98,17 +76,17 @@ on quotation.
 
 |image4|
 
-.. tip:: Please remove the attached quotation (pdf file) at the time sending
-  quotation by mail, if you want your customer should open the quotation preview.
+.. tip:: You may remove the attached quotation (pdf file) at the time sending
+  quotation by mail, if you want your customer should open quotation online.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=dbcFx0lgU4E
+Access the video at https://www.youtube.com/watch?v=tt70LD6Nhs8
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/dbcFx0lgU4E" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/tt70LD6Nhs8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/quick_create_quotation_using_quotation_template/media/image8.png

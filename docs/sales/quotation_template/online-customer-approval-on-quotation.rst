@@ -7,7 +7,7 @@ Online customer approval on quotation
 
 Sending an online quotation can speed up the negotiation process,
 customer can negotiate and approve the quotation online, this can boost
-up your sales process and minimise the sales cycle.
+up your sales process and minimize the sales cycle.
 
 Business case
 -------------
@@ -77,12 +77,12 @@ negotiation process.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=LZjN1fdVSO4
+Access the video at https://www.youtube.com/watch?v=hUtlwFkymEo
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/LZjN1fdVSO4" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/hUtlwFkymEo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/online_customer_approval_on_quotation/media/image4.png
