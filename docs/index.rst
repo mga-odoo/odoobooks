@@ -30,8 +30,8 @@ Search the topics by :ref:`genindex` or start reading the book by :ref:`toc`.
 
 .. tip:: Get access to all the cool new feature and apps coming to `Odoo Version 13.0 <https://www.youtube.com/playlist?list=PL7QQBoSEJJH4LC61pM0gPELlCL85cXyvl>`_.
 
-  All the videos are created without Demo data, so you can actually see what
-  are the things should be configured in order to test the feature.
+  All the videos are created without demo data, so you can actually see how easy
+  to configure the feature in order to test the feature.
 
 .. toctree::
    :maxdepth: 3
