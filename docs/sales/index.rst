@@ -93,4 +93,4 @@ Customer Portal
 .. toctree::
   :maxdepth: 1
 
-  customer_portal/index.rst
+  customer-portal/index.rst
