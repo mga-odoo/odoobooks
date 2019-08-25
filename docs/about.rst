@@ -1,26 +1,27 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo Online Book, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :description: Title: Odoo 13 Implementation Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
    :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
+   single: Odoo 13 Implementation Best Practices
    single: About Author
    single: About Reviewer
 
-======================
-About Odoo Online Book
-======================
+===========================================
+About Odoo 13 Implementation Best Practices
+===========================================
 
-.. image:: images/openerp-book.png
+.. image:: images/odoo-13-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
    :alt: Odoo Online Book
    :align: right
 
-Odoo online book is dedicated for functional consultants or entrepreneur
+Odoo 13 Implementation Best Practices book is dedicated for functional consultants or entrepreneur
 who wants to implement or use odoo online all-in-one business
 application out-of-the box. This is an online book written based on Odoo
 **Community** and **Enterprise** Edition. This book covers best
