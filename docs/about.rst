@@ -14,7 +14,7 @@
 About Odoo 12 Implementation Best Practices
 ===========================================
 
-.. image:: images/odoo-12-book.png
+.. image:: images/odoo-12-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
