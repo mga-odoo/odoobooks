@@ -7,12 +7,12 @@
    single: Home
 
 
-Odoo 10.0 Online Book
-=====================
+Odoo 10 Implementation Best Practices
+=====================================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
-**Odoo 10.0 Online Book** is an online book written based on Community and Enterprise
+**Odoo 10 Implementation Best Practices Book** is an online book written based on Community and Enterprise
 Edition. This book covers best implementation practice for most used
 applications such as Sales, Purchase, Inventory, Financial Accounting and
 Manufacturing.
