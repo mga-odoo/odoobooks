@@ -3,21 +3,22 @@
 
 .. index::
    single: About Online Book
+   single: Odoo 11 Implementation Best Practices
    single: About Author
    single: About Reviewer
 
-===========================
-About Odoo 11.0 Online Book
-===========================
+===========================================
+About Odoo 11 Implementation Best Practices
+===========================================
 
-.. image:: images/openerp-book.png
+.. image:: images/odoo-11-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo Online Book
+   :alt: Odoo 11 Implementation Best Practices
    :align: right
 
-Odoo 11.0 online book is dedicated for functional consultants or entrepreneur
+Odoo 11 Implementation Best Practices book is dedicated for functional consultants or entrepreneur
 who wants to implement or use odoo online all-in-one business
 application out-of-the box. This is an online book written based on Odoo
 **Community** and **Enterprise** Edition. This book covers best
@@ -80,7 +81,7 @@ web client for TinyERP and mobile application project for Odoo.
 
 He was the first international employee appointed to establish a branch
 of TinyERP in India (Ahmadabad, Gujarat). He has done everything from
-registering a legal company to setting up the physical office and
+registering a legal company to set up the physical office and
 recruitment at India. He has interviewed more than eight thousand
 candidates in the last 12 years, and he has selected and trained more
 than three hundred employees for the Indian branch. Most professionals

@@ -7,19 +7,18 @@
    single: Home
 
 
-Odoo 11.0 Online Book
-===================
+Odoo 11 Implementation Best Practices
+=====================================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
-**Odoo 11.0 Online Book** is an online book written based on Community and Enterprise
+**Odoo 11 Implementation Best Practices Book** is an online book written based on Community and Enterprise
 Edition. This book covers best implementation practice for most used
 applications such as Sales, Purchase, Inventory, Financial Accounting and
 Manufacturing.
 
 .. note:: Please comment on the page below, if you have any question related to
-  that topic. You can also send an email to mail@mantavyagajjar.in to propose new
-  topics you would like to have on the book.
+  that topic, you can also propose new topics you would like to have on the book.
 
   You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
   channel to receive an instance update about the new videos and pages on this book.
