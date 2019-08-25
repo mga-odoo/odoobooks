@@ -1,29 +1,30 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo Online Book, Author: Mantavya Gajjar, Category: Books, Price: Free
-   :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
+   :description: Title: Odoo 12 Implementation Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :keywords: Odoo 12 Implementation Best Practices, Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
+   single: Odoo 12 Implementation Best Practices
    single: About Author
    single: About Reviewer
 
-======================
-About Odoo Online Book
-======================
+===========================================
+About Odoo 12 Implementation Best Practices
+===========================================
 
-.. image:: images/openerp-book.png
+.. image:: images/odoo-12-book.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo Online Book
+   :alt: Odoo 12 Implementation Best Practices
    :align: right
 
-Odoo online book is dedicated for functional consultants or entrepreneur
-who wants to implement or use odoo online all-in-one business
-application out-of-the box. This is an online book written based on Odoo
-**Community** and **Enterprise** Edition. This book covers best
+Odoo 12 Implementation Best Practices book is dedicated for functional
+consultants or entrepreneur who wants to implement or use odoo online
+all-in-one business application out-of-the box. This is an online book written
+based on Odoo **Community** and **Enterprise** Edition. This book covers best
 implementation approach for most used applications such as Sales,
 Purchase, Inventory, Financial Accounting and Manufacturing.
 
@@ -86,7 +87,7 @@ of TinyERP in India (Ahmadabad, Gujarat). He has done everything from
 registering a legal company to setting up the physical office and
 recruitment at India. He has interviewed more than eight thousand
 candidates in the last 12 years, and he has selected and trained more
-than three hundred employees for the Indian branch. Most professionals
+then four hundred employees for the Indian branch. Most professionals
 working on Odoo in India are trained by him. As a result, today India
 (Ahmadabad, Gujarat) is called the Hub of Odoo Developers, and over a
 thousand Odoo developers are available only in Gujarat.
