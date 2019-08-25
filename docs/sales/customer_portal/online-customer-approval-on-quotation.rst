@@ -85,6 +85,6 @@ Access the video at https://www.youtube.com/watch?v=hUtlwFkymEo
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/hUtlwFkymEo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
-.. |image0| image:: static/online_customer_approval_on_quotation/media/image4.png
+.. |image0| image:: static/online-customer-approval-on-quotation/media/image4.png
 
-.. |image1| image:: static/online_customer_approval_on_quotation/media/image2.png
+.. |image1| image:: static/online-customer-approval-on-quotation/media/image2.png

@@ -5,6 +5,5 @@
 .. toctree::
   :maxdepth: 1
 
-  online_approval.rst
-  online_payment.rst
-  confirm_and_pay_online.rst
+  online-customer-approval-on-quotation.rst
+  online-customer-approval-and-payment-on-quotation.rst

@@ -128,12 +128,12 @@ Access the video at https://www.youtube.com/watch?v=x08JPYRX0x4
     <iframe width="100%" height="380" src="https://www.youtube.com/embed/x08JPYRX0x4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
-.. |image0| image:: static/online_customer_approval_and_payment_on_quotation/media/image9.png
+.. |image0| image:: static/online-customer-approval-and-payment-on-quotation/media/image9.png
 
-.. |image1| image:: static/online_customer_approval_and_payment_on_quotation/media/image10.png
+.. |image1| image:: static/online-customer-approval-and-payment-on-quotation/media/image10.png
 
-.. |image2| image:: static/online_customer_approval_and_payment_on_quotation/media/image5.png
+.. |image2| image:: static/online-customer-approval-and-payment-on-quotation/media/image5.png
 
-.. |image3| image:: static/online_customer_approval_and_payment_on_quotation/media/image7.png
+.. |image3| image:: static/online-customer-approval-and-payment-on-quotation/media/image7.png
 
-.. |image4| image:: static/online_customer_approval_and_payment_on_quotation/media/image6.png
+.. |image4| image:: static/online-customer-approval-and-payment-on-quotation/media/image6.png
