@@ -113,12 +113,12 @@ on the turnover.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=VKVrz2o3j1M
+Access the video at https://www.youtube.com/watch?v=fwOJRdLJGGM
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/VKVrz2o3j1M" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/fwOJRdLJGGM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/price_based_on_currency/media/image7.png

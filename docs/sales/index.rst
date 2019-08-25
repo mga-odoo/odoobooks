@@ -28,14 +28,14 @@ Quotation Template
 .. toctree::
    :maxdepth: 1
 
-   quotation_template/index.rst
+   quotation-template/index.rst
 
 Discounts and Pricelist
 -----------------------
 .. toctree::
    :maxdepth: 1
 
-   pricelist_discount/index.rst
+   pricelist-discount/index.rst
 
 Unit of Measure
 ---------------
