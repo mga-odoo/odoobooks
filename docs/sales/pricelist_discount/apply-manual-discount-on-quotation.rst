@@ -2,8 +2,8 @@
 .. index::
    single: Discount on quotation
 
-Apply discount on quotation
-===========================
+Apply manual discount on quotation
+==================================
 
 Allowing discounts on quotations is a common sales practice to improve
 the chances to convert the prospect into a customer, adding discounts on
@@ -66,12 +66,12 @@ don’t want to offer discount to your customer.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=YrX7iwpbDyg
+Access the video at https://www.youtube.com/watch?v=PKusW_QuwUU
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/YrX7iwpbDyg" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" height="380" src="https://www.youtube.com/embed/PKusW_QuwUU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
 .. |image0| image:: static/apply_manual_discount/media/image4.png

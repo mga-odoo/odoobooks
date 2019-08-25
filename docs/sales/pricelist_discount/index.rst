@@ -5,7 +5,7 @@
 .. toctree::
    :maxdepth: 1
 
-   apply_manual_discount.rst
+   apply-manual-discount-on-quotation.rst
    adapt_price_based_on_customer_segment.rst
    adapt_price_based_on_customer_location.rst
    compute_and_apply_discount_from_pricelist.rst
