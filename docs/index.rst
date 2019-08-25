@@ -29,7 +29,9 @@ Manufacturing.
 
 Search the topics by :ref:`genindex` or start reading the book by :ref:`toc`.
 
-
+.. note:: Get `videos <https://www.youtube.com/playlist?list=PL7QQBoSEJJH4LC61pM0gPELlCL85cXyvl>`_ for all the cool new feature and apps coming to Odoo V13.0.
+  All the videos are created without Demo data, so you can actually see what
+  are the things should be configured in order to test the feature.
 
 .. toctree::
    :maxdepth: 3
