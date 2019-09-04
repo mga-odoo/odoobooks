@@ -182,5 +182,5 @@ man_pages = [
 
 texinfo_documents = [
     (pdf_master_doc, 'odooonlinebook', project, author, 'odooonlinebook',
-        'Odoo 11.0 Online Book', 'Miscellaneous'),
+        'Odoo 12 Best Practices Book', 'Miscellaneous'),
 ]

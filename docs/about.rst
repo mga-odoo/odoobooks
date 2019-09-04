@@ -1,27 +1,27 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo 12 Implementation Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :description: Title: Odoo 12 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
    :keywords: Odoo 12 Implementation Best Practices, Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
-   single: Odoo 12 Implementation Best Practices
+   single: Odoo 12 Best Practices
    single: About Author
    single: About Reviewer
 
 ===========================================
-About Odoo 12 Implementation Best Practices
+About Odoo 12 Best Practices
 ===========================================
 
 .. image:: images/odoo-12-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo 12 Implementation Best Practices
+   :alt: Odoo 12 Best Practices
    :align: right
 
-Odoo 12 Implementation Best Practices book is dedicated for functional
+Odoo 12 Best Practices book is dedicated for functional
 consultants or entrepreneur who wants to implement or use odoo online
 all-in-one business application out-of-the box. This is an online book written
 based on Odoo **Community** and **Enterprise** Edition. This book covers best
