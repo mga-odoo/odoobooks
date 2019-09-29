@@ -6,6 +6,7 @@
    :maxdepth: 1
 
    sell-in-different-unit-of-measure.rst
+   selling-products-in-fixed-units-per-packages.rst
    .. product_unit_of_measure.rst
    .. pricelist_for_uom.rst
    .. product_packaging.rst
