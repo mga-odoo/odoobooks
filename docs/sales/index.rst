@@ -42,7 +42,7 @@ Unit of Measure
 .. toctree::
    :maxdepth: 1
 
-   unit_of_measure/index.rst
+   unit-of-measure/index.rst
 
 Product and Tax
 ---------------
