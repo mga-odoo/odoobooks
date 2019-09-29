@@ -109,7 +109,7 @@ pygments_style = 'sphinx'
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 
-#html_logo = './images/odoo_logo.svg'
+html_logo = './images/odoo-12-book-title-small.png'
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
@@ -182,5 +182,5 @@ man_pages = [
 
 texinfo_documents = [
     (pdf_master_doc, 'odooonlinebook', project, author, 'odooonlinebook',
-        'Odoo 11.0 Online Book', 'Miscellaneous'),
+        'Odoo 12 Best Practices Book', 'Miscellaneous'),
 ]
