@@ -5,8 +5,8 @@
 .. toctree::
    :maxdepth: 1
 
-   sell-in-different-unit-of-measure.rst
-   selling-products-in-fixed-units-per-packages.rst
+   sell-product-in-multiple-unit-of-measure.rst
+   sell-products-by-multiple-of-unit-per-package.rst
    .. product_unit_of_measure.rst
    .. pricelist_for_uom.rst
    .. product_packaging.rst
