@@ -7,7 +7,7 @@
 
    apply-manual-discount-on-quotation.rst
    adapt-price-based-on-customer-segment-retailer-or-distributor.rst
-   adapt_price_based_on_customer_location.rst
+   adapt-price-based-on-customer-country-europe-oramerica.rst
    compute_and_apply_discount_from_pricelist.rst
    ../../inventory/inventory_costing/average_costing.rst
    product_price_per_company.rst
