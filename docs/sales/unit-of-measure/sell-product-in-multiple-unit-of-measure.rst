@@ -1,15 +1,15 @@
 .. _productuom:
 
 .. index::
-   single: Sell in a different unit of measure
+   single: Unit of Measure
 
 .. meta::
-  :description: Sell in a different unit of measure
+  :description: Sell product in a multiple unit of measure
   :keywords: Sale, Unit of Measure
 
-===================================
-Sell in a different unit of measure
-===================================
+==========================================
+Sell product in a multiple unit of measure
+==========================================
 
 Business Case
 -------------
