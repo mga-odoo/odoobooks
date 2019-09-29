@@ -113,13 +113,14 @@ which is 30% of the 3200 price*.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=W1rD3cnD9lw
+Access the video at https://www.youtube.com/watch?v=PDdUTQmhokg
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/W1rD3cnD9lw" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/PDdUTQmhokg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
+
 
 .. |image0| image:: static/compute_and_apply_discount_from_pricelist/media/image6.png
 
