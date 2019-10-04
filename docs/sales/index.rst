@@ -49,7 +49,7 @@ Product and Tax
 .. toctree::
    :maxdepth: 1
 
-   product_tax/index.rst
+   sale-tax/index.rst
 
 
 Invoicing

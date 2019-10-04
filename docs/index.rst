@@ -15,7 +15,8 @@ Odoo 12 Best Practices
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
-**Odoo 12 Best Practices Book** is an online book written based on Odoo Enterprise
+**Odoo 12 Best Practices** is an online book written based on Community and Enterprise
+
 Edition. This book covers best implementation practice for most used
 applications such as Sales, Purchase, Inventory, Financial Accounting and
 Manufacturing.
