@@ -6,7 +6,7 @@
 
 .. index::
    single: About Online Book
-   single: Odoo 13 Implementation Best Practices
+   single: Odoo 12 Implementation Best Practices
    single: About Author
    single: About Reviewer
 
@@ -14,7 +14,7 @@
 About Odoo 12 Best Practices
 ============================
 
-.. image:: images/odoo-13-book-small.png
+.. image:: images/odoo-12-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
