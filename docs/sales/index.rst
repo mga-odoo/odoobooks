@@ -11,9 +11,10 @@
 Sales and Invoicing
 ===================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    introduction.rst
+   setup-odoo-sales-application.rst
 
 Sales Quotation
 ---------------
@@ -27,28 +28,28 @@ Quotation Template
 .. toctree::
    :maxdepth: 1
 
-   quotation_template/index.rst
+   quotation-template/index.rst
 
 Discounts and Pricelist
 -----------------------
 .. toctree::
    :maxdepth: 1
 
-   pricelist_discount/index.rst
+   pricelist-discount/index.rst
 
 Unit of Measure
 ---------------
 .. toctree::
    :maxdepth: 1
 
-   unit_of_measure/index.rst
+   unit-of-measure/index.rst
 
 Product and Tax
 ---------------
 .. toctree::
    :maxdepth: 1
 
-   product_tax/index.rst
+   sale-tax/index.rst
 
 
 Invoicing
@@ -92,4 +93,4 @@ Customer Portal
 .. toctree::
   :maxdepth: 1
 
-  customer_portal/index.rst
+  customer-portal/index.rst

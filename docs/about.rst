@@ -18,7 +18,7 @@ About Odoo 13 Implementation Best Practices
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo Online Book
+   :alt: Odoo 12 Best Practices
    :align: right
 
 Odoo 13 Implementation Best Practices book is dedicated for functional consultants or entrepreneur
@@ -87,7 +87,7 @@ of TinyERP in India (Ahmadabad, Gujarat). He has done everything from
 registering a legal company to setting up the physical office and
 recruitment at India. He has interviewed more than eight thousand
 candidates in the last 12 years, and he has selected and trained more
-than three hundred employees for the Indian branch. Most professionals
+then four hundred employees for the Indian branch. Most professionals
 working on Odoo in India are trained by him. As a result, today India
 (Ahmadabad, Gujarat) is called the Hub of Odoo Developers, and over a
 thousand Odoo developers are available only in Gujarat.
