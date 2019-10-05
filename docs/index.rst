@@ -7,12 +7,12 @@
    single: Home
 
 
-Odoo 11 Implementation Best Practices
-=====================================
+Odoo 11 Best Practices
+======================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
-**Odoo 11 Implementation Best Practices Book** is an online book written based on Community and Enterprise
+**Odoo 11 Best Practices Book** is an online book written based on Community and Enterprise
 Edition. This book covers best implementation practice for most used
 applications such as Sales, Purchase, Inventory, Financial Accounting and
 Manufacturing.

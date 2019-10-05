@@ -2,23 +2,23 @@
 
 
 .. index::
-   single: About Online Book
-   single: Odoo 11 Implementation Best Practices
+   single: About Book
+   single: Odoo 11 Best Practices
    single: About Author
    single: About Reviewer
 
-===========================================
-About Odoo 11 Implementation Best Practices
-===========================================
+============================
+About Odoo 11 Best Practices
+============================
 
 .. image:: images/odoo-11-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo 11 Implementation Best Practices
+   :alt: Odoo 11 Best Practices
    :align: right
 
-Odoo 11 Implementation Best Practices book is dedicated for functional consultants or entrepreneur
+Odoo 11 Best Practices book is dedicated for functional consultants or entrepreneur
 who wants to implement or use odoo online all-in-one business
 application out-of-the box. This is an online book written based on Odoo
 **Community** and **Enterprise** Edition. This book covers best
