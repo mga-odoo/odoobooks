@@ -4,9 +4,21 @@
    single: Tax Included in Price
    single: Business to Customer Prices (Tax included)
 
-====================================================
-Adapt prices for Business to Customer (tax included)
-====================================================
+.. meta::
+  :description: Adapt prices for Business to Customer (tax included in product price)
+  :keywords: Odoo, Business to Consumer, B2C, Tax Included in Price, Sale Price
+
+=====================================================================
+Adapt prices for Business to Customer (tax included in product price)
+=====================================================================
+
+Business Case
+-------------
+Assume that you are retailer who buy the products from distributor
+and selling them to consumer, your customer always wanted to know product price
+included in tax.
+
+Let's setup the product's sale price included tax.
 
 Video
 -----

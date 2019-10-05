@@ -3,9 +3,9 @@
 .. index::
    single: Invoice based on delivered quantity (no inventory app)
 
-=================================================================================
-Create Invoice based on the delivered quantity - Inventory is not managed in Odoo
-=================================================================================
+==============================================
+Create Invoice based on the delivered quantity
+==============================================
 
 Video
 -----
