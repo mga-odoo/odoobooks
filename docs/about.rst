@@ -1,24 +1,23 @@
 .. _about:
 
-
 .. index::
    single: About Online Book
-   single: Odoo 10 Implementation Best Practices
+   single: Odoo 10 Best Practices
    single: About Author
    single: About Reviewer
 
-===========================================
-About Odoo 10 Implementation Best Practices
-===========================================
+============================
+About Odoo 10 Best Practices
+============================
 
 .. image:: images/openerp-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo 10 Implementation Best Practices
+   :alt: Odoo 10 Best Practices
    :align: right
 
-Odoo 10 Implementation Best Practices book is dedicated for functional consultants or entrepreneur
+Odoo 10 Best Practices book is dedicated for functional consultants or entrepreneur
 who wants to implement or use odoo online all-in-one business
 application out-of-the box. This is an online book written based on Odoo
 **Community** and **Enterprise** Edition. This book covers best
@@ -124,7 +123,6 @@ The Odoo online book covers the implementation best practices and
 approach to configure the business applications out-of-the-box. With
 this approach you can configure your Odoo online instance or Odoo.sh or
 locally installed Odoo on your server.
-
 
 Page structure
 ==============
