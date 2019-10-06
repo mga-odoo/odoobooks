@@ -1,8 +1,8 @@
 .. _toc:
 
 .. meta::
-  :description: Odoo Online Book Version 12.0 Table of Content
-  :keywords: Odoo, Online, Book, V12.0, Mantavya Gajjar, Table of Content
+   :description: Title: Odoo 12 Best Practices - Odoo 12.0 Online Documentation, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :keywords: Odoo online documentation, Odoo documentation, Odoo 12.0 documentation, Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
 
 Table of Content
 ================
