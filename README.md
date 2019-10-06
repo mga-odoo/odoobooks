@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/odoobooks/badge/?version=latest)](http://odoobooks.com/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/odoobooks/badge/?version=12.0)](http://odoobooks.com/en/12.0/?badge=12.0)
 
 Read book at https://odoobooks.com
 
