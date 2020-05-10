@@ -5,8 +5,8 @@
 .. toctree::
   :maxdepth: 1
 
-  pro-forma.rst
-  invoice_on_order_qty.rst
-  invoice_on_deliver_qty.rst
-  credit_note_from_order.rst
-  single_order_for_multiple_orders.rst
+  send-pro-forma-invoice-to-your-customers.rst
+  .. invoice_on_order_qty.rst
+  create-invoice-based-on-the-delivered-quantity.rst
+  create-credit-note-from-sale-order.rst
+  create-single-invoice-from-multiple-sales-orders.rst

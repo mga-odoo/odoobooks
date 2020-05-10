@@ -5,7 +5,7 @@
    single: Free delivery
 
 ===============================================
-Free delivery if order total is more then $2000
+Free delivery if order total is more than $2000
 ===============================================
 Odoo can handle various delivery methods, but it is not activated by default.
 Delivery methods can be used for normal sale of you can also use for your e-commerce order.
@@ -57,10 +57,10 @@ it will add a line with the name of the delivery method as a product.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=JPpUPbTeJD0
+Access the video at https://www.youtube.com/watch?v=JDmpvFqVmzw
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/JPpUPbTeJD0" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/JDmpvFqVmzw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>

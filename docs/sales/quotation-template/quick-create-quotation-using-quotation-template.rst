@@ -1,6 +1,12 @@
 
 .. index::
    single: Quotation Templates
+   single: Bundle Offer
+   single: Packaged Offer
+
+.. meta::
+  :description: Create quick quotation using quotation template
+  :keywords: Quotation Template, Quotation, Quick Quotation, Product Package, Bundle Offer, Packaged Offer
 
 Create quick quotation using quotation template
 ===============================================
