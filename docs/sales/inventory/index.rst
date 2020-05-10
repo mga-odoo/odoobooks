@@ -5,7 +5,7 @@
 .. toctree::
    :maxdepth: 1
 
-   make_to_order.rst
+   create-a-purchase-order-for-products-based-on-sales-order.rst
    sell_product_stored_at_other_then_stock_locaion.rst
-   consignment_stock_transfer.rst
-   receive_buy_back_item_and_apply_buy_back_discount.rst
+   consignment-stock-transfer-raise-an-invoice-when-stock-sold-by-the-retailer.rst
+   manage-sell-and-buy-back-of-used-product.rst

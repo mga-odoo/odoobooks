@@ -7,7 +7,7 @@
    single: Home
 
 .. meta::
-  :description: Odoo 12 Best Practices
+  :description: Odoo 13 Best Practices
   :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 12.0
 
 Odoo 13 Best Practices
@@ -17,7 +17,7 @@ business application out-of-the box for their business.
 
 **Odoo 13 Best Practices Book** is an online book written based on
 Community and Enterprise Edition. This book covers best implementation practice
-for most used applications such as Sales, Purchase, Inventory,
+for most used applications such as Sales, Purchase, Inventory, 
 Financial Accounting and Manufacturing.
 
 .. note:: Please comment on the page below, if you have any question related to
@@ -27,11 +27,6 @@ Financial Accounting and Manufacturing.
   channel to receive an instance update about the new videos and pages on this book.
 
 Search the topics by :ref:`genindex` or start reading the book by :ref:`toc`.
-
-.. tip:: Get access to all the cool new feature and apps coming to `Odoo Version 13.0 <https://www.youtube.com/playlist?list=PL7QQBoSEJJH4LC61pM0gPELlCL85cXyvl>`_.
-
-  All the videos are created without demo data, so you can actually see how easy
-  to configure the feature in order to test the feature.
 
 .. toctree::
    :maxdepth: 3

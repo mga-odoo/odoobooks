@@ -59,6 +59,12 @@ Invoicing
 
   invoicing/index.rst
 
+Customer Portal
+---------------
+  .. toctree::
+    :maxdepth: 1
+
+    customer-portal/index.rst
 
 Delivery Charges
 ----------------
@@ -87,10 +93,3 @@ Subscription
   :maxdepth: 1
 
   subscription/index.rst
-
-Customer Portal
----------------
-.. toctree::
-  :maxdepth: 1
-
-  customer-portal/index.rst

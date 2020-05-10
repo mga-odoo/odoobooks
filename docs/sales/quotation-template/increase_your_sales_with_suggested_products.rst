@@ -2,6 +2,10 @@
 .. index::
    single: Suggested product on quotation
 
+.. meta::
+  :description: Increase your sales with suggested products
+  :keywords: Suggested Product, Quotation Template, Quotation, Cross Sale, Additional Products
+
 Increase your sales with suggested products
 ===========================================
 
