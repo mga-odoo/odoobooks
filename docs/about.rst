@@ -23,7 +23,6 @@ About Odoo 13 Best Practices
 
 Odoo 13 Best Practices book is dedicated for functional consultants
 or entrepreneur who wants to implement or use odoo online all-in-one business
-
 application out-of-the box. This is an online book written based on Odoo
 **Community** and **Enterprise** Edition.
 
