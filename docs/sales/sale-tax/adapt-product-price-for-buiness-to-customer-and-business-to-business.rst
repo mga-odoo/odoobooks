@@ -1,8 +1,8 @@
 .. _priceincludingtaxandexcludingtax:
 
 .. index::
-   single: Tax Included in Price
-   single: Tax Excluded from Price
+   single: Tax included in price
+   single: Tax excluded from price
 
 .. meta::
   :description: Adapt product prices for Business to business (tax excluded) and Business to Customer (tax included)

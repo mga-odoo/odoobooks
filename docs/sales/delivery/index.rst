@@ -5,8 +5,7 @@
 .. toctree::
    :maxdepth: 1
 
-   free_delivery.rst
-   free_delivery_if_the_order_total_is_more_than_usd_2000.rst
-   delivery_based_on_weight.rst
-   restrict_delivery_area.rst
-   add_margin_to_delivery_price.rst
+   free-delivery-if-the-order-total-is-more-than-usd-2000.rst
+   calculate-shipping-rates-based-on-product-weight.rst
+   delivery-price-based-on-the-area-zip-code-state-or-country.rst
+   manage-delivery-price-fluctuation-apply-margin-on-the-delivery-charges.rst
