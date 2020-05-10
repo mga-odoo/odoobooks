@@ -7,10 +7,10 @@
    single: Home
 
 .. meta::
-  :description: Odoo 13 Best Practices
+  :description: Odoo 12 Best Practices
   :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 12.0
 
-Odoo 13 Best Practices
+Odoo 12 Best Practices
 ======================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
