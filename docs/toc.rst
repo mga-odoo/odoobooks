@@ -1,15 +1,15 @@
 .. _toc:
 
 .. meta::
-   :description: Title: Odoo 12 Best Practices - Odoo 12.0 Online Documentation, Author: Mantavya Gajjar, Category: Books, Price: Free
-   :keywords: Odoo online documentation, Odoo documentation, Odoo 12.0 documentation, Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
+   :description: Title: Odoo 13 Best Practices - Odoo 13.0 Online Documentation, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :keywords: Odoo online documentation, Odoo documentation, Odoo 13.0 documentation, Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 13.0, Mantavya, Gajjar
 
 Table of Content
 ================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
-**Odoo 12 Best Practices Book** is an online book written based on
+**Odoo 13 Best Practices Book** is an online book written based on
 Community and Enterprise Edition. This book covers best implementation practice
 for most used applications such as Sales, Purchase, Inventory,
 Financial Accounting and Manufacturing.

@@ -1,27 +1,27 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo 12 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
-   :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
+   :description: Title: Odoo 13 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 13.0, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
-   single: Odoo 12 Best Practices
+   single: Odoo 13 Best Practices
    single: About Author
    single: About Reviewer
 
 ============================
-About Odoo 12 Best Practices
+About Odoo 13 Best Practices
 ============================
 
-.. image:: images/odoo-12-book-small.png
+.. image:: images/odoo-13-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo 12 Best Practices
+   :alt: Odoo 13 Best Practices
    :align: right
 
-Odoo 12 Best Practices book is dedicated for functional consultants
+Odoo 13 Best Practices book is dedicated for functional consultants
 or entrepreneur who wants to implement or use odoo online all-in-one business
 
 application out-of-the box. This is an online book written based on Odoo
@@ -37,7 +37,7 @@ After writing `Odoo 10 Implementation
 Cookbook <https://www.packtpub.com/application-development/odoo-10-implementation-cookbook>`__,
 I realized that it is too difficult to have the latest and up-to-date
 printed book of each version for the fast evolving business application.
-Odoo release its stable version every 12 to 15 months. The aim of this
+Odoo release its stable version every 13 to 15 months. The aim of this
 book is to guide you through step-by-step configuration for business
 problems.
 
@@ -77,7 +77,7 @@ to get the updates about the book.
 About the Author
 ================
 
-Mantavya Gajjar has 12+ years’ experience in Odoo, starting from TinyERP
+Mantavya Gajjar has 13+ years’ experience in Odoo, starting from TinyERP
 and OpenERP. He started his career as a developer, he developed many new
 features in TinyERP, OpenERP and Odoo. He has graduate and postgraduate
 degrees in Computer Applications from Gujarat Vidyapith. In June 2006,
@@ -88,7 +88,7 @@ He was the first international employee appointed to establish a branch
 of TinyERP in India (Ahmadabad, Gujarat). He has done everything from
 registering a legal company to setting up the physical office and
 recruitment at India. He has interviewed more than eight thousand
-candidates in the last 12 years, and he has selected and trained more
+candidates in the last 13 years, and he has selected and trained more
 then four hundred employees for the Indian branch. Most professionals
 working on Odoo in India are trained by him. As a result, today India
 (Ahmadabad, Gujarat) is called the Hub of Odoo Developers, and over a
