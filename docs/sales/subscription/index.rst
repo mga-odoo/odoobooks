@@ -5,7 +5,9 @@
 .. toctree::
   :maxdepth: 1
 
-  setup_recurring_invoice.rst
-  sell_subscription_throught_sales_quotation.rst
-  sell_subscription_through_ecommerce_platform.rst
-  upsell_in_subscription.rst
+  setup-recurring-invoice-odoo-subscription.rst
+  sell-subscriptions-through-sales-quotation.rst
+  sell-subscription-through-sales-quotation-and-receive-online-payment.rst
+  sell-subscription-through-sales-quotation-online-payment-and-automatic-invoice.rst
+  sell-subscription-plan-through-an-ecommerce-platform.rst
+  increase-quantity-in-subscription-during-the-middle-of-the-month.rst
