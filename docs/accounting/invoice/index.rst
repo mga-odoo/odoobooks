@@ -5,7 +5,7 @@
 .. toctree::
    :maxdepth: 1
 
-   first_invoice.rst
+   create-first-customer-invoice-and-register-payment.rst
    set_invoice_due_date.rst
    match_payment.rst
    cash_discount.rst
