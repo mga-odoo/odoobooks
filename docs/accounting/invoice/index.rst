@@ -7,6 +7,5 @@
 
    create-first-customer-invoice-and-register-payment.rst
    set-a-due-date-on-the-invoice.rst
-   match_payment.rst
-   cash_discount.rst
-   invoice_numbers_by_financial_year.rst
+   set-the-first-invoice-number.rst
+   reset-invoice-sequence-on-financial-year-change.rst

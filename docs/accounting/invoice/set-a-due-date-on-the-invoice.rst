@@ -1,6 +1,6 @@
 
 .. index::
-   single: Due date on customer invoice
+   single: Due Date
 
 .. meta::
   :description: Set a due date on the customer invoice
@@ -8,13 +8,12 @@
 
 Set a due date on the invoice
 =============================
+Let's set the due date manually on the customer invoice.
 
 Business case
 -------------
 Set the due date by that customer have to pay the invoice.
 Due date can be set through payment term or due date.
-
-Let's set a due date manually on the invoice.
 
 Video
 -----

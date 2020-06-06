@@ -3,6 +3,7 @@
 .. index::
    single: Customer Invoice
    single: Register Payment
+   single: Payment
 
 .. meta::
   :description: Create your first invoice, send to customer, receive and register payment
@@ -11,12 +12,12 @@
 ==================================================
 Create first customer invoice and register payment
 ==================================================
+Let's create the first customer invoice, and register the payment on the customer invoice.
 
 Business case
 -------------
 The company just started the operation and wanted to generate some customer
 invoices, here is a perfect example of the same.
-
 
 Video
 -----
