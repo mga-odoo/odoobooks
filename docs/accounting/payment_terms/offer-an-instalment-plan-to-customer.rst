@@ -1,11 +1,11 @@
 .. _installmentplans:
 
 .. index::
-   single: Installments Plan
+   single: Instalment Plan
 
-===================================================================
-Define an installment plan on customer invoices (Use Payment terms)
-===================================================================
+====================================
+Offer an instalment plan to customer
+====================================
 
 Video
 -----

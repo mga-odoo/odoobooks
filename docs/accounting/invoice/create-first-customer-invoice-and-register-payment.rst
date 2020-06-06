@@ -3,7 +3,6 @@
 .. index::
    single: Customer Invoice
    single: Register Payment
-   single: Payment
 
 .. meta::
   :description: Create your first invoice, send to customer, receive and register payment
