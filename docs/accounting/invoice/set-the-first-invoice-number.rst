@@ -1,15 +1,15 @@
 
 .. index::
-   single: Invoice Numbering
+   single: Invoice Sequence
 
-============================
-Set the first invoice number
-============================
-Let's set the invoice sequence manually.
+===============================================
+Set the first invoice number - Invoice Sequence
+===============================================
+Let's change the starting number of invoice sequence.
 
 Business case
 -------------
-Your company wants to set the specific invoice sequence from the first invoice.
+Your company wants to set the specific invoice sequence from the specific number.
 
 Video
 -----

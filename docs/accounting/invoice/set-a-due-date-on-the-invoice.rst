@@ -6,6 +6,7 @@
   :description: Set a due date on the customer invoice
   :keywords: customer, invoice, payment, due date, invoice date, payment term
 
+=============================
 Set a due date on the invoice
 =============================
 Let's set the due date manually on the customer invoice.
