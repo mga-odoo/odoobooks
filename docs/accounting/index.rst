@@ -18,6 +18,13 @@ Customer Invoice
 
    invoice/index.rst
 
+Payment
+-------
+.. toctree::
+  :maxdepth: 1
+
+  payment/index.rst
+
 Payment Terms
 -------------
 .. toctree::
@@ -25,13 +32,12 @@ Payment Terms
 
    payment_terms/index.rst
 
-Payment
--------
+Payment Followups
+-----------------
 .. toctree::
    :maxdepth: 1
 
-   payment/index.rst
-
+   payment-followup/index.rst
 
 Setup Accounting
 ----------------
