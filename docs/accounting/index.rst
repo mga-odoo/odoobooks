@@ -25,12 +25,13 @@ Payment Terms
 
    payment_terms/index.rst
 
-Payment and Followups
----------------------
+Payment
+-------
 .. toctree::
    :maxdepth: 1
 
-   payment_followup/index.rst
+   payment/index.rst
+
 
 Setup Accounting
 ----------------
