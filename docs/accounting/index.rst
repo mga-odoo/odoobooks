@@ -30,7 +30,7 @@ Payment Terms
 .. toctree::
    :maxdepth: 1
 
-   payment_terms/index.rst
+   payment-term/index.rst
 
 Payment Followups
 -----------------
