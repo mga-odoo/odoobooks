@@ -6,13 +6,19 @@
 ======================================================================================
 Warning message on credit limit reached and block further invoice when it cross limits
 ======================================================================================
+Let's setup the credit control for the customer.
+
+Business case
+-------------
+Set the credit limit for the customer, warning message when customer near to the
+credit limit and block when limit cross and force to pay the due invoices.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=CGMiClvEuuc
+Access the video at https://www.youtube.com/watch?v=38YWjq2bRfc
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/CGMiClvEuuc" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
-    </div>
+   <div style="text-align: center; margin-bottom: 2em;">
+   <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/38YWjq2bRfc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </div>

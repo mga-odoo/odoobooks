@@ -6,13 +6,19 @@
 ==============================================================
 Offer payment term to your customer - 30% Now, Balance 60 Days
 ==============================================================
+Let's offer flexibility to your customer to pay the invoice.
+
+Business case
+-------------
+Offer flexibility to pay the invoice, 30% at the time of invoice and
+Balance within 60 Days from the date of invoice.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=lagIgJBW-r4
+Access the video at https://www.youtube.com/watch?v=WuxhABLGR4M
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/lagIgJBW-r4" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
-    </div>
+   <div style="text-align: center; margin-bottom: 2em;">
+   <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/WuxhABLGR4M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+   </div>
