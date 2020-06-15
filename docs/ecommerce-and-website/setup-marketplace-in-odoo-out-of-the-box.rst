@@ -211,32 +211,21 @@ Access the video at https://www.youtube.com/watch?v=D4EBmOjIS70
     </div>
 
 .. |image0| image:: ./marketplace/image7.png
-   :width: 4.27875in
-   :height: 5.29102in
+
 .. |image1| image:: ./marketplace/image3.png
-   :width: 6.50515in
-   :height: 3.38889in
+
 .. |image2| image:: ./marketplace/image5.png
-   :width: 6.50515in
-   :height: 3.38889in
+
 .. |image3| image:: ./marketplace/image6.png
-   :width: 6.5in
-   :height: 2.90278in
+
 .. |image4| image:: ./marketplace/image9.png
-   :width: 6.5in
-   :height: 3.08333in
+
 .. |image5| image:: ./marketplace/image10.png
-   :width: 6.5in
-   :height: 2.06875in
+
 .. |image6| image:: ./marketplace/image2.png
-   :width: 6.50515in
-   :height: 2.72222in
+
 .. |image7| image:: ./marketplace/image8.png
-   :width: 6.50515in
-   :height: 2.04167in
+
 .. |image8| image:: ./marketplace/image4.png
-   :width: 6.50515in
-   :height: 3.375in
+
 .. |image9| image:: ./marketplace/image1.png
-   :width: 6.50515in
-   :height: 3.375in
