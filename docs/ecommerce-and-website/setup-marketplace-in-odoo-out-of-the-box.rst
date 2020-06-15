@@ -132,10 +132,10 @@ Access the video at https://www.youtube.com/watch?v=8J2OfV5i6FM
     <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/8J2OfV5i6FM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
 
-..note:: If you have any security errors while accessing sales orders please
+.. note:: If you have any security errors while accessing sales orders please
 remove the company from all contacts and try.
 
-..note:: Use Administrator users instead of system users on the inter-company
+.. tip:: Use Administrator user instead of system user on the inter-company
 settings.
 
 |image2|
