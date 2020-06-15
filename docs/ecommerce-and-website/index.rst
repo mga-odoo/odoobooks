@@ -35,3 +35,4 @@ Sales and Payment
 
    create_automatic_invoice_payment_match_payment.rst
    sell_subscription_online.rst
+   setup-marketplace-in-odoo-out-of-the-box.rst
