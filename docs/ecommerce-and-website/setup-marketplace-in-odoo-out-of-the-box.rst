@@ -32,8 +32,8 @@ and clear with the Odoo apps using the out-of-the-box approach.
 =============================== ================================
 **Product Name**                **Supplied by Vendor**
 =============================== ================================
-Infrared Thermometer Gun        Hangzhou Realwayto Industry Ltd.
-New Design Electric Hammer Nail Nantong Dongke Tools Co, Ltd.
+Infrared Thermometer Gun        Supplier A
+New Design Electric Hammer Nail Supplier B
 =============================== ================================
 
 There are thousands of products listed on the marketplace but for an
@@ -86,8 +86,8 @@ configuration is to create the companies required.
 Company Name
 ================================ ======================================
 Magickart Limited                Change the name of the default company
-Hangzhou Realwayto Industry Ltd. Create a new new company
-Nantong Dongke Tools Co, Ltd.    Create a new new company
+Supplier A                       Create a new new company
+Supplier B                       Create a new new company
 ================================ ======================================
 
 In order to set up the accounting application and load the chart of
@@ -95,7 +95,7 @@ accounts for each company, please go through the below video and load
 the chart of accounts for each company.
 
 Video
------
+~~~~~
 Setup chart of accounts for multiple companies
 
 Access the video at https://www.youtube.com/watch?v=I8ImxGA501k
@@ -121,7 +121,7 @@ video to set up and test the inter-company sales and purchase order
 synchronization.
 
 Video
------
+~~~~~
 Inter-company sales and purchase order synchronization
 
 Access the video at https://www.youtube.com/watch?v=8J2OfV5i6FM
@@ -201,7 +201,7 @@ how customers have great experience to checkout the product and check
 the status of the order, invoice and delivery.
 
 Video
------
+~~~~~
 Access the video at https://www.youtube.com/watch?v=D4EBmOjIS70
 
 .. raw:: html
