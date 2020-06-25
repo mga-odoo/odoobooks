@@ -6,6 +6,7 @@
    :maxdepth: 1
 
    print-customer-ledger.rst
+   customer-follow-up-for-due-invoices.rst
 
    .. record_customer_payment.rst
    .. track_customer_check.rst
