@@ -177,10 +177,10 @@ latex_documents = [
 ]
 
 man_pages = [
-    (pdf_master_doc, 'OdooBook', project, [author], 1)
+    (pdf_master_doc, 'OdooBook', 'Odoo 13 Best Practices Book', [author], 1)
 ]
 
 texinfo_documents = [
-    (pdf_master_doc, 'odooonlinebook', project, author, 'odooonlinebook',
+    (pdf_master_doc, 'odooonlinebook', 'Odoo 13 Best Practices Book', author, 'odooonlinebook',
         'Odoo 13 Best Practices Book', 'Miscellaneous'),
 ]
