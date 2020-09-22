@@ -23,7 +23,7 @@ Financial Accounting, and Manufacturing.
 .. note:: Please comment on the page below, if you have any question related to
   that topic, you can also propose new topics you would like to have on the book.
 
-  You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
+  You can subscribe to `Youtube <https://www.youtube.com/channel/UCX4UHpNrqjyp2Sr1de-c5Pg>`_
   channel to receive an instance update about the new videos and pages on this book.
 
 Search the topics by :ref:`genindex` or start reading the book by :ref:`toc`.
