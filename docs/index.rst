@@ -7,15 +7,15 @@
    single: Home
 
 .. meta::
-  :description: Odoo 13 Best Practices
+  :description: Odoo 14 Best Practices
   :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 12.0
 
-Odoo 13 Best Practices
+Odoo 14 Best Practices
 ======================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
-**Odoo 13 Best Practices Book** is an online book written based on
+**Odoo 14 Best Practices Book** is an online book written based on
 Community and Enterprise Edition. This book covers best implementation practice
 for most used applications such as Sales, Purchase, Inventory, 
 Financial Accounting and Manufacturing.

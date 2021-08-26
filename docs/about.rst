@@ -1,27 +1,27 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo 13 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :description: Title: Odoo 14 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
    :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
-   single: Odoo 13 Best Practices
+   single: Odoo 14 Best Practices
    single: About Author
    single: About Reviewer
 
 ============================
-About Odoo 13 Best Practices
+About Odoo 14 Best Practices
 ============================
 
-.. image:: images/odoo-13-book-small.png
+.. image:: images/odoo-14-book-small.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo 13 Best Practices
+   :alt: Odoo 14 Best Practices
    :align: right
 
-Odoo 13 Best Practices book is dedicated for functional consultants
+Odoo 14 Best Practices book is dedicated for functional consultants
 or entrepreneur who wants to implement or use odoo online all-in-one business
 
 application out-of-the box. This is an online book written based on Odoo
