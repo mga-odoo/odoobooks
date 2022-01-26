@@ -7,13 +7,14 @@
 ==================================================
 Create first customer invoice and register payment
 ==================================================
+Users can also create invoices manually without using contracts or a sales order. It's a recommended approach if you do not need to manage the sales process (quotations), or the delivery of the products or services.
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=rCOaO26xM68
+Access the video at https://www.youtube.com/watch?v=BtfBAHuHIyg
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/rCOaO26xM68" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/BtfBAHuHIyg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
