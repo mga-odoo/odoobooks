@@ -7,10 +7,10 @@
    single: Home
 
 .. meta::
-  :description: Odoo 14 Best Practices
-  :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 12.0
+  :description: Odoo 15 Best Practices
+  :keywords: Odoo Book, Odoo Online, Online Odoo Book, Odoo Functional Book, Version 15.0
 
-Odoo 14 Best Practices
+Odoo 15 Best Practices
 ======================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
@@ -23,7 +23,7 @@ Financial Accounting and Manufacturing.
 .. note:: Please comment on the page below, if you have any question related to
   that topic, you can also propose new topics you would like to have on the book.
 
-  You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
+  You can subscribe to `Youtube <https://www.youtube.com/channel/UCX4UHpNrqjyp2Sr1de-c5Pg>`_
   channel to receive an instance update about the new videos and pages on this book.
 
 Search the topics by :ref:`genindex` or start reading the book by :ref:`toc`.
