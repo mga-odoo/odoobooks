@@ -1,24 +1,24 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo 14 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :description: Title: Odoo 15 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
    :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
-   single: Odoo 14 Best Practices
+   single: Odoo 15 Best Practices
    single: About Author
    single: About Reviewer
 
 ============================
-About Odoo 14 Best Practices
+About Odoo 15 Best Practices
 ============================
 
-.. image:: images/odoo-14-book-small.png
+.. image:: images/odoo-15-book-small.jpg
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo 14 Best Practices
+   :alt: Odoo 15 Best Practices
    :align: right
 
 Odoo 14 Best Practices book is dedicated for functional consultants
@@ -68,7 +68,7 @@ Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 Updates
 =======
-You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
+You can subscribe to `Youtube <https://www.youtube.com/channel/UCX4UHpNrqjyp2Sr1de-c5Pg>`_
 channel to receive an instance update about the new videos and pages on this book.
 
 You can follow `Twitter <https://www.twitter.com/mantavyagajjar>`_ channel
@@ -77,7 +77,7 @@ to get the updates about the book.
 About the Author
 ================
 
-Mantavya Gajjar has 12+ years’ experience in Odoo, starting from TinyERP
+Mantavya Gajjar has 15 years’ experience in Odoo, starting from TinyERP
 and OpenERP. He started his career as a developer, he developed many new
 features in TinyERP, OpenERP and Odoo. He has graduate and postgraduate
 degrees in Computer Applications from Gujarat Vidyapith. In June 2006,
@@ -118,7 +118,7 @@ team at Odoo (India) for the upcoming versions. Nikunj is an open source
 enthusiast who has given 35+ international functional
 trainings/consultancies to Odoo partners, prospects, and end customers.
 
-Nikunj has a total of 10 years of IT experience, and his specialties
+Nikunj has a total of 14 years of IT experience, and his specialties
 include training, consultancy, analysis, project management, usability,
 and testing new features of Odoo.
 
@@ -129,7 +129,6 @@ The Odoo online book covers the implementation best practices and
 approach to configure the business applications out-of-the-box. With
 this approach you can configure your Odoo online instance or Odoo.sh or
 locally installed Odoo on your server.
-
 
 Page structure
 ==============
@@ -165,7 +164,7 @@ Video
 This section gives you a link on the PDF or embedded videos on the
 online book, that shows you the detailed configuration steps and the
 steps to execute the business case. You can get access to all the videos
-used in this book at `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_.
+used in this book at `Youtube <https://www.youtube.com/channel/UCX4UHpNrqjyp2Sr1de-c5Pg>`_.
 
 See also
 --------
