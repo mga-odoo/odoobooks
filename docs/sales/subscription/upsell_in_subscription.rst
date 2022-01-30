@@ -5,18 +5,18 @@
    :keywords: Subscription, Upsell, Prorate Base
 
 .. index::
-   single: Increase quantity (prorate base) in subscription
+   single: Up-sell subscription prorate base
 
-====================================================================================
-Increase quantity (prorate base) in subscription during middle of the month - upsell
-====================================================================================
+=================================
+Up-sell subscription prorate base
+=================================
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=Cf0dAwhU7Co
+Access the video at https://www.youtube.com/watch?v=eBuJO3oYFu0
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/Cf0dAwhU7Co" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/watch?v=eBuJO3oYFu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
