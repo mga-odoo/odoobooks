@@ -9,10 +9,10 @@ Setup and use payment terms - 50% advance, balance in 30 days
 
 Video
 -----
-Access the video at https://www.youtube.com/watch?v=lagIgJBW-r4
+Access the video at https://www.youtube.com/watch?v=WR9vjz_3I5Q
 
 .. raw:: html
 
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="https://www.youtube.com/embed/lagIgJBW-r4" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
+    <div style="text-align: center; margin-bottom: 2em;">
+    <iframe width="100%" class="youtube-video" src="https://www.youtube.com/embed/WR9vjz_3I5Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
