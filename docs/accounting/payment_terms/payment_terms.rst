@@ -7,6 +7,10 @@
 Setup and use payment terms - 50% advance, balance in 30 days
 =============================================================
 
+Business Case
+-------------
+A regular customer needs payment term to pay the invoice.
+
 Video
 -----
 Access the video at https://www.youtube.com/watch?v=WR9vjz_3I5Q
