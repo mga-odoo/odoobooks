@@ -1,34 +1,43 @@
 .. _about:
 
 .. meta::
-   :description: Title: Odoo 15 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
-   :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo Version 12.0, Mantavya, Gajjar
+   :description: Title: Odoo 17 Best Practices, Author: Mantavya Gajjar, Category: Books, Price: Free
+   :keywords: Odoo Online Book, Odoo Functional Book, Odoo CookBook, Implement Odoo, Mantavya, Gajjar
 
 .. index::
    single: About Online Book
-   single: Odoo 15 Best Practices
+   single: Odoo 17 Best Practices
    single: About Author
    single: About Reviewer
 
-============================
-About Odoo 15 Best Practices
-============================
+==============
+About The Book
+==============
 
-.. image:: images/odoo-15-book-small.jpg
+.. image:: images/odoo-17-book-title.png
    :height: 300px
    :width: 240 px
    :scale: 100 %
-   :alt: Odoo 15 Best Practices
+   :alt: Odoo 17 Best Practices
    :align: right
 
-Odoo 14 Best Practices book is dedicated for functional consultants
-or entrepreneur who wants to implement or use odoo online all-in-one business
+**Mastering Odoo: A Comprehensive Guide to Successful Implementation** is the ultimate resource for individuals and businesses seeking to harness the full potential of Odoo, the powerful and flexible open-source ERP system. This comprehensive guide takes readers on a step-by-step journey, providing expert insights, practical advice, and hands-on techniques for a seamless Odoo implementation.
 
-application out-of-the box. This is an online book written based on Odoo
-**Community** and **Enterprise** Edition.
+From understanding the fundamentals to advanced customization and optimization, this book covers every aspect of implementing Odoo with precision and success. Whether you are a business owner, project manager, consultant, or developer, "Mastering Odoo" equips you with the knowledge and skills needed to leverage Odoo's capabilities and drive business growth.
 
-This book covers best implementation approach for most used applications
-such as Sales, Purchase, Inventory, Financial Accounting and Manufacturing.
+Key Features
+============
+
+- **Comprehensive Coverage**: Gain a deep understanding of Odoo's architecture, modules, and functionalities, empowering you to make informed decisions during the implementation process.
+- **Best Practices and Strategies**: Learn proven techniques and strategies from experienced Odoo professionals to ensure a smooth implementation, optimize workflows, and maximize the system's potential.
+- **Step-by-Step Approach**: Follow a structured, step-by-step approach that guides you through the entire implementation process, from planning and configuration to customization, data migration, and post-implementation support.
+- **Real-World Examples**: Benefit from real-world use cases and examples that illustrate how Odoo can be customized and tailored to meet specific business requirements across various industries.
+- **Practical Tips and Tricks**: Discover valuable tips, tricks, and troubleshooting techniques that will help you overcome challenges and ensure a successful implementation.
+- **User Adoption and Training**: Learn how to effectively train users, promote user adoption, and manage change to ensure a smooth transition and maximize the benefits of implementing Odoo.
+- **Performance Optimization and Scalability**: Explore techniques to optimize the performance of your Odoo instance and scale it to accommodate growing business needs.
+- **Continuous Improvement**: Understand the importance of continuous improvement and explore strategies for enhancing and upgrading your Odoo implementation as your business evolves.
+
+With its comprehensive coverage and practical approach, "Mastering Odoo" empowers readers to implement, customize, and optimize Odoo ERP with confidence. Whether you are a small business looking to streamline operations or an enterprise seeking a robust ERP solution, this book is your go-to guide for harnessing the power of Odoo and achieving successful implementation.
 
 Why this book?
 ==============
@@ -77,7 +86,7 @@ to get the updates about the book.
 About the Author
 ================
 
-Mantavya Gajjar has 15 years’ experience in Odoo, starting from TinyERP
+Mantavya Gajjar has 17 years’ experience in Odoo, starting from TinyERP
 and OpenERP. He started his career as a developer, he developed many new
 features in TinyERP, OpenERP and Odoo. He has graduate and postgraduate
 degrees in Computer Applications from Gujarat Vidyapith. In June 2006,
