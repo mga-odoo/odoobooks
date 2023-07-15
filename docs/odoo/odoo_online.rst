@@ -64,7 +64,6 @@ Conclusion
 Congratulations on creating your Odoo Online instance! You are now ready to start using Odoo in the cloud and leverage its powerful features for your business. Refer to the documentation and resources mentioned above to further explore the capabilities of Odoo Online and make the most out of your instance.
 
 
-
 .. toctree::
    :maxdepth: 1
 
