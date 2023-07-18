@@ -54,7 +54,7 @@ Access the video at https://www.youtube.com/watch?v=4lKGyoTopm8
 
 .. raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/4lKGyoTopm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="700" height="394" src="https://www.youtube.com/embed/4lKGyoTopm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 Conclusion
