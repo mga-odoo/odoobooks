@@ -1,6 +1,6 @@
 
 .. index::
-   single: Organize the pipeline
+   single: Organize sale pipeline
 
 .. toctree::
    :titlesonly:

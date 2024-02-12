@@ -26,15 +26,15 @@ Financial Accounting and Manufacturing.
   You can subscribe to `Youtube <https://www.youtube.com/channel/UCX4UHpNrqjyp2Sr1de-c5Pg>`_
   channel to receive an instance update about the new videos and pages on this book.
 
-Search the topics by :ref:`genindex` or start reading the book by :ref:`toc`.
+Search the topics by :ref:`genindex`.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    about.rst
-   odoo/index.rst
    odoo/odoo_online.rst
-   .. crm/index.rst
+   crm/index.rst
+   
    .. sales/index.rst
    .. accounting/index.rst
    .. inventory/index.rst
